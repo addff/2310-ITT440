@@ -1,7 +1,7 @@
 # SITI
 ## ITT440 - 10% Individual Assignment
 
-### 
+### PARAMIKO
 PARAMIKO (Network Automation and Programmability Abstraction Layer with
 Multivendor Support) is a library that abstracts the complexities of working
 with various network devices and provides a consistent interface for managing
