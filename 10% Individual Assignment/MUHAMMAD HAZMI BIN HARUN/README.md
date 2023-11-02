@@ -81,16 +81,19 @@ Here are some of the key significances and benefits:
 
 Here are the step-by-step instructions on how to use:
 1. Import telnetlib: To get started, you need to import the telnetlib module in your Python script, write code 
+
 		import telnetlib
 
-2. Create a Telnet Connection: You should create a Telnet connection by specifying the hostname or IP address and the port number. 
+3. Create a Telnet Connection: You should create a Telnet connection by specifying the hostname or IP address and the port number. 
    You can also set a timeout value to handle network delays, write code 
+
 		tn = telnetlib.Telnet("hostname_or_ip", port, timeout)
    
    Replace "hostname_or_ip" with the address of the remote device you want to connect to and port with the Telnet port.
    
-3. Log in to the Remote System: To log in to the remote system, you'll need to send your login credentials (username and password) 
-   to the device. Write code 
+4. Log in to the Remote System: To log in to the remote system, you'll need to send your login credentials (username and password) 
+   to the device. Write code
+   
 		tn.read_until(b"login: ")
 		tn.write(b"your_username\n")
 		tn.read_until(b"Password: ")
@@ -98,26 +101,30 @@ Here are the step-by-step instructions on how to use:
 		
    Replace "your_username" and "your_password" with your actual login credentials.
    
-4. Interact with the Remote Device: You can send commands to the remote device and receive responses using the write and read_until methods.
+6. Interact with the Remote Device: You can send commands to the remote device and receive responses using the write and read_until methods.
 	Write code:
+
 		tn.write(b"command\n")
 		response = tn.read_until(b"prompt")
 		
 	Replace "command" with the specific command you want to execute, and "prompt" with the expected prompt or string that 
 	indicates the end of the command's response.
 		
-5. Process and Display the Response: You can process and display the response from the remote device as needed for your task.
+8. Process and Display the Response: You can process and display the response from the remote device as needed for your task.
 	Write code:
+
 		print(response.decode("utf-8"))
 		
 	The decode("utf-8") method is used to convert the binary response to a human-readable string.
 	
-6. Close the Telnet Connection: Always close the Telnet connection when you are done to release resources and properly terminate the session:
+10. Close the Telnet Connection: Always close the Telnet connection when you are done to release resources and properly terminate the session:
+    
 		tn.close()
 		
-7. Handle Exceptions: Be sure to implement error handling and exception handling in your script to deal with potential issues, such as 
+11. Handle Exceptions: Be sure to implement error handling and exception handling in your script to deal with potential issues, such as 
 network errors, login failures, or timeouts. You can use try-except blocks to capture exceptions and take appropriate actions.
 	Write code:
+
 		import telnetlib
 
 		hostname = "example.com"
