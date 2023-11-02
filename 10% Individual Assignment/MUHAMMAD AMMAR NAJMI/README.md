@@ -37,14 +37,14 @@ and integration with popular debuggers like pdb and IPython.
  
  
  
-#Flask
+# Flask
 
 Flask is a lightweight web framework for Python that is designed to make it easy to build web applications.
 It is often referred to as a "micro" framework because it provides the essentials for building web applications 
 without imposing a lot of predefined structure or libraries on the developer. Flask gives you the flexibility to choose 
 the components and extensions you want to use, allowing you to build web applications that suit your specific needs.
  
-##Significance of Flask.
+## Significance of Flask.
 
 The significance of Flask is Lightweight and Minimalistic: Flask is often described as a "micro" framework because it provides 
 the essential components for building web applications without imposing a lot of predefined structure or libraries. This minimalistic
@@ -54,7 +54,7 @@ and experienced developers. Its small and clear codebase makes it an excellent c
 Flask applications can be deployed on a variety of web servers, such as Gunicorn, uWSGI, or behind a reverse proxy like Nginx or Apache. This flexibility 
 allows you to choose the deployment method that best suits your needs.
 
-#How to Use Flask.
+### How to Use Flask.
 
 
 
@@ -67,7 +67,7 @@ allows you to choose the deployment method that best suits your needs.
 
 
 
-#NCClient
+# NCClient
 
 NCClient is a Python library designed for network engineers and developers working with network devices that support the NETCONF (Network Configuration Protocol) 
 or YANG (Yet Another Next Generation) data modelling. NETCONF is a network management protocol used to configure and manage network devices in a standardized way, and 
@@ -76,7 +76,7 @@ network engineers can create scripts and automation workflows that streamline th
 It is a valuable tool in the field of network automation and programmability, particularly for organizations that are adopting Software-Defined Networking (SDN) principles and 
 need to manage their network infrastructure programmatically.
 
-##Significance of NCClient.
+## Significance of NCClient.
 
 The significance of NCClient is NETCONF support. NCClient s specifically designed to work with the NETCONF protocol. NETCONF is a network management protocol that allows for the configuration 
 and management of network devices in a standardized, vendor-agnostic way. This is crucial for network automation and consistent configuration of network equipment.Next, Network automation. Network engineers 
@@ -84,4 +84,4 @@ and administrators can use ncclient to automate the configuration, provisioning,
 After that, Secure Communication.  NETCONF typically uses SSH for secure communication, and ncclient provides built-in support for SSH, ensuring secure and authenticated access to network devices.Furthermore, 
 operational data Retrieval. NCClient allows for the retrieval of operational data from network devices, which is important for monitoring and troubleshooting network issues.
 
-#How to Use NCClient.
+### How to Use NCClient.
