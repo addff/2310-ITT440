@@ -1,5 +1,6 @@
 # 2310-ITT440
-## 10% Individual Assignment
+## Assesment 1 - 10% Individual Assignment
+## TITLE: PYTHON FOR NETWORK ENGINEER
 ## Name: Nisrina Syakirah Binti Salleh
 ## Matric Num: 2022977813
 ## Group: M3CS2554A
