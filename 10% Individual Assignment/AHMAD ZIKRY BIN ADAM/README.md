@@ -17,21 +17,17 @@ Pygame is a popular and versatile Python library used for developing 2D games, m
 3) Significant of PyGame.
 Pygame holds significance in the world of game development and Python programming for several reasons:
 
-1.Simplicity and Accessibility: It provides an accessible and relatively easy-to-understand set of tools for creating games. This simplicity makes it an excellent starting point for beginners in game development.
+i.   Simplicity and Accessibility: It provides an accessible and relatively easy-to-understand set of tools for creating games. This simplicity makes it an excellent starting point for beginners in game development.
 
-2.Cross-Platform Compatibility: Pygame works across different platforms (Windows, macOS, and Linux), allowing developers to create games that can run on various operating systems without major modifications.
+ii.  Cross-Platform Compatibility: Pygame works across different platforms (Windows, macOS, and Linux), allowing developers to create games that can run on various operating systems without major modifications.
 
-3. Community and Resources: It has a robust and supportive community, providing a wealth of tutorials, documentation, and examples. This abundance of resources helps beginners learn and offers support for more experienced developers.
+iii. Community and Resources: It has a robust and supportive community, providing a wealth of tutorials, documentation, and examples. This abundance of resources helps beginners learn and offers support for more experienced developers.
 
-4.Versatility: Pygame is not just limited to game development. While primarily used for games, it can also be used to create other interactive applications, simulations, or multimedia projects.
+iv.  Versatility: Pygame is not just limited to game development. While primarily used for games, it can also be used to create other interactive applications, simulations, or multimedia projects.
 
-Abstraction of Complexity: Pygame abstracts complex functionalities related to graphics, sound, and event handling. This allows developers to focus more on game logic and design without having to deal directly with lower-level details.
+v.   Abstraction of Complexity: Pygame abstracts complex functionalities related to graphics, sound, and event handling. This allows developers to focus more on game logic and design without having to deal directly with lower-level details. 
 
-Performance: While not as powerful as some game-specific engines, Pygame provides a good balance between ease of use and performance for many 2D game projects.
-
-Integration with Python: As Python is known for its simplicity and readability, Pygame inherits these qualities. It makes game development more approachable by leveraging Python's syntax and features.   
-
-4) PyGame's Demostration
+3) PyGame's Demostration
 
 ### LIBRARY
 
@@ -47,6 +43,12 @@ Spacy:
 Ninja IDE:
 
 1) What is Ninja IDE?
+Ninja-IDE (Ninja Is Not Just Another IDE) is an open-source integrated development environment (IDE) designed primarily for Python developers. It offers a range of features and tools aimed at simplifying the development process, including code highlighting, completion, and refactoring. Ninja-IDE aimed to provide a lightweight, yet feature-rich environment for Python development. However, it's worth noting that development on Ninja-IDE slowed down in recent years, and as of my last knowledge update in January 2022, the project might not have the same level of active development or support as other more widely-used IDEs like PyCharm, Visual Studio Code, or Atom. Developers might want to consider the current status and community support before choosing Ninja-IDE for their projects.
+   
 2) Description of Ninja IDE.
+Ninja-IDE, short for "Ninja Is Not Just Another IDE," is an open-source integrated development environment primarily tailored for Python developers. It was created with the intention of providing a lightweight yet functional environment for Python programming. Ninja-IDE, though focused on Python, supports other programming languages as well. However, it was more tailored to cater to the Python development community with tools and features specifically designed for Python coding.
+
 3) Significant of Ninja IDE.
+The goal behind the Ninja-IDE is to show how full-featured IDE can assist in development of powerful feature-rich software, being free and with open source code at the same time. Ninja-IDE has powerful and highly configurable code editor with highlighting support for several languages.
+  
 4) Ninja IDE's Demostration
