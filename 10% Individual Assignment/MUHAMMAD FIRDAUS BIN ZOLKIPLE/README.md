@@ -1,10 +1,10 @@
 # MUHAMMAD FIRDAUS BIN ZOLKIPLE (2022909737)
  
 
-#ITT440 - 10% Individual Assignment
- test
+# ITT440 - 10% Individual Assignment
 
-#PANDAS
+
+# PANDAS
 	Pandas stands as a potent open-source Python library specifically designed to handle, analyze, and transform data efficiently. 
 This library offers an array of data structures and tools tailored for manipulating, preparing, and analyzing diverse data sets. 
 It includes structures like Series, which mirrors a single row or column of data, akin to network attributes, and the more comprehensive DataFrame, 
@@ -13,8 +13,9 @@ accessing, and selecting data elements, handling missing or duplicate data insta
 The library's proficiency in data manipulation, coupled with its compatibility for reading and writing various data formats, renders it an indispensable asset for network data visualization and interpretation,
 aligning seamlessly with the practices and requirements of a network student dealing with structured information flow and analysis.
 
-#Advantages of Pandas.
-	#1.Data Structures
+## Advantages of Pandas.
+	
+	#1. Data Structures
 	Pandas introduces two primary data structures: Series (1-dimensional) and DataFrame (2-dimensional). 
 These structures are highly efficient and offer flexibility in handling structured data, allowing for 
 easy manipulation and analysis.
@@ -35,10 +36,12 @@ aggregations, and descriptive statistics, making it easier to gain insights and 
 	Pandas facilitates combining datasets by merging or joining, similar to SQL database operations.
 This is helpful when working with multiple datasets or tables.
 
-#How to Use Pandas
+	#
+
+## How to Use Pandas
 
 
-#BOTTLE
+# BOTTLE
 	Think of the Bottle framework as a simple and lightweight tool in the world of web development, designed to help you build small web applications using Python.
 Imagine you're dealing with networks where you're connecting different devices together to share information. 
 Similarly, in web development, you're creating connections between web pages and users.In this context, Bottle acts like a set of tools that help you create these connections in a straightforward way. 
@@ -50,7 +53,7 @@ much like configuring a small, specific network without using overly advanced or
 
 
 
-#SPYDER
+# SPYDER
 	Spyder is an open source integrated development environment (IDE) specifically designed for scientific programming in Python. 
 The name “Spyder” stands for “PYthon Scientific Development Environment”. It is a powerful tool for data science, 
 numerical calculations and scientific research in various fields. While Spyder is primarily designed for scientific programming,
