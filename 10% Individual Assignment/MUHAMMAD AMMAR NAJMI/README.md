@@ -3,12 +3,12 @@
 # Assessment 1 (10%): Individual Assignment.
 
 
-
+cccc
 
 
 # Do find 1 Editor/IDE in Python
 
-#PyCharm: 
+# PyCharm: 
 PyCharm is a robust and feature-rich IDE created especially for Python development. 
 It offers cutting-edge debugging features, advanced code support, and integration 
 with other development frameworks and tools. The features PyCharm offers include 
@@ -16,7 +16,7 @@ code navigation, refactoring, version control integration,and support for virtua
 environments. Both a free Community Edition and a paid Professional Edition with 
 further features are offered.
 
-#Significance of PyCharm.
+## Significance of PyCharm.
 The significance of PyCharm is about Code assistance. PyCharm provides intelligent 
 code completion, code inspection, and quick fixes, which help developers write clean 
 and error-free Python code. It offers suggestions and auto-completions based on the 
