@@ -4,6 +4,7 @@
 Editor: IDE for python
 
 ###EMACS 
+
 Emacs is a text editor that is highly extensible and customizable. 
 It is written in the Emacs Lisp programming language, 
 which allows users to write their own extensions and commands to tailor Emacs to their specific needs.
