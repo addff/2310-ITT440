@@ -33,6 +33,7 @@ It covers all of the key components of Emacs and is clearly laid out and easy to
 Framework:
 
 ###DOOM EMACS 
+
 Doom Emacs is a configuration framework for GNU Emacs. It is designed to be easy to use and customize, 
 and also provides a wide range of features and functionality out of the box.
 Doom Emacs is built on top of the Spacemacs configuration framework, but it makes a number of changes and improvements.
@@ -56,6 +57,7 @@ and also alter the configuration, and adjust the keybindings.
 
 Library:
 ###MAGIT
+
 Magit is an Emacs library for Git integration. It offers a great feature set for working with Git sources.
 
 MAGIT Significance
