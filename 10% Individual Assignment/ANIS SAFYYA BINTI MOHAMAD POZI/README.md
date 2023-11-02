@@ -4,7 +4,7 @@
 =======================================================================================
 ### EDITOR
 
-####KDEVELOP
+#### KDEVELOP
 
 1. WHAT IS KDEVELOP
 KDevelop  is  a  powerful and versatile IDE that offers  a  wide  range of features for 
