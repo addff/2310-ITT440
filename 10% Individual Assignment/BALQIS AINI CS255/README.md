@@ -1,12 +1,11 @@
 #### 2310-ITT440
 #### NAME:  BALQIS AINI BINTI MUHAMMAD BAKHIT (2022340777) 
 #### TITLE: PHYTON FOR NETWORK ENGINEER
-
 #### OBJECTIVE
 To discuss existing tools and library in phyton that can help Network Engineer
 
 #### Editor:Eric Phyton IDE
-Eric IDE is a robust integrated development environment designed for Python. It offers a comprehensive set of features, including a syntax-highlighting code editor, debugging capabilities, project management tools, and version control integration, making it a valuable resource for Python developers. Cross-platform compatibility ensures that it can be used on Windows, macOS, and Linux. With its extensible plugin system, developers can customize their workflows and expand functionality. Additionally, Eric IDE is open source, providing the freedom to modify and adapt it to specific project requirements.
+Eric is an open-source integrated development environment written and a full featured Python editor and IDE, written in Python. It is based on the cross platform Qt UI toolkit, integrating the highly flexible Scintilla editor control. It is designed to dirty editor as well as being usable as a professional project management tool integrating many advanced features Python offers the professional coder. Eric includes a plug-in system, which allows easy extension of the IDE functionality with plug-ins downloadable from the net. 
 
 Reason to use:
 Eric Python IDE is a versatile and cross-platform development environment for Python. It's known for its robust features, tight integration with PyQt, built-in debugger, version control support, code completion, and customization options. It's free, open source, and actively maintained. Eric IDE is a solid choice for Python developers, especially those working on GUI applications.
