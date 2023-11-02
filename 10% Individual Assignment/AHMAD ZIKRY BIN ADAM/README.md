@@ -27,7 +27,7 @@ iv.  Versatility: Pygame is not just limited to game development. While primaril
 
 v.   Abstraction of Complexity: Pygame abstracts complex functionalities related to graphics, sound, and event handling. This allows developers to focus more on game logic and design without having to deal directly with lower-level details. 
 
-3) PyGame's Demostration
+4) PyGame's Demostration
 
 ### LIBRARY
 
