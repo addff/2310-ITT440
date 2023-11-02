@@ -3,7 +3,7 @@
 ## ITT440 - 10% Individual Assignment
 
 
-1. Library/Module in Python created for Network Engineer
+*** Library/Module in Python created for Network Engineer ***
 ### TEXTFSM
 
 A Python package called TextFSM is used to parse semi-structured text into tables in 
@@ -17,7 +17,7 @@ that, TextFSM extracts the data from the text input using the template and retur
 as a list of Python dictionaries.
 
 
-2. Template/Framework in Python
+*** Template/Framework in Python ***
 ### NORNIR
 
 Nornir is a Python framework used for network automation. In addition to 
@@ -34,8 +34,7 @@ ones like gathering device data to more intricate ones like installing new confi
 or debugging network issues, can be automated with it.
 
 
-
-3. Editor/IDE in Python
+*** Editor/IDE in Python ***
 ### VIM
 
 Vim is an advanced text editor that aims to offer an additional feature set 
