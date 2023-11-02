@@ -15,28 +15,28 @@ aligning seamlessly with the practices and requirements of a network student dea
 
 ## Advantages of Pandas.
 	
-	###1. Data Structures
+	### 1.Data Structures
 	
 	Pandas introduces two primary data structures: Series (1-dimensional) and DataFrame (2-dimensional). 
 	These structures are highly efficient and offer flexibility in handling structured data, allowing 
 	for easy manipulation and analysis.
 
-	###2. Data cleaning and Preparation.
+	### 2.Data cleaning and Preparation.
 	
 	It provides various tools to clean and prepare messy data. With functions for handling missing data,
 	reshaping data, and converting data types, Pandas streamlines the process of getting data ready for analysis.
 	
-	###3.Data Filtering and Selection
+	### 3.Data Filtering and Selection
 	
 	Pandas allows for intuitive slicing, indexing, and subsetting of data. This is particularly useful for
 	extracting specific portions of data or performing conditional operations.
 
-	###4. Data Analysis and Exploration
+	### 4.Data Analysis and Exploration
 	
 	The library offers functionalities for statistical and mathematical operations on data. It enables calculations,
 	aggregations, and descriptive statistics, making it easier to gain insights and understand the data.
 
-	###5. Data Joining and Merging
+	### 5.Data Joining and Merging
 	
 	Pandas facilitates combining datasets by merging or joining, similar to SQL database operations.
 	This is helpful when working with multiple datasets or tables.
