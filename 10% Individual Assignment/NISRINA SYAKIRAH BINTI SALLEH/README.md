@@ -4,8 +4,6 @@
 ## Matric Num: 2022977813
 ## Group: M3CS2554A
 
-
-
 1.	Do find 1 libraries/modules in Python created for Network Engineer.
 -	## Genie
 
@@ -15,15 +13,15 @@
 3.	Do find 3 editor/IDE for Python.
 -	## Google Colaboratory
 
-1.	Write the significance of all tools found.
+4.	Write the significance of all tools found.
 
--	# Genie
+-	## Genie
 Genie is a Python library designed and customized for automated web testing. It's easy to use and instantly gives engineers incredible insight into the health of their network. Essentially, using Genie CLI, engineers are able to collect and compare different snapshots of the state of the network, and perform automated comparisons to determine exactly what has changed.
 
--	# Jinja2
+-	## Jinja2
 A well-liked Python templating engine and framework for creating dynamic content, including HTML, XML, and other markup languages, is called Jinja2. Although it can be used alone for different templating purposes, it is extensively utilized in web development frameworks such as Flask and Django.
 
--	# Google Colaboratory
+-	## Google Colaboratory
 Google Colaboratory, or Google Colab, is a web-based development environment allowing users to run and write code in Python. It is free of cost environment provided by Google that enables users to execute code, save and share notebooks, and collaborate with others in real time. It can also be directly put into GitHub. In this lesson, we'll look closely at Google Colab and explore some of its features.
 
 5.	Reason to use all tools found. 
