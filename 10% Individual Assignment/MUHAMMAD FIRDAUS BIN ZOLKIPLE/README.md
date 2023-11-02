@@ -4,7 +4,7 @@
 # ITT440 - 10% Individual Assignment
 
 
-# PANDAS
+## PANDAS
 	Pandas stands as a potent open-source Python library specifically designed to handle, analyze, and transform data efficiently. 
 This library offers an array of data structures and tools tailored for manipulating, preparing, and analyzing diverse data sets. 
 It includes structures like Series, which mirrors a single row or column of data, akin to network attributes, and the more comprehensive DataFrame, 
@@ -16,9 +16,7 @@ aligning seamlessly with the practices and requirements of a network student dea
 ## Advantages of Pandas.
 	
 	#1. Data Structures
-	Pandas introduces two primary data structures: Series (1-dimensional) and DataFrame (2-dimensional). 
-These structures are highly efficient and offer flexibility in handling structured data, allowing for 
-easy manipulation and analysis.
+	Pandas introduces two primary data structures: Series (1-dimensional) and DataFrame (2-dimensional). These structures are highly efficient and offer flexibility in handling structured data, allowing for easy manipulation and analysis.
 
 	#2. Data cleaning and Preparation.
 	It provides various tools to clean and prepare messy data. With functions for handling missing data,
