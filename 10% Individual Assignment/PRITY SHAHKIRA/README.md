@@ -1,5 +1,4 @@
-# 2310-ITT440
-## 20% Individual Assignment
+# 2310-ITT440 20% Individual Assignment
 
 ### Name: Prity Shahkira binti Nasrudin
 ### Matrics No: 2022923561  
