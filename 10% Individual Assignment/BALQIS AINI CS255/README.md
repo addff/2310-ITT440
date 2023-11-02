@@ -1,6 +1,6 @@
 #### 2310-ITT440
+#### NAME:  BALQIS AINI BINTI MUHAMMAD BAKHIT (2022340777) 
 #### TITLE: PHYTON FOR NETWORK ENGINEER
-#### BALQIS AINI BINTI MUHAMMAD BAKHIT (2022340777) 
 
 #### OBJECTIVE
 To discuss existing tools and library in phyton that can help Network Engineer
@@ -9,9 +9,13 @@ To discuss existing tools and library in phyton that can help Network Engineer
 Eric IDE is a robust integrated development environment designed for Python. It offers a comprehensive set of features, including a syntax-highlighting code editor, debugging capabilities, project management tools, and version control integration, making it a valuable resource for Python developers. Cross-platform compatibility ensures that it can be used on Windows, macOS, and Linux. With its extensible plugin system, developers can customize their workflows and expand functionality. Additionally, Eric IDE is open source, providing the freedom to modify and adapt it to specific project requirements.
 
 Reason to use:
-
+Eric Python IDE is a versatile and cross-platform development environment for Python. It's known for its robust features, tight integration with PyQt, built-in debugger, version control support, code completion, and customization options. It's free, open source, and actively maintained. Eric IDE is a solid choice for Python developers, especially those working on GUI applications.
 
 How to use: 
+
+
+
+
 
 
 #### Framework: Tkinter
@@ -25,6 +29,10 @@ How to use:
 
 
 
+
+
+
+
 #### Library: zeroMQ
 ZeroMQ, often known as ZMQ, is a high-performance messaging library tailored for building scalable, distributed, and asynchronous applications. It offers a wide array of communication patterns, including publish-subscribe and request-reply, making it suitable for various use cases. Lightweight and language-agnostic, ZeroMQ is implemented in multiple programming languages, and in Python, the pyzmq library facilitates its integration. It is commonly utilized in distributed systems, microservices, and parallel computing applications where low-latency, high-performance messaging is essential for seamless communication between system components.
 
@@ -32,5 +40,10 @@ Reason to use:
 ZeroMQ is a library for building distributed and scalable messaging systems. It uses sockets for communication. Here's a basic example of how to use ZeroMQ for basic communication between a publisher and a subscriber.
 
 How to use:
+
+
+
+
+
 
 
