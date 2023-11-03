@@ -9,7 +9,7 @@ To discuss existing tools and library in phyton that can help Network Engineer
 
 Eric is an open-source integrated development environment written and a full featured Python editor and IDE, written in Python. It is based on the cross platform Qt UI toolkit, integrating the highly flexible Scintilla editor control. It is designed to dirty editor as well as being usable as a professional project management tool integrating many advanced features Python offers the professional coder. Eric includes a plug-in system, which allows easy extension of the IDE functionality with plug-ins downloadable from the net. 
 
-Reason to use:
+Significance :
 Eric Python IDE is a versatile and cross-platform development environment for Python. It's known for its robust features, tight integration with PyQt, built-in debugger, version control support, code completion, and customization options. It's free, open source, and actively maintained. Eric IDE is a solid choice for Python developers, especially those working on GUI applications.
 
 How to use: 
