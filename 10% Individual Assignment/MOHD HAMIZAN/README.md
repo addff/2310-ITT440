@@ -11,21 +11,24 @@ GROUP		: M3CS2554A
 The Dash framework is an open-source Python library used for building analytical web applications.
 Developed by Plotly, Dash enables developers to create interactive, web-based data visualizations, 
 dashboards, and applications using Python.
-
-2. Description
 It's particularly useful for building data visualization tools and dashboards. With Dash, you can 
 use Python code to design and customize web-based graphs, charts, and other interactive elements 
 without needing to delve deeply into web development languages like HTML, CSS, or JavaScript.
 
 
 3. Significance
-Dash allows users to leverage their existing Python skills to build web-based applications. 
-Other that, : It enables the creation of interactive and customizable data visualizations, such 
+   
+i) Dash allows users to leverage their existing Python skills to build web-based applications. 
+
+ii) It enables the creation of interactive and customizable data visualizations, such 
 as graphs, charts, and dashboards, providing a way to communicate data insights effectively.
-It allows for quick prototyping and development of interactive web applications, saving time and effort
+
+iii) It allows for quick prototyping and development of interactive web applications, saving time and effort
 for developers who need to showcase their data analysis or models in a user-friendly format.
 
-4. Demonstrate
+iv) Dash has a growing community, providing ample resources, documentation, and support. This fosters a collaborative environment for developers to learn and share their knowledge.
+
+5. Demonstrate
  
 To use Dash on a Linux system, you'll need Python installed and then you can follow these steps:
 
