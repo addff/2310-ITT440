@@ -22,7 +22,6 @@ How to use:
 #### Framework: Tkinter
 ![download](https://github.com/addff/2310-ITT440/assets/146956790/75d52424-fc9e-45d7-97c4-e9e0bde5f5f1)
 
-
 Tkinter, a standard Python library, serves as a reliable framework for creating graphical user interfaces (GUIs). It equips developers with a versatile range of widgets for building desktop applications, including buttons, labels, entry fields, and text widgets. Since Tkinter is bundled with most Python installations, it simplifies the process of creating cross-platform applications. Event-driven and beginner-friendly, Tkinter allows developers to define event handlers for user interactions, enabling the development of both simple and complex GUI applications.
 
 Reason to use:
@@ -30,6 +29,7 @@ Tkinter is a Python library for creating GUI applications. Here's a simple examp
 
 How to use:
 
+[![Video Thumbnail](https://example.com/video-thumbnail.png)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
 
 
 [<img src = "https://www.flaticon.com/free-icon/video_4237818" width="500" height="300"/>](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
@@ -40,8 +40,7 @@ How to use:
 
 
 #### Library: zeroMQ
-
-
+![download](https://github.com/addff/2310-ITT440/assets/146956790/8d8c6658-4eca-46bd-98e8-dd37d9507415)
 
 ZeroMQ, often known as ZMQ, is a high-performance messaging library tailored for building scalable, distributed, and asynchronous applications. It offers a wide array of communication patterns, including publish-subscribe and request-reply, making it suitable for various use cases. Lightweight and language-agnostic, ZeroMQ is implemented in multiple programming languages, and in Python, the pyzmq library facilitates its integration. It is commonly utilized in distributed systems, microservices, and parallel computing applications where low-latency, high-performance messaging is essential for seamless communication between system components.
 
