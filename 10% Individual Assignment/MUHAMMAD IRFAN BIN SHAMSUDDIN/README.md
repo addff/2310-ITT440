@@ -103,7 +103,7 @@
 ### 2. What is the advantages for using this Komodo IDE?
 		> Multi-Language Support: Komodo IDE supports a wide range of programming languages,
  		making it versatile for developers who work with diverse technologies. This is particularly 
-  	beneficial for those who work on projects involving multiple languages.
+  		beneficial for those who work on projects involving multiple languages.
 
 		> Code Intelligence: The IDE provides advanced code intelligence features, including 
   		code completion, syntax highlighting, and code browsing. This enhances developer
@@ -115,7 +115,7 @@
 
 		> Version Control Integration: It integrates seamlessly with popular version control systems 
   		such as Git, Mercurial, and Subversion. This facilitates collaborative development by 
-	providing versioning and code repository management directly within the IDE.
+		providing versioning and code repository management directly within the IDE.
 
 		> Customization: Komodo IDE is highly customizable, allowing developers to tailor the environment 			to their preferences. This includes customizing themes, keyboard shortcuts, and other aspects of
   	the IDE for an optimized development experience.
