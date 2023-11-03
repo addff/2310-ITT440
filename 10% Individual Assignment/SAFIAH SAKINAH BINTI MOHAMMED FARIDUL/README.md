@@ -33,6 +33,7 @@ EDITOR
 
 Atom:
 
+![image](https://github.com/addff/2310-ITT440/assets/149042347/776a5ca2-5e37-4c9e-b755-71fe6ffc70ae)
 
 What is Atom?
 Atom is a free and open-source text and highly customizable source code editor for OS X, Linux, and Windows with support for plug-ins written in Node.js, developed by GitHub. Introduced in 2014, Atom swiftly garnered recognition within the developer community thanks to its extensibility, performance, and user-friendly interface. This report offers an insight into Atom's characteristics, capabilities, and its influence on the software development landscape.
