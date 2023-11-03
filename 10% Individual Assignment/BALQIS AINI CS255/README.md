@@ -20,7 +20,8 @@ How to use:
 
 
 #### Framework: Tkinter
-![download](https://github.com/addff/2310-ITT440/assets/146956790/75d52424-fc9e-45d7-97c4-e9e0bde5f5f1)
+![68747470733a2f2f7777772e7475746f7269616c616e646578616d706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f546b696e7465722d2545322538302539332d507974686f6e2e706e67](https://github.com/addff/2310-ITT440/assets/146956790/0975cefb-51e6-46a8-abff-46d6ab5c0f13)
+
 
 Tkinter, a standard Python library, serves as a reliable framework for creating graphical user interfaces (GUIs). It equips developers with a versatile range of widgets for building desktop applications, including buttons, labels, entry fields, and text widgets. Since Tkinter is bundled with most Python installations, it simplifies the process of creating cross-platform applications. Event-driven and beginner-friendly, Tkinter allows developers to define event handlers for user interactions, enabling the development of both simple and complex GUI applications.
 
