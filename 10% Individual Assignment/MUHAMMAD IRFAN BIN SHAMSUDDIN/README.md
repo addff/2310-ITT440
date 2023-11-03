@@ -94,4 +94,47 @@
 		libraries and frameworks, allowing you to leverage the broader Python ecosystem for 
 		various functionalities.
 
-### Komodo IDE
+## Komodo IDE
+### 1. What is Komodo IDE?
+		Komodo IDE is an integrated development environment (IDE) for software development, 
+  		primarily focusing on dynamic languages such as Python, Ruby, PHP, JavaScript, HTML, 
+    		and CSS. It is developed by ActiveState.
+
+### 2. What is the advantages for using this Komodo IDE?
+		> Multi-Language Support: Komodo IDE supports a wide range of programming languages,
+ 		making it versatile for developers who work with diverse technologies. This is particularly 
+  		beneficial for those who work on projects involving multiple languages.
+
+		> Code Intelligence: The IDE provides advanced code intelligence features, including 
+  		code completion, syntax highlighting, and code browsing. This enhances developer 
+    		productivity by offering context-aware suggestions and quick access to relevant information.
+
+		> Integrated Debugger: Komodo IDE comes with a built-in debugger, allowing developers 
+  		to efficiently identify and fix issues within their code. This includes support for 
+    		remote debugging, making it useful for debugging applications running on different servers.
+
+		> Version Control Integration: It integrates seamlessly with popular version control systems 
+  		such as Git, Mercurial, and Subversion. This facilitates collaborative development by 
+    		providing versioning and code repository management directly within the IDE.
+
+		> Customization: Komodo IDE is highly customizable, allowing developers to tailor the environment 			to their preferences. This includes customizing themes, keyboard shortcuts, and other aspects of
+  		the IDE for an optimized development experience.
+
+		> Project Management: The IDE offers features for managing projects, organizing files, and
+  		navigating codebases effectively. This is crucial for developers working on large and complex projects.
+
+		> Web Development Support: Komodo IDE includes features specific to web development, 
+  		making it suitable for projects involving HTML, CSS, JavaScript, and other web technologies. 
+    		This includes tools for building and maintaining modern web applications.
+
+		> Extensibility: Developers can extend the functionality of Komodo IDE by creating and
+  		integrating add-ons. This extensibility allows developers to tailor the IDE to their
+    		specific needs or leverage community-contributed extensions.
+
+		> User-Friendly Interface: Komodo IDE is designed with a user-friendly and intuitive
+  		interface, making it accessible to developers with varying levels of experience. 
+    		The interface is crafted to enhance productivity and ease of use.
+
+		> Active Development and Support: Komodo IDE is actively developed and maintained by 
+  		ActiveState. This ensures that the IDE receives regular updates, bug fixes,
+    		and improvements, and there is ongoing support for users.
