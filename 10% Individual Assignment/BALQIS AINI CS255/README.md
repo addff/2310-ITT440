@@ -6,7 +6,6 @@ To discuss existing tools and library in phyton that can help Network Engineer
 
 #### Editor:Eric Phyton IDE
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fubuntuhandbook.org%2Fwp-content%2Fuploads%2F2019%2F05%2Feric-ide-icon.png&tbnid=bGIXwmkzOm8p_M&vet=12ahUKEwiR5azPhaiCAxWnQWwGHS-nDukQMygQegQIARB3..i&imgrefurl=https%3A%2F%2Fubuntuhandbook.org%2Findex.php%2F2019%2F05%2Feric-python-ide-install-via-snap-ubuntu%2F&docid=fSyJYc1rdLpMnM&w=245&h=250&q=eric%20python%20ide&ved=2ahUKEwiR5azPhaiCAxWnQWwGHS-nDukQMygQegQIARB3
 
 
 Eric is an open-source integrated development environment written and a full featured Python editor and IDE, written in Python. It is based on the cross platform Qt UI toolkit, integrating the highly flexible Scintilla editor control. It is designed to dirty editor as well as being usable as a professional project management tool integrating many advanced features Python offers the professional coder. Eric includes a plug-in system, which allows easy extension of the IDE functionality with plug-ins downloadable from the net. 
