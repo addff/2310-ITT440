@@ -11,7 +11,6 @@
 2.	Do find 1 template/framework in Python.
 -	## Robot Framework
 
-
 3.	Do find 3 editor/IDE for Python.
 -	## Google Colaboratory
 
