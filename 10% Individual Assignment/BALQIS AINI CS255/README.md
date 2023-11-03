@@ -29,10 +29,10 @@ Tkinter is a Python library for creating GUI applications. Here's a simple examp
 
 How to use:
 
-[![Video Thumbnail](https://example.com/video-thumbnail.png)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
+[![Video Thumbnail](![download](https://github.com/addff/2310-ITT440/assets/146956790/9f0fb33a-fd83-43a1-928b-2e4d739035bf)
+)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
 
 
-[<img src = "https://www.flaticon.com/free-icon/video_4237818" width="500" height="300"/>](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
 
 
 
