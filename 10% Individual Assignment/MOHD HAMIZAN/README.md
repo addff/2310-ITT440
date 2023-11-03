@@ -5,9 +5,10 @@ STUDENT NO 	: 2022971069
 GROUP		: M3CS2554A	
 
 
-### Framework/Template
+# Framework/Template
 
-1. What is Dash
+## 1. What is Dash
+   
 The Dash framework is an open-source Python library used for building analytical web applications.
 Developed by Plotly, Dash enables developers to create interactive, web-based data visualizations, 
 dashboards, and applications using Python.
@@ -16,7 +17,7 @@ use Python code to design and customize web-based graphs, charts, and other inte
 without needing to delve deeply into web development languages like HTML, CSS, or JavaScript.
 
 
-3. Significance
+## 2. Significance
    
 i) Dash allows users to leverage their existing Python skills to build web-based applications. 
 
@@ -28,7 +29,7 @@ for developers who need to showcase their data analysis or models in a user-frie
 
 iv) Dash has a growing community, providing ample resources, documentation, and support. This fosters a collaborative environment for developers to learn and share their knowledge.
 
-5. Demonstrate
+## 3. Demonstrate
  
 To use Dash on a Linux system, you'll need Python installed and then you can follow these steps:
 
@@ -90,26 +91,29 @@ applications with interactive visualizations, so you can build upon this basic e
 
 	
 
-### Libraries/Modules
+# Libraries/Modules
 
 
-1. What is Netmiko
+## 1. What is Netmiko
 Netmiko is an open-source that was created to make network devices configuration and management more automated. 
+Network automation has been completely transformed by the Netmiko library. It's a great tool for network engineers
+and administrators since it abstracts the complexity of interfacing with various device models and manufacturers.
 
-2. Description
-Network automation has been completely transformed by the Netmiko library,
-It's a great tool for network engineers and administrators since it abstracts the complexity of 
-interfacing with various device models and manufacturers.
+## 2. Significance
 
-3. Significance
 i.		Consistency in network configurations and modifications is guaranteed,
+
 ii.		Network engineers can be sure configurations are implemented consistently to every device,
+
 iv.		Support for various vendors' network devices, including Cisco, Juniper, Arista, Huawei, and others
+
 v.		Providing a simple and consistent way to connect and communicate with devices using Python.
+
 vi.		Providing resources and support for users to learn and implement network automation effectively.
 
 
-4. Demonstrate
+## 3. Demonstrate
+   
 To use Netmiko, a multi-vendor library for SSH connections to network devices, on Linux, you can follow these steps:
 
 Ensure Python is Installed: Verify that Python is installed on your Linux system. Most distributions come with Python by default. You can check the version by running python --version or python3 --version in the terminal.
@@ -167,39 +171,31 @@ and specific use cases related to network device management.
 
 
 
-### Editor/EDI
+# Editor/EDI
 
 
-1. What is Jupyter
-Jupyter is an open-source project that provides an interactive environment for programming in several languages, including Python, 
-R, and Julia. The core component of Jupyter is the Jupyter Notebook, a web application that allows users to create and share documents 
-containing live code, equations, visualizations, and narrative text.
+## 1. What is Jupyter
+   
+The Jupyter Notebook is an open-source web application that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. It provides an interactive computational environment, supporting various programming languages like Python, R, Julia, and more. Users can create and work on documents called "notebooks" through a web browser. Notebooks consist of cells, which can contain code (executable by a kernel associated with the notebook) or text written in Markdown format. This setup allows for a combination of live code, visualizations, and explanations in a single document, making it an excellent tool for data analysis, research, and educational purposes.
 
-The Jupyter Notebook supports various programming languages via kernels, which are language-specific execution environments. 
-Each kernel allows the Jupyter Notebook to execute code written in that language.
+## 2. Significance
 
-2. Description
-Jupyter Notebook runs in a web browser and can be installed locally on your machine, typically through the Anaconda distribution or by 
-installing Jupyter directly via Python's package manager (pip or conda). It can also be used in cloud environments or provided as a 
-service by various platforms.
-
-Additionally, JupyterLab is an evolution of the Jupyter Notebook, providing an improved interface with additional functionalities, 
-offering a more comprehensive and extensible environment compared to the traditional Jupyter Notebook.
-
-3. Significance
 i. 		Jupyter provides an interactive platform where users can write, execute, and 
 		modify code in a step-by-step manner.
+  
 ii.		Jupyter supports various programming languages through its kernel system.
 		Some of the languages supported by Jupyter is Python, R code, Julia, JavaScript, 
 		Scala code,  C++, Ruby, Haskell, Go, and more.
-iii.	Creation of documents combining live code, visualizations, and explanatory text,
+  
+iii.		Creation of documents combining live code, visualizations, and explanatory text,
 		making it easier to explore data, create graphs, and explain findings all in one place.
+  
 iv		A useful educational tool for teaching coding, data science and other computational 
 		concepts due to its interactive and explanatory nature.
 		
 		
 
-DEMO :
+### DEMO :
 
 
 
