@@ -30,7 +30,7 @@ iii.	It allows for quick prototyping and development of interactive web applicat
 iv)	Dash has a growing community, providing ample resources, documentation, and support. This fosters a collaborative 
 	environment for developers to learn and share their knowledge.
 
-## 3. Demonstrate
+## 3. Demonstration
  
 To use Dash on a Linux system, you'll need Python installed and then you can follow these steps:
 
@@ -113,7 +113,7 @@ v.	Providing a simple and consistent way to connect and communicate with devices
 vi.	Providing resources and support for users to learn and implement network automation effectively.
 
 
-## 3. Demonstrate
+## 3. Demonstration
    
 To use Netmiko, a multi-vendor library for SSH connections to network devices, on Linux, you can follow these steps:
 
@@ -194,12 +194,12 @@ iv	A useful educational tool for teaching coding, data science and other computa
 		
 		
 
-### DEMO :
+### DEMO : Jupyter , Netmiko & Dash
 
 
 
 
-[![Click to watch the video](https://img.youtube.com/vi/TFrJ2iqWfp0/0.jpg)](https://www.youtube.com/watch?v=TFrJ2iqWfp0)
+
 
 
 
