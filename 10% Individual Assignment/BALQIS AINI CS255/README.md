@@ -10,9 +10,7 @@ To discuss existing tools and library in phyton that can help Network Engineer
 Eric is an open-source integrated development environment written and a full featured Python editor and IDE, written in Python. It is based on the cross platform Qt UI toolkit, integrating the highly flexible Scintilla editor control. It is designed to dirty editor as well as being usable as a professional project management tool integrating many advanced features Python offers the professional coder. Eric includes a plug-in system, which allows easy extension of the IDE functionality with plug-ins downloadable from the net. 
 
 ###### Significance Of Eric Python IDE :
-
 Eric is a Python Integrated Development Environment (IDE) that offers a comprehensive set of features for Python developers. Its significance can be summarized as follows:
-
 1) Code Development
    - Eric provides a user-friendly environment for writing, debugging, and testing Python code, enhancing developer productivity.
 2) Features
@@ -37,7 +35,6 @@ Tkinter, a standard Python library, serves as a reliable framework for creating 
 
 ###### Significance Of Tkinter :
 Tkinter is a standard Python library for creating Graphical User Interfaces (GUIs). Its significance can be understood as follows:
-
 1) Accessibility
    - Tkinter provides a simple way to create GUI applications in Python, making it accessible for both beginners and experienced developers.
 2) Cross-Platform Compatibility
@@ -63,7 +60,6 @@ ZeroMQ, often known as ZMQ, is a high-performance messaging library tailored for
 
 ###### Significance Of ZeroMQ :
 ZeroMQ is a high-performance asynchronous messaging library and framework. Its significance can be summarized as follows:
-
 1) Messaging and Communication
    - ZeroMQ is used for building distributed and networked applications that require efficient, asynchronous communication between components.
 2) Scalability
