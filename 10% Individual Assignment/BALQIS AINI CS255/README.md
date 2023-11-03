@@ -9,10 +9,20 @@ To discuss existing tools and library in phyton that can help Network Engineer
 
 Eric is an open-source integrated development environment written and a full featured Python editor and IDE, written in Python. It is based on the cross platform Qt UI toolkit, integrating the highly flexible Scintilla editor control. It is designed to dirty editor as well as being usable as a professional project management tool integrating many advanced features Python offers the professional coder. Eric includes a plug-in system, which allows easy extension of the IDE functionality with plug-ins downloadable from the net. 
 
-Significance :
-Eric Python IDE is a versatile and cross-platform development environment for Python. It's known for its robust features, tight integration with PyQt, built-in debugger, version control support, code completion, and customization options. It's free, open source, and actively maintained. Eric IDE is a solid choice for Python developers, especially those working on GUI applications.
+###### Significance Of Eric Python IDE :
 
-How to use: 
+Eric is a Python Integrated Development Environment (IDE) that offers a comprehensive set of features for Python developers. Its significance can be summarized as follows:
+
+1) Code Development
+   - Eric provides a user-friendly environment for writing, debugging, and testing Python code, enhancing developer productivity.
+2) Features
+   - It offers features like code completion, syntax highlighting, integrated Python shell, and project management, making it a valuable tool for software development.
+3) Customizability
+   - Developers can extend and customize Eric through plugins, making it adaptable to different project requirements.
+4) Platform Independence
+   - Eric is available on multiple platforms, enabling developers to work on various operating systems.
+
+###### Demonstration Of Eric Python IDE : 
 
 
 
@@ -25,10 +35,19 @@ How to use:
 
 Tkinter, a standard Python library, serves as a reliable framework for creating graphical user interfaces (GUIs). It equips developers with a versatile range of widgets for building desktop applications, including buttons, labels, entry fields, and text widgets. Since Tkinter is bundled with most Python installations, it simplifies the process of creating cross-platform applications. Event-driven and beginner-friendly, Tkinter allows developers to define event handlers for user interactions, enabling the development of both simple and complex GUI applications.
 
-Reason to use:
-Tkinter is a Python library for creating GUI applications. Here's a simple example of how to create a basic Tkinter GUI application. Tkinter provides a wide range of widgets like buttons, text boxes, and more, which you can use to build your application's interface. You can also handle user interactions and events through event handlers and callbacks.
+###### Significance Of Tkinter :
+Tkinter is a standard Python library for creating Graphical User Interfaces (GUIs). Its significance can be understood as follows:
 
-How to use:
+1) Accessibility
+   - Tkinter provides a simple way to create GUI applications in Python, making it accessible for both beginners and experienced developers.
+2) Cross-Platform Compatibility
+   - Tkinter applications are cross-platform and can run on various operating systems, allowing developers to target a broad audience.
+3) Integration
+   - It seamlessly integrates with Python, allowing developers to combine GUI elements with Python code for interactive applications.
+4) Community Support
+   - Tkinter has a strong community, making it a valuable resource for developers seeking help and resources for GUI development in Python.
+
+###### Demonstration Of Tkinter : 
 
 ![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
 https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing
@@ -37,15 +56,24 @@ https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=shari
 [![Video Thumbnail](https://github.com/addff/2310-ITT440/blob/main/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
 
 
-#### Library: zeroMQ
+#### Library: ZeroMQ
 ![download](https://github.com/addff/2310-ITT440/assets/146956790/8d8c6658-4eca-46bd-98e8-dd37d9507415)
 
 ZeroMQ, often known as ZMQ, is a high-performance messaging library tailored for building scalable, distributed, and asynchronous applications. It offers a wide array of communication patterns, including publish-subscribe and request-reply, making it suitable for various use cases. Lightweight and language-agnostic, ZeroMQ is implemented in multiple programming languages, and in Python, the pyzmq library facilitates its integration. It is commonly utilized in distributed systems, microservices, and parallel computing applications where low-latency, high-performance messaging is essential for seamless communication between system components.
 
-Reason to use:
-ZeroMQ is a library for building distributed and scalable messaging systems. It uses sockets for communication. Here's a basic example of how to use ZeroMQ for basic communication between a publisher and a subscriber.
+###### Significance Of ZeroMQ :
+ZeroMQ is a high-performance asynchronous messaging library and framework. Its significance can be summarized as follows:
 
-How to use:
+1) Messaging and Communication
+   - ZeroMQ is used for building distributed and networked applications that require efficient, asynchronous communication between components.
+2) Scalability
+   - It is designed to handle various messaging patterns, making it suitable for small-scale applications to large-scale distributed systems.
+3) Language Agnostic
+   - ZeroMQ supports multiple programming languages, making it a versatile choice for building cross-language and cross-platform communication systems.
+4) Reliability
+   - It provides features like message queuing, load balancing, and fault tolerance, making it a robust choice for building resilient distributed systems.
+
+###### Demonstration Of ZeroMQ : 
 
 
 
