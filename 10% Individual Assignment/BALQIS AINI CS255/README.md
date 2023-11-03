@@ -4,7 +4,7 @@
 #### OBJECTIVE
 To discuss existing tools and library in phyton that can help Network Engineer
 
-#### Editor:Eric Phyton IDE
+#### Editor: Eric Phyton IDE
 ![download](https://github.com/addff/2310-ITT440/assets/146956790/64c0159f-cae2-4c79-bb06-2e37c9bb2ed0)
 
 Eric is an open-source integrated development environment written and a full featured Python editor and IDE, written in Python. It is based on the cross platform Qt UI toolkit, integrating the highly flexible Scintilla editor control. It is designed to dirty editor as well as being usable as a professional project management tool integrating many advanced features Python offers the professional coder. Eric includes a plug-in system, which allows easy extension of the IDE functionality with plug-ins downloadable from the net. 
@@ -28,7 +28,10 @@ Reason to use:
 Tkinter is a Python library for creating GUI applications. Here's a simple example of how to create a basic Tkinter GUI application. Tkinter provides a wide range of widgets like buttons, text boxes, and more, which you can use to build your application's interface. You can also handle user interactions and events through event handlers and callbacks.
 
 How to use:
-[![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/9f0fb33a-fd83-43a1-928b-2e4d739035bf)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
+
+[![Video Thumbnail](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F4237%2F4237818.png&tbnid=vRXOQdFNAhahDM&vet=12ahUKEwjd6q_DiaiCAxXBfWwGHX2FDkMQMygKegUIARCJAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fvideo_4237818&docid=Z5lw8cypgWFboM&w=512&h=512&q=video%20image&ved=2ahUKEwjd6q_DiaiCAxXBfWwGHX2FDkMQMygKegUIARCJAQ)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
+
+[![Video Thumbnail](URL_GAMBAR)](URL_VIDEO_YOUTUBE)
 
 
 #### Library: zeroMQ
