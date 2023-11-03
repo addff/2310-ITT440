@@ -1,8 +1,13 @@
-### Openpyxl
-What is Openpyxl?
+# MUHAMMAD IRFAN BIN SHAMSUDDIN (2021862488)
+ 
+# ITT440 - 10% Individual Assignment
+
+
+## Openpyxl
+### 1. What is Openpyxl?
 - Openpyxl is a Python library for reading and writing Excel (xlsx) files. It allows you to manipulate Excel spreadsheets, create new ones, modify existing ones, and perform various operations on Excel data using Python. It's a handy tool for automating tasks involving Excel files and is commonly used in data analysis, report generation, and other data-related applications.
 
-What is the advantages of Openpyxl?
+### 2. What is the advantages of Openpyxl?
 - Ease of Use: Openpyxl provides a user-friendly interface for working with Excel files in Python, making it relatively easy to understand and implement.
 
 - Read and Write Support: It supports both reading from and writing to Excel files, allowing for a wide range of data manipulation tasks.
