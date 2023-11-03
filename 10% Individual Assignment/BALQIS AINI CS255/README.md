@@ -29,9 +29,11 @@ Tkinter is a Python library for creating GUI applications. Here's a simple examp
 
 How to use:
 
-[![Video Thumbnail](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F4237%2F4237818.png&tbnid=vRXOQdFNAhahDM&vet=12ahUKEwjd6q_DiaiCAxXBfWwGHX2FDkMQMygKegUIARCJAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fvideo_4237818&docid=Z5lw8cypgWFboM&w=512&h=512&q=video%20image&ved=2ahUKEwjd6q_DiaiCAxXBfWwGHX2FDkMQMygKegUIARCJAQ)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
+![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
+https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing
 
-[![Video Thumbnail](URL_GAMBAR)](URL_VIDEO_YOUTUBE)
+
+[![Video Thumbnail](https://github.com/addff/2310-ITT440/blob/main/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
 
 
 #### Library: zeroMQ
