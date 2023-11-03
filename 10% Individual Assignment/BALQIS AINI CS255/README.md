@@ -28,15 +28,7 @@ Reason to use:
 Tkinter is a Python library for creating GUI applications. Here's a simple example of how to create a basic Tkinter GUI application. Tkinter provides a wide range of widgets like buttons, text boxes, and more, which you can use to build your application's interface. You can also handle user interactions and events through event handlers and callbacks.
 
 How to use:
-
-[![Video Thumbnail](![download](https://github.com/addff/2310-ITT440/assets/146956790/9f0fb33a-fd83-43a1-928b-2e4d739035bf)
-)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
-
-
-
-
-
-
+[![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/9f0fb33a-fd83-43a1-928b-2e4d739035bf)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
 
 
 #### Library: zeroMQ
