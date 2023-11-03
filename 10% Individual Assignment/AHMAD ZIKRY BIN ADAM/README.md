@@ -6,7 +6,7 @@ GROUP: M3CS2554B
 
 ### FRAMEWORK
 
-PyGame:
+###PyGame:
 
 1) What is PyGame?
 
@@ -34,7 +34,7 @@ v.   Abstraction of Complexity: Pygame abstracts complex functionalities related
 
 ### LIBRARY
 
-Spacy:
+###Spacy:
 
 1) What is Spacy?
 2) Description of Spacy.
@@ -43,7 +43,7 @@ Spacy:
 
 ### EDITOR
 
-Ninja IDE:
+###Ninja IDE:
 
 1) What is Ninja IDE?
 
