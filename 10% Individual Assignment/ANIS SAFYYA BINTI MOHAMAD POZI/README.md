@@ -4,44 +4,66 @@
 =======================================================================================
 ### EDITOR
 
-#### KDEVELOP
+#### ULTRAEDIT
+![UltraEditLogo](https://github.com/addff/2310-ITT440/assets/149034358/22e5f240-83e7-4019-b244-0e43defe8439)
 
-1. WHAT IS KDEVELOP
-KDevelop  is  a  powerful and versatile IDE that offers  a  wide  range of features for 
-software developers.  It is free and open-source,  and it is available for a wide range 
-of operating systems.KDevelop supports a wide range of programming languages, including 
-C, C++, Python, QML/JavaScript, and PHP.  It is highly customizable and extensible, and 
-it has a strong community of users and developers.
 
-2. SIGNIFICANT OF KDEVELOP
-KDevelop  is  a  popular IDE  for  KDE and  Qt development, but it can also be used for 
-developing  other  types of software. 
+1. WHAT IS ULTRAEDIT
 
-KDevelop is a significant IDE for a number of reasons:
+UltraEdit is a commercial text editor and hex editor for Microsoft Windows, Linux,  and
+macOS.  It was initially developed in  1994 by Ian D. Mead, the founder of IDM Computer
+Solutions Inc., and was acquired by Idera Inc. in August 2021. Originally called MEDIT, 
+it was first designed to run on Windows 3.1.
 
-- It is a good choice for developing software for a wide range of platforms,  including 
-  desktop, mobile, and embedded systems.
-- It offers a wide range of features to help developers be more productive,such as code 
-  completion, code refactoring, code navigation, a debugger, integration with build 
-  automation tools, and integration with version control systems.
-- It  is  a  free  and  open-source  IDE,  which makes it accessible to a wide range of 
-  developers.
-- It has a strong community of users and developers, which means that there is a wealth 
-  of resources available to help developers learn and use KDevelop.
+UltraEdit is a powerful and flexible text editor that is  commonly used by programmers, 
+web developers,  and other technical professionals. It offers a wide range of features,
+including:
+
+- Syntax highlighting for over 100 programming languages
+- Code folding
+- Regular expression support
+- Powerful search and replace capabilities
+- FTP/SFTP integration
+- Scripting support
   
-Here are some of the ways that KDevelop is used by developers today:
+2. SIGNIFICANCE OF ULTRAEDIT
+   
+Here are some of the key features of UltraEdit that make it significant:
 
-- KDevelop is used by KDE and Qt developers to develop applications for the KDE desktop
-  environment and the Qt framework.
-- KDevelop  is used  by  developers  of  a  wide r ange of software, i ncluding desktop 
-  applications, mobile applications, embedded systems software, and web applications.
-- KDevelop  is  used by students to learn how to program and develop software for their 
-  coursework.
-- KDevelop is used by hobbyists to develop software for their own personal use.
+- Powerful editing capabilities:  UltraEdit  offers a  wide range of editing  features,
+  including syntax highlighting, code folding, regular expression support, and powerful
+  search and replace capabilities.  This makes it easy to edit code, scripts, and other
+  text files efficiently.
+- Hex editing: UltraEdit also includes a hex editor,  which allows users to edit binary
+  files at the byte level. This can be useful for debugging software, analyzing malware,
+  and other tasks.
+- FTP/SFTP integration:  UltraEdit includes built-in support for FTP  and  SFTP,  which
+  allows users to edit files on remote servers directly from the application.  This can
+  save users time  and  effort,  and it can also be useful for collaborating with other     
+  developers.
+- Scripting support:  UltraEdit  supports  scripting,  which  allows  users to automate
+  repetitive tasks  and  customize the editor  to  their specific needs.  This can make
+  UltraEdit even more powerful and efficient for users who have complex needs.
 
-3. HOW TO USE KDEVELOP
+Here are some specific examples of how UltraEdit is used in the real world:
 
+- Software development:  UltraEdit is used by software developers to write,  edit,  and 
+  debug code.  Its syntax highlighting and code folding features make it easy  to  read
+  and understand code.  UltraEdit's  regular expression  support  is  also  useful  for
+  searching and replacing code patterns.
+- Web development:  UltraEdit is used by web developers to write, edit, and debug HTML,
+  CSS, and JavaScript code.  Its syntax highlighting and code folding features make  it
+  easy to read and understand code. UltraEdit's FTP/SFTP integration is also useful for
+  uploading and downloading files to web servers.
+- System  administration:   UltraEdit  is  used  by   system   administrators  to  edit
+  configuration files,  log files,  and other system files. Its hex editing capabilities 
+  can also be useful for troubleshooting system problems.
+- Technical writing:  UltraEdit is used by technical writers to write and edit technical
+  documentation.  Its syntax highlighting  and  code folding features make  it  easy  to
+  format code and other technical content.  UltraEdit's search  and replace capabilities
+  are also useful for finding and correcting errors in technical documentation.
 
+3. ULTRAEDIT DEMO
 
 
 =======================================================================================
@@ -49,13 +71,18 @@ Here are some of the ways that KDevelop is used by developers today:
 ### FRAMEWORK
 
 #### PYQT
+![PyQtLogo](https://github.com/addff/2310-ITT440/assets/149034358/7a0848b0-c9f9-4d4d-ae62-371d3b63470e)
+
+
 
 1. WHAT IS PYQT
+   
 PyQt is a significant GUI framework because it is mature, comprehensive, efficient, and 
 portable.  It has been used to create  a  wide range of applications, including desktop 
 applications, mobile applications, web applications, and embedded systems applications. 
 
-2. SIGNIFICANT OF PYQT
+3. SIGNIFICANCE OF PYQT
+   
 PyQt is a popular choice for Python GUI development because it is:
 
 - Mature: PyQt has been around for over 20 years and is well-supported.
@@ -76,7 +103,7 @@ PyQt has been used to create a wide range of applications, including:
   module.
 - Embedded systems:  PyQt can also be used to create embedded systems applications.
 
-3.HOW TO USE PYQT
+3. PYQT DEMO
 
 
 
@@ -87,13 +114,18 @@ PyQt has been used to create a wide range of applications, including:
 ### LIBRARY
 
 #### TENSORFLOW 
+![TensorFlow_logo svg](https://github.com/addff/2310-ITT440/assets/149034358/83a40180-2862-4d1c-9ca7-e663b3feffab)
+
+
 1. WHAT IS TENSORFLOW
+   
 TensorFlow  is a significant library because it is one of the most popular and powerful 
 open-source  machine  learning  libraries  available.  It  is  used by researchers  and 
 developers at Google, as well as by many other companies  and  organizations around the 
 world.
 
-2. SIGNIFICANT OF TENSORFLOW
+3. SIGNIFICANCE OF TENSORFLOW
+   
 TensorFlow is significant for a number of reasons, including:
 
 - It is open-source and free to use.
@@ -128,7 +160,7 @@ These are just a few examples of how TensorFlow is being used today.
   search engine.
 - Tesla  uses TensorFlow to power its autopilot system.
 
-3. HOW TO USE TENSORFLOW
+3. TENSORFLOW DEMO
 
 
 
