@@ -19,31 +19,32 @@ without needing to delve deeply into web development languages like HTML, CSS, o
 
 ## 2. Significance
    
-i) Dash allows users to leverage their existing Python skills to build web-based applications. 
+i.	Dash allows users to leverage their existing Python skills to build web-based applications. 
 
-ii) It enables the creation of interactive and customizable data visualizations, such 
-as graphs, charts, and dashboards, providing a way to communicate data insights effectively.
+ii.	It enables the creation of interactive and customizable data visualizations, such 
+	as graphs, charts, and dashboards, providing a way to communicate data insights effectively.
 
-iii) It allows for quick prototyping and development of interactive web applications, saving time and effort
-for developers who need to showcase their data analysis or models in a user-friendly format.
+iii.	It allows for quick prototyping and development of interactive web applications, saving time and effort
+	for developers who need to showcase their data analysis or models in a user-friendly format.
 
-iv) Dash has a growing community, providing ample resources, documentation, and support. This fosters a collaborative environment for developers to learn and share their knowledge.
+iv)	Dash has a growing community, providing ample resources, documentation, and support. This fosters a collaborative 
+	environment for developers to learn and share their knowledge.
 
 ## 3. Demonstrate
  
 To use Dash on a Linux system, you'll need Python installed and then you can follow these steps:
 
-i. Make sure you have Python installed on your Linux system. 
+i.	Make sure you have Python installed on your Linux system. 
 You can check if it's installed by opening a terminal and typing python 
 
 	/* --version or python3 --version
 
-ii. Install Dash: You'll need to install the Dash library for Python. You can use pip, which is a package manager for Python.
+ii.	Install Dash: You'll need to install the Dash library for Python. You can use pip, which is a package manager for Python.
 
 
 	/*  pip install dash
 
-iii. Create a Dash App: Once you have Dash installed, you can create your Dash application. You can use a text editor or an IDE like Visual Studio Code, Sublime Text, or any other of your choice.
+iii.	Create a Dash App: Once you have Dash installed, you can create your Dash application. You can use a text editor or an IDE like Visual Studio Code, Sublime Text, or any other of your choice.
 
 	/*	Here's a basic example of a Dash app:
 
@@ -73,7 +74,7 @@ iii. Create a Dash App: Once you have Dash installed, you can create your Dash a
 			if __name__ == '__main__':
 				app.run_server(debug=True)
 	
-iv. Run the Dash App: Save the code in a file, for example, 
+iv.	Run the Dash App: Save the code in a file, for example, 
 		
 	/*	my_dash_app.py. 
 
@@ -101,15 +102,15 @@ and administrators since it abstracts the complexity of interfacing with various
 
 ## 2. Significance
 
-i.		Consistency in network configurations and modifications is guaranteed,
+i.	Consistency in network configurations and modifications is guaranteed,
 
-ii.		Network engineers can be sure configurations are implemented consistently to every device,
+ii.	Network engineers can be sure configurations are implemented consistently to every device,
 
-iv.		Support for various vendors' network devices, including Cisco, Juniper, Arista, Huawei, and others
+iv.	Support for various vendors' network devices, including Cisco, Juniper, Arista, Huawei, and others
 
-v.		Providing a simple and consistent way to connect and communicate with devices using Python.
+v.	Providing a simple and consistent way to connect and communicate with devices using Python.
 
-vi.		Providing resources and support for users to learn and implement network automation effectively.
+vi.	Providing resources and support for users to learn and implement network automation effectively.
 
 
 ## 3. Demonstrate
@@ -180,18 +181,16 @@ The Jupyter Notebook is an open-source web application that allows users to crea
 
 ## 2. Significance
 
-i. 		Jupyter provides an interactive platform where users can write, execute, and 
-		modify code in a step-by-step manner.
+i. 	Jupyter provides an interactive platform where users can write, execute, and modify code in a step-by-step manner.
   
-ii.		Jupyter supports various programming languages through its kernel system.
-		Some of the languages supported by Jupyter is Python, R code, Julia, JavaScript, 
-		Scala code,  C++, Ruby, Haskell, Go, and more.
+ii.	Jupyter supports various programming languages through its kernel system. Some of the languages supported by 
+	Jupyter is Python, R code, Julia, JavaScript, Scala code,  C++, Ruby, Haskell, Go, and more.
   
-iii.		Creation of documents combining live code, visualizations, and explanatory text,
-		making it easier to explore data, create graphs, and explain findings all in one place.
+iii.	Creation of documents combining live code, visualizations, and explanatory text,
+	making it easier to explore data, create graphs, and explain findings all in one place.
   
-iv		A useful educational tool for teaching coding, data science and other computational 
-		concepts due to its interactive and explanatory nature.
+iv	A useful educational tool for teaching coding, data science and other computational 
+	concepts due to its interactive and explanatory nature.
 		
 		
 
