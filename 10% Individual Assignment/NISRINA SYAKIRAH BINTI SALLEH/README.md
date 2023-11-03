@@ -43,3 +43,9 @@ Google Colaboratory, or Google Colab, is a web-based development environment all
 -	Google Colab, sometimes known as Google Colaboratory, is an online Python development environment that offers a cloud-based interface akin to a Jupyter notebook. Although Google Colab is mostly utilized for data science and machine learning jobs, network engineers might also benefit from using it for some elements of their work. For network engineers looking to take advantage of Python's ecosystem and power for network automation, analysis, and data visualization in a user-friendly and cooperative cloud setting, it can be a great environment.
 
 6.	Demonstrate how to use all tools found.
+
+## Gensim
+
+## Robot Framework
+
+## Google Colaboratory
