@@ -7,6 +7,8 @@
 
 1.	Do find 1 libraries/modules in Python created for Network Engineer.
 -	## Gensim
+      ![download](https://github.com/addff/2310-ITT440/assets/146958474/d086e65b-fce9-4672-aab2-cf2b07393bd0)
+
 
 2.	Do find 1 template/framework in Python.
 -	## Robot Framework
