@@ -2,6 +2,7 @@
 
 NAME : MUHAMMAD HAIQAL BIN MOHD YAHYA
 TASK : ASSIGNMENT 1 ( PYTHON FOR NETWORK ENGINEER )
+LINK : https://youtu.be/6nRb2YKrb-c
 
 	-TOOLS ( EDITOR, LIBRARY, FRAMEWORK )-
 
@@ -16,12 +17,12 @@ programming and learning exercises.
 
 LIBRARY : PSUTIL
 
-`psutil` is a powerful and cross-platform Python library that facilitates easy access to system-related information and process management. Short for 
+psutil is a powerful and cross-platform Python library that facilitates easy access to system-related information and process management. Short for 
 "process and system utilities," it provides a consistent and straightforward interface for retrieving details on CPU usage, memory usage, disk I/O, 
-network activity, and more. Network engineers, system administrators, and developers can leverage `psutil` to monitor and optimize system performance, 
+network activity, and more. Network engineers, system administrators, and developers can leverage psutil to monitor and optimize system performance, 
 analyze resource utilization, and gain insights into running processes. Its versatility makes it a valuable tool for tasks such as process manipulation, 
 real-time system monitoring, and crafting applications that require comprehensive information about a computer's state. With its ease of use and platform 
-compatibility, `psutil` stands out as a go-to library for system-related operations in Python.
+compatibility, psutil stands out as a go-to library for system-related operations in Python.
 
 FRAMEWORK : BEHAVE
 
@@ -163,17 +164,19 @@ Using IDLE (Integrated Development and Learning Environment) for Python is quite
 4. **Writing Python Code:**
    - In the script window, you can write your Python code. For example:
 
+   ```
     print("Hello, IDLE!")
+   ```
     
-5. **Running the Script:**
+6. **Running the Script:**
    - Save your script with a `.py` extension. Click on "Run" in the menu and choose "Run Module" or press `F5`. Alternatively, you can right-click in the 
 	script window and choose "Run Module."
 
-6. **Interactive Debugging (Optional):**
+7. **Interactive Debugging (Optional):**
    - IDLE has a basic integrated debugger. You can set breakpoints and run your script in debugging mode. To do this, click on "Debug" in the menu and 
 	choose "Debugger" or press `Ctrl + F5`.
 
-7. **Closing IDLE:**
+8. **Closing IDLE:**
    - When you're done, you can close IDLE by clicking on the "X" button in the upper right corner of the Python shell or script window.
 
 Remember, IDLE is a basic and lightweight IDE, suitable for learning and small projects. For more complex development, you might consider using other IDEs like 
@@ -181,156 +184,97 @@ PyCharm, Visual Studio Code, or others based on your preferences and project req
 
 > PSUTIL
 
-Using `psutil` is relatively straightforward. Here's a basic guide on how to use this Python library:
+To use the psutil library in IDLE (Python's Integrated Development and Learning Environment), you can follow these steps:
 
-1. **Installation:**
-   - Before using `psutil`, make sure it is installed. You can install it using the following command:
+1. **Install Psutil:**
+   Make sure `psutil` is installed in your Python environment. You can install it using `pip`:
 
-     ```bash
-     pip install psutil
-     ```
+   ```bash
+   pip install psutil
+   ```
 
-2. **Importing `psutil`:**
-   - In your Python script or interactive environment, import the `psutil` module:
+2. **Import Psutil in IDLE:**
+   Open IDLE and create a new script. Import the `psutil` module in your script:
 
-     ```python
-     import psutil
-     ```
+   ```python
+   import psutil
+   ```
 
-3. **System Information:**
-   - Retrieve basic information about the system, such as CPU count, CPU usage, memory usage, and disk usage:
+3. **Use Psutil Functions:**
+   Now, you can use various functions provided by `psutil` to gather system information. For example:
 
-     ```python
-     # Get CPU count
-     cpu_count = psutil.cpu_count()
-     print(f"CPU Count: {cpu_count}")
+   ```python
+   # Get CPU usage
+   cpu_usage = psutil.cpu_percent()
+   print(f'CPU Usage: {cpu_usage}%')
 
-     # Get CPU usage
-     cpu_usage = psutil.cpu_percent(interval=1)
-     print(f"CPU Usage: {cpu_usage}%")
+   # Get memory usage
+   memory_info = psutil.virtual_memory()
+   print(f'Total Memory: {memory_info.total} bytes')
+   print(f'Used Memory: {memory_info.used} bytes')
 
-     # Get memory usage
-     memory = psutil.virtual_memory()
-     print(f"Total Memory: {memory.total} bytes")
-     print(f"Used Memory: {memory.used} bytes")
+   # Get disk usage
+   disk_info = psutil.disk_usage('/')
+   print(f'Total Disk Space: {disk_info.total} bytes')
+   print(f'Used Disk Space: {disk_info.used} bytes')
+   ```
 
-     # Get disk usage
-     disk = psutil.disk_usage('/')
-     print(f"Total Disk Space: {disk.total} bytes")
-     print(f"Used Disk Space: {disk.used} bytes")
-     ```
+   Adjust the functions and parameters according to your specific needs.
 
-4. **Process Information:**
-   - Retrieve information about running processes:
-
-     ```python
-     # Get a list of all running processes
-     processes = psutil.process_iter(attrs=['pid', 'name', 'cpu_percent', 'memory_percent'])
-     for process in processes:
-         print(process.info)
-
-     # Get information about a specific process (replace PID with the desired process ID)
-     pid = 1234
-     process = psutil.Process(pid)
-     print(f"Process Name: {process.name()}")
-     print(f"CPU Percent: {process.cpu_percent()}%")
-     print(f"Memory Percent: {process.memory_percent()}%")
-     ```
-
-5. **Network Information:**
-   - Retrieve information about network connections:
-
-     ```python
-     # Get a list of network connections
-     connections = psutil.net_connections(kind='inet')
-     for conn in connections:
-         print(conn)
-     ```
-
-6. **Battery Information (if applicable):**
-   - Retrieve information about the battery (if running on a system with a battery):
-
-     ```python
-     try:
-         battery = psutil.sensors_battery()
-         percent = battery.percent
-         power_plugged = battery.power_plugged
-         print(f"Battery Percent: {percent}%")
-         print(f"Power Plugged In: {power_plugged}")
-     except AttributeError:
-         print("Battery information not available.")
-     ```
-
-Remember to customize these examples based on your specific use case and project requirements. `psutil` provides a wide range of functionalities for system monitoring 
-and process management.
+4. **Run the Script:**
+   Save your script and run it in IDLE. You should see the output displaying information about CPU usage, memory usage, and disk space.
 
 > BEHAVE
 
-Using the Behave framework involves defining feature files with scenarios written in Gherkin syntax and implementing corresponding step definitions in Python. 
-Here's a basic guide on how to use Behave:-
+Behave is a popular BDD (Behavior-Driven Development) framework for Python. To use Behave in IDLE (Python's Integrated Development and Learning Environment), you'll need to follow these steps:
 
-1. **Installation:**
-   - Before using Behave, make sure it is installed. You can install it using the following command:
+1. **Install Behave:**
+   Make sure Behave is installed in your Python environment. You can install it using `pip`:
 
-     ```bash
-     pip install behave
-     ```
+   ```bash
+   pip install behave
+   ```
 
 2. **Create a Feature File:**
-   - Create a feature file (e.g., `my_feature.feature`) using Gherkin syntax. Specify scenarios and steps that describe the behavior of your application. For example:
+   Create a feature file with Gherkin syntax. Save it with a `.feature` extension. For example, `my_feature.feature`:
 
-     ```gherkin
-     Feature: Simple Arithmetic Operations
-
-       Scenario: Add two numbers
-         Given I have entered 5 into the calculator
-         And I have entered 7 into the calculator
-         When I press add
-         Then the result should be 12 on the screen
-     ```
+   ```gherkin
+   Feature: Behave in IDLE
+       Scenario: Running Behave in IDLE
+           Given I have Behave installed
+           When I run Behave in IDLE
+           Then it should execute the feature file
+   ```
 
 3. **Create Step Definitions:**
-   - Create a Python file (e.g., `steps.py`) to implement step definitions for the scenarios defined in the feature file. Map each step to a Python function. For example:
+   Create step definition files that match the steps in your feature file. Save it as `my_steps.py`:
 
-     ```python
-     from behave import given, when, then
+   ```python
+   from behave import given, when, then
 
-     @given('I have entered {number:d} into the calculator')
-     def step_given_enter_number(context, number):
-         context.result = number
+   @given('I have Behave installed')
+   def step_impl(context):
+       pass
 
-     @when('I press add')
-     def step_when_press_add(context):
-         context.result += context.number
+   @when('I run Behave in IDLE')
+   def step_impl(context):
+       pass
 
-     @then('the result should be {expected_result:d} on the screen')
-     def step_then_check_result(context, expected_result):
-         assert context.result == expected_result
-     ```
+   @then('it should execute the feature file')
+   def step_impl(context):
+       pass
+   ```
 
-4. **Run Behave:**
-   - Open a terminal in the project directory and run Behave:
+4. **Run Behave in IDLE:**
+   Open IDLE and navigate to the directory containing your feature file and step definitions. Use IDLE's shell to run Behave:
 
-     ```bash
-     behave
-     ```
+   ```python
+   from behave import __main__ as behave_main
 
-   - Behave will automatically discover and execute your feature files, and the output will indicate whether the scenarios passed or failed.
+   behave_main.main(['my_feature.feature'])
+   ```
 
-5. **Review Reports:**
-   - Behave generates detailed reports in various formats. You can customize the report format and location. By default, a summary is displayed in the terminal.
+   Make sure to replace `'my_feature.feature'` with the actual name of your feature file.
 
-   - You can generate more detailed reports using additional parameters, such as:
-
-     ```bash
-     behave -f allure_behave.formatter:AllureFormatter -o allure-results
-     ```
-
-     This example generates Allure reports in the `allure-results` directory. You'll need to install the `allure-behave` package for this.
-
-6. **Modify and Iterate:**
-   - Update your feature files and step definitions based on your application changes or new requirements. Run Behave again to ensure that your scenarios still pass.
-
-This is a basic guide to get you started with Behave. The framework provides many advanced features for testing and collaboration.
-
-
+5. **View Results:**
+   Behave will execute your feature file, and you'll see the results in the IDLE shell.
