@@ -165,7 +165,10 @@
 			shifted_data = df['Age'].shift(1)
 			print(shifted_data)
 
-		
+## Demo About PANDAS
+
+[![Click to Watch the Video](https://img.youtube.com/vi/5AwaMuqEYrI/0.jpg)](https://www.youtube.com/watch?v=5AwaMuqEYrI)
+	
 		
 		
 # BOTTLE FrameWork
@@ -239,7 +242,10 @@
 	its simplicity and ease of use make it an excellent choice in certain scenarios, particularly 
 	when the goal is to quickly set up a simple web application or RESTful API with minimal overhead.
 
-## How To Use Bottle FrameWork
+## Demo About  Bottle FrameWork
+
+[![Click to Watch the Video](http://img.youtube.com/vi/pLFvRhXSU0A/0.jpg)](http://www.youtube.com/watch?v=pLFvRhXSU0A)
+
 
 
 # SPYDER
