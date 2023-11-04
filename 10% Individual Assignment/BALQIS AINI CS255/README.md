@@ -7,7 +7,7 @@
 ### Editor: Eric Phyton IDE
 ![download](https://github.com/addff/2310-ITT440/assets/146956790/4f65cb47-dbe0-48c3-8da7-a0b2364f55b5)
 
-Eric is an open-source integrated development environment written and a full featured Python editor and IDE, written in Python. It is based on the cross platform Qt UI toolkit, integrating the highly flexible Scintilla editor control. It is designed to dirty editor as well as being usable as a professional project management tool integrating many advanced features Python offers the professional coder. Eric includes a plug-in system, which allows easy extension of the IDE functionality with plug-ins downloadable from the net. 
+Eric is an open-source integrated development environment written and a full-featured Python editor and IDE, written in Python. It is based on the cross-platform Qt UI toolkit, integrating the highly flexible Scintilla editor control. It is designed to be a dirty editor as well as being usable as a professional project management tool integrating many advanced features Python offers the professional coder. Eric includes a plug-in system, which allows easy extension of the IDE functionality with plug-ins downloadable from the net. 
 
 ###### Significance Of Eric Python IDE :
 Eric is a Python Integrated Development Environment (IDE) that offers a comprehensive set of features for Python developers. Its significance can be summarized as follows:
@@ -21,9 +21,7 @@ Eric is a Python Integrated Development Environment (IDE) that offers a comprehe
    - Eric is available on multiple platforms, enabling developers to work on various operating systems.
 
 ###### Demonstration Of Eric Python IDE : 
-![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
-
-https://drive.google.com/file/d/1lE2ygfX75bsEZI7GmGDhQ_YeiTb_osmv/view?usp=sharing
+<a href="https://drive.google.com/file/d/1lE2ygfX75bsEZI7GmGDhQ_YeiTb_osmv/view?usp=sharing">Watch the video</a>
 ________________________________________________________________________________________________________________________________
 ### Framework: Tkinter
 ![68747470733a2f2f7777772e7475746f7269616c616e646578616d706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f546b696e7465722d2545322538302539332d507974686f6e2e706e67](https://github.com/addff/2310-ITT440/assets/146956790/0975cefb-51e6-46a8-abff-46d6ab5c0f13)
