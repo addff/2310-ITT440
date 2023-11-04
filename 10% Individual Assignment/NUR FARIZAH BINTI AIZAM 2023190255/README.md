@@ -14,7 +14,7 @@ _**Code Editing**_ : PyScripter offers a code editor with syntax highlighting an
 
 _**Interactive Python Shell**_ : It includes an interactive Python interpreter where you can execute Python code line by line or in blocks. This is particularly useful for experimenting with code snippets.
 
-_Debugger_ : PyScripter comes with a powerful debugger that allows you to step through code, set breakpoints, inspect variables, and track program execution flow.
+_**Debugger**_ : PyScripter comes with a powerful debugger that allows you to step through code, set breakpoints, inspect variables, and track program execution flow.
 
 _Code Navigation_ : The IDE provides features like code folding, code navigation, and a function/class browser to help you quickly find and navigate through your codebase.
 
