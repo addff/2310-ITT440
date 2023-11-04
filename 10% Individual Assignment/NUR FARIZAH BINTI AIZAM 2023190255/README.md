@@ -18,9 +18,9 @@ _Debugger_ : PyScripter comes with a powerful debugger that allows you to step t
 
 ~Code Navigation~ : The IDE provides features like code folding, code navigation, and a function/class browser to help you quickly find and navigate through your codebase.
 
-     Version Control: PyScripter has integration with version control systems like Git, which allows you to manage your code repositories directly from the IDE.
+"Version Control" : PyScripter has integration with version control systems like Git, which allows you to manage your code repositories directly from the IDE.
 
-     Integrated Documentation: It provides access to Python documentation directly within the IDE, making it easy to look up information about Python modules and functions.
+'Integrated Documentation' : It provides access to Python documentation directly within the IDE, making it easy to look up information about Python modules and functions.
 
      Project Management: PyScripter allows you to organize your code into projects, making it easier to manage multiple files and directories within a cohesive development environment.
 
