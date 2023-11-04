@@ -176,4 +176,5 @@
 
 ## Demonstrate tools Pycharm,Flask and Ncclient.
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/9xnfHxV0Tb4" frameborder="0" allowfullscreen></iframe>
+	[![Watch the video](https://img.youtube.com/vi/9xnfHxV0Tb4/0.jpg)](https://www.youtube.com/watch?v=9xnfHxV0Tb4)
+
