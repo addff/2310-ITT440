@@ -128,4 +128,4 @@ switch between different tools and environments, thereby improving productivity 
 
 # video installation library, framework and editor:-
 
-[![Watch the video](https://youtu.be/3xjV8VhwkCg?si=sa5cyb1H-r000vNX.jpg)](https://youtu.be/3xjV8VhwkCg?si=sa5cyb1H-r000vNX)\
+[![Alt text](https://img.youtube.com/vi/3xjV8VhwkCg/0.jpg)](https://www.youtube.com/watch?v=3xjV8VhwkCg)
