@@ -92,3 +92,6 @@ Key features and functionalities of NLTK include:
 10. Community and Documentation: NLTK has an active user community, and there is extensive documentation and tutorials available to help users get started and understand how to use the library effectively.
 
 NLTK is a valuable resource for researchers, students, and professionals working in fields related to natural language processing, text analysis, and computational linguistics. It provides a foundation for various NLP tasks and serves as an excellent starting point for those looking to explore and analyze textual data in Python.
+
+Demo video to show how to install and use MU EDITOR, LIGHTGBM, and NLTK:
+djsjjjda
