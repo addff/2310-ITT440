@@ -4,7 +4,44 @@ NAME: AHMAD ZIKRY BIN ADAM
 MATRIX NUMBER: 2023375187
 GROUP: M3CS2554B
 
-### FRAMEWORK
+### EDITOR
+
+###Ninja IDE:
+
+1) What is Ninja IDE?
+
+Ninja-IDE (Ninja Is Not Just Another IDE) is an open-source integrated development environment (IDE) designed primarily for Python developers. It offers a range of features and tools aimed at simplifying the development process, including code highlighting, completion, and refactoring. Ninja-IDE aimed to provide a lightweight, yet feature-rich environment for Python development. However, it's worth noting that development on Ninja-IDE slowed down in recent years, and as of my last knowledge update in January 2022, the project might not have the same level of active development or support as other more widely-used IDEs like PyCharm, Visual Studio Code, or Atom. Developers might want to consider the current status and community support before choosing Ninja-IDE for their projects.
+   
+2) Description of Ninja IDE.
+
+Ninja-IDE, short for "Ninja Is Not Just Another IDE," is an open-source integrated development environment primarily tailored for Python developers. It was created with the intention of providing a lightweight yet functional environment for Python programming. Ninja-IDE, though focused on Python, supports other programming languages as well. However, it was more tailored to cater to the Python development community with tools and features specifically designed for Python coding.
+
+3) Advantages of Ninja IDE.
+
+NINJA-IDE (Ninja Integrated Development Environment) was a Python-centric integrated development environment that offered various features and advantages for developers. Some of these advantages included:
+
+i.  Cross-platform compatibility: NINJA-IDE was designed to work on multiple operating systems, including Windows, macOS, and Linux, providing a consistent experience for developers across different platforms.
+
+ii. Code autocompletion: It offered intelligent code completion, which helped in speeding up the coding process by suggesting methods, functions, and variable names as you typed.
+
+iii.Code generation: NINJA-IDE had features for automatically generating code snippets, reducing the need for manual typing and helping developers with boilerplate code.
+
+iv. Integrated development tools: The IDE included various tools to aid development, such as a version control system, a built-in terminal, a Python debugger, and support for various plugins, streamlining the development process by having these tools within the same environment.
+
+v.  Customizability: It allowed developers to customize and extend its functionality by adding plugins or creating their own. This flexibility allowed tailoring the environment to specific needs.
+  
+4) How to install Ninja IDE
+
+i.  Download Python: Ninja-IDE is built using Python, so you'll need Python installed on your system. Download and install Python from the official Python website (https://www.python.org/). Ensure you select the option to add Python to your system's PATH during installation.
+
+ii. Install Ninja-IDE using pip (Python package manager):
+    a) Open a terminal or command prompt.
+    b) Use the following command to install Ninja-IDE via pip:
+       pip install ninja-ide
+
+iii.Launch Ninja-IDE:
+
+### LIBRARY
 
 ###PyGame:
 
@@ -30,7 +67,8 @@ iv.  Versatility: Pygame is not just limited to game development. While primaril
 
 v.   Abstraction of Complexity: Pygame abstracts complex functionalities related to graphics, sound, and event handling. This allows developers to focus more on game logic and design without having to deal directly with lower-level details. 
 
-4) PyGame's Demostration
+4) How to use  PyGame.
+
 
 ### LIBRARY
 
@@ -41,20 +79,4 @@ v.   Abstraction of Complexity: Pygame abstracts complex functionalities related
 3) Significant of Spacy.
 4) Spacy's Demostration
 
-### EDITOR
 
-###Ninja IDE:
-
-1) What is Ninja IDE?
-
-Ninja-IDE (Ninja Is Not Just Another IDE) is an open-source integrated development environment (IDE) designed primarily for Python developers. It offers a range of features and tools aimed at simplifying the development process, including code highlighting, completion, and refactoring. Ninja-IDE aimed to provide a lightweight, yet feature-rich environment for Python development. However, it's worth noting that development on Ninja-IDE slowed down in recent years, and as of my last knowledge update in January 2022, the project might not have the same level of active development or support as other more widely-used IDEs like PyCharm, Visual Studio Code, or Atom. Developers might want to consider the current status and community support before choosing Ninja-IDE for their projects.
-   
-2) Description of Ninja IDE.
-
-Ninja-IDE, short for "Ninja Is Not Just Another IDE," is an open-source integrated development environment primarily tailored for Python developers. It was created with the intention of providing a lightweight yet functional environment for Python programming. Ninja-IDE, though focused on Python, supports other programming languages as well. However, it was more tailored to cater to the Python development community with tools and features specifically designed for Python coding.
-
-3) Significant of Ninja IDE.
-
-The goal behind the Ninja-IDE is to show how full-featured IDE can assist in development of powerful feature-rich software, being free and with open source code at the same time. Ninja-IDE has powerful and highly configurable code editor with highlighting support for several languages.
-  
-4) Ninja IDE's Demostration
