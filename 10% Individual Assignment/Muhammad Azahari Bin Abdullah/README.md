@@ -16,7 +16,8 @@ TurboGears is a significant framework in the domain of web development with Pyth
 
 
 ### PyScripter (Editor)
-![PyScript](https://github.com/addff/2310-ITT440/assets/149034011/9d48a812-43bb-4444-972a-cbfc32539fea)
+![0_J0S8JpB9dPfCpIhM (1)](https://github.com/addff/2310-ITT440/assets/149034011/3728cd50-6583-41f1-a018-b3f7b69e1f86)
+
 PyScripter is an integrated development environment (IDE) tailored for Python programming. It offers a feature-rich environment for Python code development, testing, and debugging. Additionally, it enables programmers to use Python to create JavaScript applications instead of developing interactive websites and linking them to a server. Essential coding tools such as code folding, code completion, and syntax highlighting are available in PyScripter. By stepping through their code, developers can more easily find and fix problems thanks to the integrated debugger. Project management is also supported by PyScripter, which is helpful for efficiently organising your Python projects. Regardless of your level of experience with Python development, PyScripter provides an intuitive and adaptable interface to enhance your Windows platform coding experience and increase your productivity.
 
 PyScripter is a significant integrated development environment (IDE) designed with Python programming in mind. Its user-friendly interface and feature-rich environment make it a valuable tool for Python developers. PyScripter provides a powerful environment for authoring, testing, and debugging code, regardless of your level of expertise with Python development. The integrated debugger improves productivity and code quality by making it easier to find and fix problems in Python scripts. Because it gives Windows users a flexible and effective Python programming environment, it is very important for them.
