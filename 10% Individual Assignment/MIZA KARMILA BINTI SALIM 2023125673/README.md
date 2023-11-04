@@ -14,7 +14,7 @@ MIZA KARMILA BINTI SALIM (2023125673|M3CS2554B)
     To create static, animated, or interactive plots, Matplotlib can be integrated into standalone Python scripts.       
     Matplotlib is an effective tool for data analysis and visualisation in a variety of scientific and engineering fields, as well as for general data exploration. It integrates,well with NumPy, Pandas, and other libraries.
 
-### Advantages of Matplotlib Library
+### Advantages of Matplotlib
 
 Matplotlib, a popular Python library for data visualization, offers several advantages that contribute to its widespread use among data scientists, researchers, and analysts :
 
@@ -43,11 +43,12 @@ Matplotlib, a popular Python library for data visualization, offers several adva
 * __Cross-Platform Compatibility__
 	* _It works across various operating systems, ensuring consistency in plotting regardless of the platform used._
 
-* __Open-Source and Free__
+* __Free and Open-Source__
 	* _Matplotlib is open-source and free to use, making it accessible to all users without any cost barriers._
 
-
 Matplotlib is a versatile Python library for creating high-quality data visualizations. It offers a user-friendly interface, customization options, and supports various plot types. Popular among data scientists, researchers, and analysts due to its open-source nature, community support, and cross-platform compatibility.
+
+### Demonstration of Matplotlib 
 
 
 ## FRAMEWORK : WEB2PY
@@ -96,8 +97,9 @@ Web2py is a full-stack web framework that offers several advantages such as :
 * __Scalability__
 	* _While focused on simplicity, Web2py is capable of handling applications of varying sizes, from small projects to more complex and larger-scale deployments._
 
-
 Web2py is an open-source framework for Python-based web application development. It offers a secure, database-driven environment for creating, testing, and deploying applications. Key features include Python-centric approach, rapid prototyping, and Model-View-Controller architecture. Web2py is accessible to developers of all skill levels, with a built-in IDE and user-friendly administrative interface.
+
+### Demonstration of Web2py
 
 ## EDITOR : BRACKETS
 <p align="center">
@@ -112,38 +114,36 @@ Web2py is an open-source framework for Python-based web application development.
  
 ### Advantages of Brackets
 
-Web2py is a full-stack web framework that provides several key functions and features for developing web applications. 
+Brackets, the code editor primarily designed for web development, offers several advantages that make it a popular choice among developers :
 
 ***
-* __MVC Architecture__
-	* _It follows the Model-View-Controller (MVC) design pattern, providing a clear separation between data, presentation, and application logic, making the code more maintainable and scalable._
+* __Live Preview__
+	* _The standout feature is the live preview capability, allowing real-time visualization of changes made to HTML and CSS code, significantly speeding up the development process._
 
-* __Rapid Development__
-	* _The framework supports rapid application development through scaffolding, allowing developers to create functional prototypes swiftly._
+* __Preprocessor Support__
+	* _Brackets supports various preprocessor languages like LESS and SCSS, providing code hints, navigation, and compiling capabilities, catering to developers using these technologies._
 
-* __Full-Stack Framework__
-	* _It's a full-stack framework that includes a web server, a SQL database, and an administrative interface, minimizing the need for external tools and setups._
+* __Inline Editing__
+	* _The editor allows direct editing of CSS connected to HTML elements, simplifying and enhancing the development workflow._
 
-* __Security-Oriented Approach__
-	* _Security is a priority in Web2py. The framework incorporates measures to prevent common web vulnerabilities by default, aiding in the creation of more secure web applications._
-
-* __Portable and Cross-Platform__
-	* _Web2py supports multiple operating systems and platforms, ensuring portability and flexibility in deployment._
+* __Extensions and Plugins__
+	* _Brackets has an extensible architecture, allowing users to expand its functionalities by installing various plugins and extensions to suit their specific development needs._
    
-* __Ease of Use__
-	* _Designed for simplicity, Web2py makes web development accessible to developers with varying levels of expertise. Its intuitive syntax and structure allow for quick onboarding and easy learning._
+* __Version Control Integration__
+	* _Built-in support for version control systems like Git makes it easier for developers to manage and track changes in their projects._
    
-* __Integrated Testing and Debugging Tools__
-	* _The framework comes with built-in tools for testing and debugging applications, aiding developers in identifying and rectifying issues efficiently._
+* __Customization__
+	* _Users have the flexibility to customize the interface, choose from different themes, and adjust settings to match their preferences and workflow._
 
-* __Database Administration__
-	* _It includes an admin interface for the administration and management of databases, making database interactions more straightforward._
+* __Multiple Cursors and Selections__
+	* _Support for multiple cursors allows simultaneous editing in different locations within a document, improving productivity and efficiency._
 
-* __Community and Support__
-	* _Web2py has an active community and good documentation, providing resources and support for developers._
+* __Cross-Platform Availability__
+	* _Brackets is available on Windows, macOS, and Linux, ensuring accessibility across various operating systems._
 
-* __Scalability__
-	* _While focused on simplicity, Web2py is capable of handling applications of varying sizes, from small projects to more complex and larger-scale deployments._
-
+* __Developer-Focused__
+	* _It's tailored to the needs of front-end developers, providing features that streamline the coding and design process for web applications and websites._
 
 Brackets is a user-friendly, adaptable open-source code editor designed for front-end web development. It features a live preview feature, supports preprocessor languages like LESS and SCSS, and offers extensible architecture for customization. Its integrated version control system and multiple cursors enhance user experience. Available across different operating systems, Brackets is a popular choice for front-end developers seeking efficient web development environments.
+
+### Demonstration of Brackets
