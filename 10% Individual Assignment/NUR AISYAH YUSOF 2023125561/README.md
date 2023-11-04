@@ -52,4 +52,3 @@ TensorFlow :
 - Custom Operations: Advanced users can define custom operations and layers for specialized model architectures and operations.
 - Community and Ecosystem: TensorFlow has a large and active community that contributes to a rich ecosystem of libraries and extensions, including TensorFlow Hub, TensorFlow Lite, and TensorFlow.js.
 
-These are just some of the functions and capabilities of TensorFlow. It's a versatile framework that provides the tools necessary to design, train, and deploy a wide variety of machine learning and deep learning models.
