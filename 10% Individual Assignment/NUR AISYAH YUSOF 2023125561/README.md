@@ -9,7 +9,7 @@ GROUP: M3CS2554B
 Notepad : 
 
 1) What is Notepad?
-Notepad is a simple text editor program that comes pre-installed with Microsoft Windows operating systems. It is a basic and lightweight application designed for creating and editing plain text files.
+- Notepad is a simple text editor program that comes pre-installed with Microsoft Windows operating systems. It is a basic and lightweight application designed for creating and editing plain text files.
 
 2) Functions of Notepad
 - Text Editing: User can type edit plain text with it. No fancy formatting, just simple text.
@@ -27,7 +27,7 @@ Notepad is a simple text editor program that comes pre-installed with Microsoft 
 TensorFlow : 
 
 1) What is TensorFlow?
-TensorFlow is a software tool created by Google for teaching computers how to learn and make decisions, a bit like how humans learn. It's used for tasks like recognizing images or understanding language. It's very flexible and can work on both small and big problems, making it a popular choice for machine learning and artificial intelligence. People can build custom programs or use pre-made ones to solve various problems. It's widely used by researchers and companies to create smarter computer systems.
+- TensorFlow is a software tool created by Google for teaching computers how to learn and make decisions, a bit like how humans learn. It's used for tasks like recognizing images or understanding language. It's very flexible and can work on both small and big problems, making it a popular choice for machine learning and artificial intelligence. People can build custom programs or use pre-made ones to solve various problems. It's widely used by researchers and companies to create smarter computer systems.
 
 2) Key Functions and Features
 - Tensor Creation: TensorFlow introduces the concept of tensors, which are multi-dimensional arrays. It provides functions for creating and manipulating tensors.
