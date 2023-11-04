@@ -95,4 +95,4 @@ NLTK is a valuable resource for researchers, students, and professionals working
 
 Demo video to show how to install and use MU EDITOR, LIGHTGBM, and NLTK:
 
-https://youtu.be/psZWbaceEY0<psZWbaceEY0>https://youtu.be/<psZWbaceEY0>
+https://www.youtube.com/watch?v=psZWbaceEY0https://youtu.be/psZWbaceEY0
