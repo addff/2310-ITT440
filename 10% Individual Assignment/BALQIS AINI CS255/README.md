@@ -22,7 +22,7 @@ Eric is a Python Integrated Development Environment (IDE) that offers a comprehe
 
 ###### Demonstration Of Eric Python IDE : 
 <a href="https://drive.google.com/file/d/1lE2ygfX75bsEZI7GmGDhQ_YeiTb_osmv/view?usp=sharing">Watch the video</a>
-________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________
 ### Framework: Tkinter
 ![68747470733a2f2f7777772e7475746f7269616c616e646578616d706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f546b696e7465722d2545322538302539332d507974686f6e2e706e67](https://github.com/addff/2310-ITT440/assets/146956790/0975cefb-51e6-46a8-abff-46d6ab5c0f13)
 
@@ -41,7 +41,7 @@ Tkinter is a standard Python library for creating Graphical User Interfaces (GUI
 
 ###### Demonstration Of Tkinter : 
 <a href="https://drive.google.com/file/d/1LRpl6ne_4USOFFQNReSPhnWKaM1RL7D3/view?usp=drivesdk">Watch the video</a>
-________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________
 ### Library: ZeroMQ
 ![download](https://github.com/addff/2310-ITT440/assets/146956790/8d8c6658-4eca-46bd-98e8-dd37d9507415)
 
