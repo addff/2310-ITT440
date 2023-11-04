@@ -61,31 +61,31 @@ Overall, SciPy is a powerful tool for scientists, engineers, and researchers who
 
 ## LIBRARY : SYMPY
 
-WHAT IS SYMPY ?
+### WHAT IS SYMPY ?
 
 SymPy is an open-source Python library for symbolic mathematics. It aims to provide a comprehensive set of tools for performing algebraic operations symbolically rather than numerically. This means that SymPy can manipulate mathematical expressions with variables, constants, and functions in a way that retains the symbolic form of the equations.
 
 ### SYMPY FEATURE :
 
-     Symbolic Expressions: SymPy allows you to define symbols (variables) and perform operations on them symbolically. For example, you can define x as a symbol and manipulate expressions like x**2 + 2*x + 1 without numerical approximation.
+_**Symbolic Expressions**_ : SymPy allows you to define symbols (variables) and perform operations on them symbolically. For example, you can define x as a symbol and manipulate expressions like x**2 + 2*x + 1 without numerical approximation.
 
-     Algebraic Manipulations: It can perform a wide range of algebraic operations, including simplification, expansion, factorization, and solving equations.
+_**Algebraic Manipulations**_ : It can perform a wide range of algebraic operations, including simplification, expansion, factorization, and solving equations.
 
-     Calculus: SymPy supports symbolic differentiation and integration, allowing you to compute derivatives, definite and indefinite integrals, limits, and more.
+_**Calculus**_ : SymPy supports symbolic differentiation and integration, allowing you to compute derivatives, definite and indefinite integrals, limits, and more.
 
-     Linear Algebra: It provides functionality for performing operations related to matrices and linear algebra, including matrix multiplication, determinants, eigenvalues, and solving systems of linear equations.
+_**Linear Algebra**_ : It provides functionality for performing operations related to matrices and linear algebra, including matrix multiplication, determinants, eigenvalues, and solving systems of linear equations.
 
-     Differential Equations: SymPy can solve a variety of ordinary and partial differential equations symbolically.
+_**Differential Equations**_ : SymPy can solve a variety of ordinary and partial differential equations symbolically.
 
-     Trigonometry and Special Functions: It includes functions for working with trigonometric expressions, as well as a wide range of special mathematical functions.
+_**Trigonometry and Special Functions**_ : It includes functions for working with trigonometric expressions, as well as a wide range of special mathematical functions.
 
-     Solvers: SymPy can solve a wide array of mathematical problems, including algebraic equations, differential equations, inequalities, and more.
+_**Solvers**_: SymPy can solve a wide array of mathematical problems, including algebraic equations, differential equations, inequalities, and more.
 
-     Plotting: It offers basic plotting capabilities to visualize mathematical expressions and functions.
+_**Plotting**_ : It offers basic plotting capabilities to visualize mathematical expressions and functions.
 
-     Geometric Algebra: SymPy includes modules for working with geometric objects and performing geometric operations.
+_**Geometric Algebra**_ : SymPy includes modules for working with geometric objects and performing geometric operations.
 
-     Combining with NumPy and SciPy: While SymPy is primarily focused on symbolic mathematics, it can be used in conjunction with NumPy and SciPy for both symbolic and numerical computations.
+_**Combining with NumPy and SciPy**_ : While SymPy is primarily focused on symbolic mathematics, it can be used in conjunction with NumPy and SciPy for both symbolic and numerical computations.
 
 SymPy is widely used in scientific and engineering applications where symbolic mathematics is required. It is particularly valuable in fields like mathematics, physics, engineering, and computer science for tasks that involve complex algebraic manipulations and symbolic reasoning.
 
