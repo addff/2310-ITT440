@@ -1,10 +1,10 @@
 ## 2310-ITT440
 ## NAME:  BALQIS AINI BINTI MUHAMMAD BAKHIT (2022340777) 
 ## TITLE: PHYTON FOR NETWORK ENGINEER
-## OBJECTIVE
-To discuss existing tools and library in phyton that can help Network Engineer
+### OBJECTIVE
+- To discuss existing tools and library in phyton that can help Network Engineer
 
-## Editor: Eric Phyton IDE
+### Editor: Eric Phyton IDE
 ![download](https://github.com/addff/2310-ITT440/assets/146956790/4f65cb47-dbe0-48c3-8da7-a0b2364f55b5)
 
 Eric is an open-source integrated development environment written and a full featured Python editor and IDE, written in Python. It is based on the cross platform Qt UI toolkit, integrating the highly flexible Scintilla editor control. It is designed to dirty editor as well as being usable as a professional project management tool integrating many advanced features Python offers the professional coder. Eric includes a plug-in system, which allows easy extension of the IDE functionality with plug-ins downloadable from the net. 
@@ -22,12 +22,9 @@ Eric is a Python Integrated Development Environment (IDE) that offers a comprehe
 
 ###### Demonstration Of Eric Python IDE : 
 
+![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
 
-
-
-
-
-## Framework: Tkinter
+### Framework: Tkinter
 ![68747470733a2f2f7777772e7475746f7269616c616e646578616d706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f546b696e7465722d2545322538302539332d507974686f6e2e706e67](https://github.com/addff/2310-ITT440/assets/146956790/0975cefb-51e6-46a8-abff-46d6ab5c0f13)
 
 Python has a lot of GUI frameworks, but Tkinter is the only framework that’s built into the Python standard library. Tkinter has several strengths. It’s cross-platform, so the same code works on Windows, macOS, and Linux. Visual elements are rendered using native operating system elements. Although Tkinter is considered the Python GUI framework, it’s not without criticism. One notable criticism is that GUIs built with Tkinter look outdated. However, Tkinter is lightweight and relatively painless to use compared to other frameworks. This makes it a compelling choice for building GUI applications in Python, especially for applications where a modern sheen is unnecessary, and the top priority is to quickly build something that’s functional and cross-platform.
@@ -46,13 +43,10 @@ Tkinter is a standard Python library for creating Graphical User Interfaces (GUI
 ###### Demonstration Of Tkinter : 
 
 ![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
+
 https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing
 
-
-[![Video Thumbnail](https://github.com/addff/2310-ITT440/blob/main/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)](https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing)
-
-
-## Library: ZeroMQ
+### Library: ZeroMQ
 ![download](https://github.com/addff/2310-ITT440/assets/146956790/8d8c6658-4eca-46bd-98e8-dd37d9507415)
 
 ZeroMQ, often known as ZMQ, is a high-performance messaging library tailored for building scalable, distributed, and asynchronous applications. It offers a wide array of communication patterns, including publish-subscribe and request-reply, making it suitable for various use cases. Lightweight and language-agnostic, ZeroMQ is implemented in multiple programming languages, and in Python, the pyzmq library facilitates its integration. It is commonly utilized in distributed systems, microservices, and parallel computing applications where low-latency, high-performance messaging is essential for seamless communication between system components.
@@ -70,9 +64,9 @@ ZeroMQ is a high-performance asynchronous messaging library and framework. Its s
 
 ###### Demonstration Of ZeroMQ : 
 
+![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
 
+https://drive.google.com/file/d/1h4VBT-H2Tw8JXQCCHRARy9yveb8aSfrg/view?usp=sharing
 
-
-
-
+[![image src](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)](https://drive.google.com/file/d/1h4VBT-H2Tw8JXQCCHRARy9yveb8aSfrg/view?usp=sharing)
 
