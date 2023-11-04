@@ -153,3 +153,76 @@ network errors, login failures, or timeouts. You can use try-except blocks to ca
 
 
 ###Library: Pulsar
+The exact details and purpose of such a library or software would depend on the specific context and domain it is associated with. There are 
+numerous software projects and libraries with diverse functionalities, and it's important to provide more context to identify the specific 
+"Pulsar" library or software you are interested in. If you have a more specific question about a particular "Pulsar," please provide 
+additional context, and I'll be happy to provide more detailed information. As of my last knowledge update in January 2022, Apache Pulsar was 
+an open-source distributed messaging and event streaming platform developed under the Apache Software Foundation.
+
+Here's the significances:
+1. Distributed Messaging and Event Streaming.
+2. Multi-Tenancy
+3. Scalability
+4. Durable Message Storage
+5. Strong Consistency
+6. Integration with Apache Projects
+7. Community and Ecosystem
+8. Use Cases
+
+Here's the steps including installation, configuration, and integration into your application.
+1. Download the official Apache Pulsar distribution:
+
+ 	   wget https://archive.apache.org/dist/pulsar/pulsar-3.1.1/apache-pulsar-3.1.1-bin.tar.gz
+
+2. Once downloaded, unpack the tar file:
+
+  	 tar xvfz apache-pulsar-3.1.1-bin.tar.gz
+
+3. For the rest of this quickstart all commands are run from the root of the distribution folder, so switch to it:
+
+  	 cd apache-pulsar-3.1.1
+
+4. List the contents by executing:
+
+  	 ls -1F
+
+5. Run this command to start a standalone Pulsar cluster:
+
+ 	  bin/pulsar standalone
+
+6. Pulsar stores messages in topics. It's a good practice to explicitly create topics before using them, even if Pulsar can automatically create topics when they are referenced.
+To create a new topic, run this command:
+
+   	bin/pulsar-admin topics create persistent://public/default/my-topic
+
+7. You can use the pulsar command line tool to write messages to a topic. This is useful for experimentation, but in practice you'll use the Producer API in your application code, or Pulsar IO connectors for pulling data in from other systems to Pulsar.
+Run this command to produce a message:
+
+   	bin/pulsar-client produce my-topic --messages 'Hello Pulsar!'
+
+8. Now that some messages have been written to the topic, run this command to launch the consumer and read those messages back:
+
+   	bin/pulsar-client consume my-topic -s 'my-subscription' -p Earliest -n 0
+
+9. You'll see the messages you produce in the previous step:
+
+		----- got message -----
+   
+   key:[null], properties:[], content:Hello Pulsar!
+
+11. Leave the consume command from the previous step running. If you've already closed it, just re-run it.
+Now open a new terminal window and produce more messages. The default message separator is ,:
+
+
+   	 bin/pulsar-client produce my-topic --messages "$(seq -s, -f 'Message NO.%g' 1 10)"
+
+12. Once you've finished you can shut down the Pulsar cluster. Press Ctrl-C in the terminal window in which you started the cluster.
+
+DEMO Video for Gedit, Telnetlib and Apache Pulsar
+
+[![Video](https://img.youtube.com/vi/4qycZ7tvSAg/0.jpg)](https://www.youtube.com/watch?v=4qycZ7tvSAg)
+
+
+
+
+
