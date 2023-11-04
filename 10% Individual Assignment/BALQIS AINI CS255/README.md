@@ -61,6 +61,4 @@ ZeroMQ is a high-performance asynchronous messaging library and framework. Its s
    - It provides features like message queuing, load balancing, and fault tolerance, making it a robust choice for building resilient distributed systems.
 
 ###### Demonstration Of ZeroMQ : 
-![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
-
-https://drive.google.com/file/d/1h4VBT-H2Tw8JXQCCHRARy9yveb8aSfrg/view?usp=sharing
+<a href="https://drive.google.com/file/d/1h4VBT-H2Tw8JXQCCHRARy9yveb8aSfrg/view?usp=sharing">Watch the video</a>
