@@ -24,6 +24,9 @@ Eric is a Python Integrated Development Environment (IDE) that offers a comprehe
 ![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
 
 https://drive.google.com/file/d/1lE2ygfX75bsEZI7GmGDhQ_YeiTb_osmv/view?usp=sharing
+
+[![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)](https://drive.google.com/file/d/1lE2ygfX75bsEZI7GmGDhQ_YeiTb_osmv/view?usp=sharing)
+
 ________________________________________________________________________________________________________________________________________
 ### Framework: Tkinter
 ![68747470733a2f2f7777772e7475746f7269616c616e646578616d706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f546b696e7465722d2545322538302539332d507974686f6e2e706e67](https://github.com/addff/2310-ITT440/assets/146956790/0975cefb-51e6-46a8-abff-46d6ab5c0f13)
