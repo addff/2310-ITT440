@@ -37,9 +37,10 @@ i.  Download Python: Ninja-IDE is built using Python, so you'll need Python inst
 ii. Install Ninja-IDE using pip (Python package manager):
     a) Open a terminal or command prompt.
     b) Use the following command to install Ninja-IDE via pip:
+    
        pip install ninja-ide
 
-iii.Launch Ninja-IDE:
+iii.Launch Ninja-IDE
 
 ### LIBRARY
 
