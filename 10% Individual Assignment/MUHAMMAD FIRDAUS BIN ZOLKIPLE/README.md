@@ -54,21 +54,120 @@
 	While Pandas itself is not a visualization library, it integrates well with visualization tools
 	like Matplotlib and Seaborn. It allows for quick and straightforward data plotting and visualization.
 	
-	### 8. Data Input/Output
+	### 8.Data Input/Output
 	
 	Pandas supports reading and writing data in various formats, such as CSV, Excel, SQL databases, JSON,
 	and more. This versatility makes it easy to work with different data sources and export processed data.
 
-	##Conclusion For PANDAS
+	### Conclusion For PANDAS
 	
 	Pandas, in general, simplifies many common data-related tasks, making it an invaluable tool for data scientists,
 	analysts, and anyone working with Python data. Its simplicity of use, extensive functionalities, and
 	versatility in data manipulation make it a go-to library for a wide range of data-related tasks.
 	
 
-## How to Use Pandas
+##  Demonstrate the use of some essential tools in Pandas for data manipulation and analysis.
 
+	### 1. Importing Pandas
+	
+		import pandas as pd
 
+	###  2. Creating a DataFrame
+	
+		#### From a Dictionary
+		
+				data = {
+			'Name': ['Alice', 'Bob', 'Charlie', 'David'],
+			'Age': [25, 30, 35, 40],
+			'City': ['New York', 'San Francisco', 'Los Angeles', 'Chicago']
+			}
+
+			df = pd.DataFrame(data)
+			print(df)
+		
+	### 3. Data Manipulation
+
+		#### Accessing Data
+	
+			# Display first few rows of the DataFrame
+		
+			print(df.head())
+
+			# Accessing specific columns
+		
+			print(df['Name'])
+
+			# Accessing specific rows and columns
+		
+			print(df.loc[0])  # Access first row
+			print(df.loc[:, 'Age'])  # Access 'Age' column
+			
+		### Filtering Data	
+			
+			# Filtering data based on conditions
+			
+			print(df[df['Age'] > 30])
+
+		
+	### 4. Data Operations
+	
+		#### Handling Missing Data
+		
+			# Drop rows with missing values
+			
+			cleaned_data = df.dropna()
+
+			# Fill missing values with a specific value
+			
+			filled_data = df.fillna(0)
+
+		#### Merging and Joining Data
+		
+			# Create two DataFrames for merging
+			
+			data1 = pd.DataFrame({'Key': ['A', 'B', 'C'], 'Value': [1, 2, 3]})
+			data2 = pd.DataFrame({'Key': ['A', 'B', 'D'], 'Value': [4, 5, 6]})
+
+			# Merge based on 'Key' column
+			
+			merged_data = pd.merge(data1, data2, on='Key')
+			
+		#### Grouping and Aggregating Data
+
+			# Grouping data by 'City' and calculating the average age in each city
+			
+			grouped_data = df.groupby('City')['Age'].mean()
+			print(grouped_data)
+	
+	### 5. Data input/Output
+	
+		#### Reading and Writing Data
+			
+			# Read data from a CSV file
+			
+			data_from_csv = pd.read_csv('data.csv')
+
+			# Write data to a CSV file
+			
+			df.to_csv('output.csv', index=False)
+
+	### 6. Time Series Data
+		
+		#### Pandas offers various functionalities for handling time series data:
+		
+			# Resampling time series data
+			
+			time_series_data = pd.date_range('2023-01-01', periods=10)
+			print(time_series_data)
+
+			# Shifting and lagging data
+			
+			shifted_data = df['Age'].shift(1)
+			print(shifted_data)
+
+		
+		
+		
 # BOTTLE FrameWork
 
 	Think of the Bottle framework as a simple and lightweight tool in the world of web development, 
@@ -210,8 +309,12 @@
 	Spyder's user-friendly interface and robust scientific computing tools 
 	make it ideal for teaching and learning Python in data-centric fields.
 	
-	##Conclusion for SPYDER
+	### Conclusion for SPYDER
 	
 	Spyder is a robust, feature-rich, and specialized IDE that caters specifically to data science,
 	numerical computing, and scientific research, attracting users in these domains due to 
 	its extensive tool set and user-friendly interface.
+	
+## Demo about SPYDER
+
+[![Click to Watch the Video](https://img.youtube.com/vi/X60eK8CyoP4/0.jpg)](https://www.youtube.com/watch?v=X60eK8CyoP4)
