@@ -30,6 +30,8 @@ Remote Development: PyScripter has features to support remote development, which
 
 Customization: The IDE is highly customizable, allowing you to configure various settings, themes, and plugins to suit your preferences and workflow.
 
+PyScripter is a popular choice among Python developers, especially those who prefer a lightweight and customizable IDE for their Python development work. It is available for Windows and is written in Delphi, a high-level programming language.
+
 ## FRAMEWORK : SCIPY
 
 WHAT IS SCIPY ?
@@ -56,4 +58,34 @@ File Input/Output: It provides functions for reading and writing data in various
 
 Overall, SciPy is a powerful tool for scientists, engineers, and researchers who need to perform a wide range of numerical and scientific computations using Python. It complements other libraries like NumPy and Matplotlib, providing a comprehensive ecosystem for scientific computing in Python.
 
+
+## LIBRARY : SYMPY
+
+WHAT IS SYMPY ?
+
+SymPy is an open-source Python library for symbolic mathematics. It aims to provide a comprehensive set of tools for performing algebraic operations symbolically rather than numerically. This means that SymPy can manipulate mathematical expressions with variables, constants, and functions in a way that retains the symbolic form of the equations.
+
+### SYMPY FEATURE :
+
+Symbolic Expressions: SymPy allows you to define symbols (variables) and perform operations on them symbolically. For example, you can define x as a symbol and manipulate expressions like x**2 + 2*x + 1 without numerical approximation.
+
+Algebraic Manipulations: It can perform a wide range of algebraic operations, including simplification, expansion, factorization, and solving equations.
+
+Calculus: SymPy supports symbolic differentiation and integration, allowing you to compute derivatives, definite and indefinite integrals, limits, and more.
+
+Linear Algebra: It provides functionality for performing operations related to matrices and linear algebra, including matrix multiplication, determinants, eigenvalues, and solving systems of linear equations.
+
+Differential Equations: SymPy can solve a variety of ordinary and partial differential equations symbolically.
+
+Trigonometry and Special Functions: It includes functions for working with trigonometric expressions, as well as a wide range of special mathematical functions.
+
+Solvers: SymPy can solve a wide array of mathematical problems, including algebraic equations, differential equations, inequalities, and more.
+
+Plotting: It offers basic plotting capabilities to visualize mathematical expressions and functions.
+
+Geometric Algebra: SymPy includes modules for working with geometric objects and performing geometric operations.
+
+Combining with NumPy and SciPy: While SymPy is primarily focused on symbolic mathematics, it can be used in conjunction with NumPy and SciPy for both symbolic and numerical computations.
+
+SymPy is widely used in scientific and engineering applications where symbolic mathematics is required. It is particularly valuable in fields like mathematics, physics, engineering, and computer science for tasks that involve complex algebraic manipulations and symbolic reasoning.
 
