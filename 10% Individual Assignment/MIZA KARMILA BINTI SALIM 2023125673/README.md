@@ -1,6 +1,8 @@
 ## ITT440 - 10% INDIVIDUAL ASSIGNMENT
 MIZA KARMILA BINTI SALIM (2023125673|M3CS2554B)
 
+TITLE : PYTHON FOR NETWORK ENGINEER
+
 ## LIBRARY : MATPLOTLIB
 <p align="center">
 	<img src="https://github.com/addff/2310-ITT440/assets/149155016/593dc637-802a-42b1-bf0b-c3fcbb9ae264.png" width=100% height=100%>
@@ -20,31 +22,31 @@ Matplotlib, a popular Python library for data visualization, offers several adva
 
 ***
 * __Ease of Use__
-	* _It is relatively easy to get started with Matplotlib, offering a simple syntax for creating basic plots. Users can quickly generate visualizations with minimal coding._
+	* It is relatively easy to get started with Matplotlib, offering a simple syntax for creating basic plots. Users can quickly generate visualizations with minimal coding.
 
 * __Customization__
-	* _Matplotlib is highly customizable, allowing users to modify nearly every aspect of the plots, including colors, line styles, markers, annotations, and more, providing flexibility in visual design._
+	* Matplotlib is highly customizable, allowing users to modify nearly every aspect of the plots, including colors, line styles, markers, annotations, and more, providing flexibility in visual design.
 
 * __Integration with Jupyter Notebooks__
-	* _Matplotlib seamlessly integrates with Jupyter Notebooks, allowing users to create interactive visualizations within the notebook environment._
+	* Matplotlib seamlessly integrates with Jupyter Notebooks, allowing users to create interactive visualizations within the notebook environment.
 
 * __Publication-Quality Plots__
-	* _The library generates high-quality plots suitable for publication or inclusion in academic papers, reports, or presentations._
+	* The library generates high-quality plots suitable for publication or inclusion in academic papers, reports, or presentations.
 
 * __Community and Resources__
-	* _It has an extensive user community with ample documentation, examples, and resources available online, making it easy to find help and learn more about advanced plotting techniques._
+	* It has an extensive user community with ample documentation, examples, and resources available online, making it easy to find help and learn more about advanced plotting techniques.
 
 * __Compatibility with NumPy and Pandas__
-	* _Matplotlib integrates well with other Python libraries like NumPy and Pandas, enhancing its utility in data analysis and scientific computing._
+	* Matplotlib integrates well with other Python libraries like NumPy and Pandas, enhancing its utility in data analysis and scientific computing.
 
 * __Versatility__
-	* _Matplotlib supports various plot types and visualizations, enabling the creation of line plots, bar charts, histograms, scatter plots, pie charts, and more, providing a wide range of options for representing data._
+	* Matplotlib supports various plot types and visualizations, enabling the creation of line plots, bar charts, histograms, scatter plots, pie charts, and more, providing a wide range of options for representing data.
 
 * __Cross-Platform Compatibility__
-	* _It works across various operating systems, ensuring consistency in plotting regardless of the platform used._
+	* It works across various operating systems, ensuring consistency in plotting regardless of the platform used.
 
 * __Free and Open-Source__
-	* _Matplotlib is open-source and free to use, making it accessible to all users without any cost barriers._
+	* Matplotlib is open-source and free to use, making it accessible to all users without any cost barriers.
 
 Matplotlib is a versatile Python library for creating high-quality data visualizations. It offers a user-friendly interface, customization options, and supports various plot types. Popular among data scientists, researchers, and analysts due to its open-source nature, community support, and cross-platform compatibility.
 
@@ -68,34 +70,34 @@ Web2py is a full-stack web framework that offers several advantages such as :
 
 ***
 * __MVC Architecture__
-	* _It follows the Model-View-Controller (MVC) design pattern, providing a clear separation between data, presentation, and application logic, making the code more maintainable and scalable._
+	* It follows the Model-View-Controller (MVC) design pattern, providing a clear separation between data, presentation, and application logic, making the code more maintainable and scalable.
 
 * __Rapid Development__
-	* _The framework supports rapid application development through scaffolding, allowing developers to create functional prototypes swiftly._
+	* The framework supports rapid application development through scaffolding, allowing developers to create functional prototypes swiftly.
 
 * __Full-Stack Framework__
-	* _It's a full-stack framework that includes a web server, a SQL database, and an administrative interface, minimizing the need for external tools and setups._
+	* It's a full-stack framework that includes a web server, a SQL database, and an administrative interface, minimizing the need for external tools and setups.
 
 * __Security-Oriented Approach__
-	* _Security is a priority in Web2py. The framework incorporates measures to prevent common web vulnerabilities by default, aiding in the creation of more secure web applications._
+	* Security is a priority in Web2py. The framework incorporates measures to prevent common web vulnerabilities by default, aiding in the creation of more secure web applications.
 
 * __Portable and Cross-Platform__
-	* _Web2py supports multiple operating systems and platforms, ensuring portability and flexibility in deployment._
+	* Web2py supports multiple operating systems and platforms, ensuring portability and flexibility in deployment.
    
 * __Ease of Use__
-	* _Designed for simplicity, Web2py makes web development accessible to developers with varying levels of expertise. Its intuitive syntax and structure allow for quick onboarding and easy learning._
+	* Designed for simplicity, Web2py makes web development accessible to developers with varying levels of expertise. Its intuitive syntax and structure allow for quick onboarding and easy learning.
    
 * __Integrated Testing and Debugging Tools__
-	* _The framework comes with built-in tools for testing and debugging applications, aiding developers in identifying and rectifying issues efficiently._
+	* The framework comes with built-in tools for testing and debugging applications, aiding developers in identifying and rectifying issues efficiently.
 
 * __Database Administration__
-	* _It includes an admin interface for the administration and management of databases, making database interactions more straightforward._
+	* It includes an admin interface for the administration and management of databases, making database interactions more straightforward.
 
 * __Community and Support__
-	* _Web2py has an active community and good documentation, providing resources and support for developers._
+	* Web2py has an active community and good documentation, providing resources and support for developers.
 
 * __Scalability__
-	* _While focused on simplicity, Web2py is capable of handling applications of varying sizes, from small projects to more complex and larger-scale deployments._
+	* While focused on simplicity, Web2py is capable of handling applications of varying sizes, from small projects to more complex and larger-scale deployments.
 
 Web2py is an open-source framework for Python-based web application development. It offers a secure, database-driven environment for creating, testing, and deploying applications. Key features include Python-centric approach, rapid prototyping, and Model-View-Controller architecture. Web2py is accessible to developers of all skill levels, with a built-in IDE and user-friendly administrative interface.
 
@@ -118,31 +120,31 @@ Brackets, the code editor primarily designed for web development, offers several
 
 ***
 * __Live Preview__
-	* _The standout feature is the live preview capability, allowing real-time visualization of changes made to HTML and CSS code, significantly speeding up the development process._
+	* The standout feature is the live preview capability, allowing real-time visualization of changes made to HTML and CSS code, significantly speeding up the development process.
 
 * __Preprocessor Support__
-	* _Brackets supports various preprocessor languages like LESS and SCSS, providing code hints, navigation, and compiling capabilities, catering to developers using these technologies._
+	* Brackets supports various preprocessor languages like LESS and SCSS, providing code hints, navigation, and compiling capabilities, catering to developers using these technologies.
 
 * __Inline Editing__
-	* _The editor allows direct editing of CSS connected to HTML elements, simplifying and enhancing the development workflow._
+	* The editor allows direct editing of CSS connected to HTML elements, simplifying and enhancing the development workflow.
 
 * __Extensions and Plugins__
-	* _Brackets has an extensible architecture, allowing users to expand its functionalities by installing various plugins and extensions to suit their specific development needs._
+	* Brackets has an extensible architecture, allowing users to expand its functionalities by installing various plugins and extensions to suit their specific development needs.
    
 * __Version Control Integration__
-	* _Built-in support for version control systems like Git makes it easier for developers to manage and track changes in their projects._
+	* Built-in support for version control systems like Git makes it easier for developers to manage and track changes in their projects.
    
 * __Customization__
-	* _Users have the flexibility to customize the interface, choose from different themes, and adjust settings to match their preferences and workflow._
+	* Users have the flexibility to customize the interface, choose from different themes, and adjust settings to match their preferences and workflow.
 
 * __Multiple Cursors and Selections__
-	* _Support for multiple cursors allows simultaneous editing in different locations within a document, improving productivity and efficiency._
+	* Support for multiple cursors allows simultaneous editing in different locations within a document, improving productivity and efficiency.
 
 * __Cross-Platform Availability__
-	* _Brackets is available on Windows, macOS, and Linux, ensuring accessibility across various operating systems._
+	* Brackets is available on Windows, macOS, and Linux, ensuring accessibility across various operating systems.
 
 * __Developer-Focused__
-	* _It's tailored to the needs of front-end developers, providing features that streamline the coding and design process for web applications and websites._
+	* It's tailored to the needs of front-end developers, providing features that streamline the coding and design process for web applications and websites.
 
 Brackets is a user-friendly, adaptable open-source code editor designed for front-end web development. It features a live preview feature, supports preprocessor languages like LESS and SCSS, and offers extensible architecture for customization. Its integrated version control system and multiple cursors enhance user experience. Available across different operating systems, Brackets is a popular choice for front-end developers seeking efficient web development environments.
 
