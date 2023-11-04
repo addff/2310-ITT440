@@ -1,10 +1,10 @@
 ### NAME		: Muhammad Ammar Najmi Bin Md Yussanirul Sha'amsul Kamal 
-### STUDENT ID  : 2022196487
+### STUDENT ID  : (2022196487)
 ### GROUP       : M3CS2554A
 
 # Assessment 1 (10%): Individual Assignment.
 
-## test
+
 
 ## PyCharm
  
@@ -135,6 +135,45 @@
 	After that, Secure Communication.  NETCONF typically uses SSH for secure communication, and ncclient provides built-in support for SSH, ensuring secure and authenticated access to network devices.Furthermore, 
 	operational data Retrieval. NCClient allows for the retrieval of operational data from network devices, which is important for monitoring and troubleshooting network issues.
 
+## How to Use NCClient in Kali Linux
 
 
-# Demonstrate tools Pycharm,Flask and Ncclient.
+	To use the `ncclient` library in Kali Linux without connecting to a network device, you can create a simple Python script that sets up a basic NETCONF client using `ncclient` to interact with a NETCONF server. 
+	Here's a minimal example:
+
+	1. **Install the `ncclient` library** if it's not already installed in your Python environment:
+
+	```bash
+	pip install ncclient
+	```
+
+	2. Create a Python script (e.g., `simple_ncclient.py`) to interact with a local NETCONF server. This script demonstrates how to connect to a fictional NETCONF server running on your localhost.
+
+	```
+	python
+	from ncclient import manager
+
+	# Replace these variables with your device's actual credentials
+	HOST = "192.168.253.128"
+	USER = "ammar1"
+	PASS = "ammar123"
+	
+	def connect_to_device():
+    try:
+        with manager.connect(host=HOST, username=USER, password=PASS, hostkey_verify=False) as m:
+            for capability in m.server_capabilities:
+                print(capability)
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+	if __name__ == "__main__":
+    connect_to_device()
+	```
+
+	In this script, we use the `ncclient` library to establish a connection to a NETCONF server. 
+	Replace the placeholders with the actual connection details if you have a specific NETCONF server in mind.
+
+
+## Demonstrate tools Pycharm,Flask and Ncclient.
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/9xnfHxV0Tb4" frameborder="0" allowfullscreen></iframe>
