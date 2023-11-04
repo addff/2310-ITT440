@@ -7,12 +7,32 @@
 ### CLASS: M3CS2554A
 
 
-FRAMEWORK <CherryPy>
+# 1. FRAMEWORK 
+## CherryPy
+![download](https://github.com/addff/2310-ITT440/assets/149042347/c2398e1f-28bd-45f7-986a-efed052175cb)
 
-What is Flask?
+### What is CherryPy?
 
-Description of Flask.
+CherryPy, a Python web framework, stands as a minimalistic yet potent tool that aims to simplify and streamline web application development. Renowned for its simplicity, flexibility, and lightweight design, it has gained recognition as an exceptional option for constructing web applications and APIs. This report offers a comprehensive insight into CherryPy, encompassing its attributes, application scenarios, and its impact in the domain of web development.
 
+### Features and Functionality
+#### 1. Simplicity and Minimalism
+CherryPy prides itself on its simplicity and minimalistic approach to web development. It allows developers to create web applications using Python classes and methods without the need for boilerplate code or complex configurations. This simplicity makes it an attractive choice for both beginners and experienced developers.
+
+#### 2. Built-in Web Server
+CherryPy comes with a built-in HTTP server, enabling developers to run web applications with just a few lines of code. While this server is suitable for development and testing, CherryPy applications can also be deployed on more robust web servers like Apache or Nginx for production use.
+
+#### 3. URL Mapping and Routing
+CherryPy simplifies URL mapping and routing. Developers can define routes as methods within Python classes, making it easy to map URLs to specific functions and handle different HTTP methods like GET, POST, PUT, and DELETE.
+
+#### 4. Built-in Tools and Plugins
+CherryPy includes a collection of built-in tools and plugins that simplify common web development tasks, such as handling sessions, authentication, caching, and more. These tools can be easily integrated into CherryPy applications, saving time and effort.
+
+#### 5. Object-Oriented Approach
+CherryPy promotes an object-oriented approach to web development. Applications are organized as classes and methods, making it natural to structure code and maintain clean, maintainable projects.
+
+#### 6. Integration with Other Libraries
+CherryPy can be integrated with other Python libraries and frameworks, including template engines like Jinja2 and front-end frameworks like React and Vue.js. This flexibility allows developers to combine CherryPy's simplicity with other powerful tools.
 Significant of Flask.
 
 Flask Demostration
@@ -29,9 +49,9 @@ Significant of Panda.
 
 Scikit-learn's Panda
 
-# 1. EDITOR
+# 3. EDITOR
 
-## - Atom
+##  Atom
 
 
 ![image](https://github.com/addff/2310-ITT440/assets/149042347/776a5ca2-5e37-4c9e-b755-71fe6ffc70ae)
@@ -54,6 +74,35 @@ Atom streamlines the process of version control by incorporating Git and GitHub 
 
 #### 3. Smart Autocompletion
 Atom's intelligent autocompletion and suggestion system enhance productivity. It offers context-aware code suggestions, making coding faster and more accurate. This feature is especially valuable for both novice and experienced programmers.
-Significant ofAtom
 
-Atom Text's Demostration
+#### 4. Multiple Panes and Split Views
+Atom empowers developers to engage with different sections of their codebase concurrently by dividing the editor's interface into multiple panes and views. This proves invaluable when traversing extensive projects or comparing disparate sections of code.
+
+#### 5. Project Management
+Atom boasts robust project management capabilities. Developers have the flexibility to treat entire directories as projects, conduct efficient file searches, and navigate through a project's file structure with ease. This functionality streamlines code organization and simplifies project management tasks.
+
+![Mind map - Page 1](https://github.com/addff/2310-ITT440/assets/149042347/42fcdc8f-73c5-425a-90f4-f3368ad2c5ac)
+
+### * Significant of Atom      
+
+#### 1. Productivity
+The extensible nature of Atom and the availability of packages and themes allow developers to create highly personalized, efficient development environments tailored to their workflow.
+
+#### 2. Git Integration
+The built-in Git and GitHub support simplifies version control, streamlining collaboration and reducing the friction associated with managing code repositories.
+
+#### 3. Community-Driven Development
+Atom's open-source nature has fostered a vibrant community of developers who actively contribute to its growth and improvement.
+
+#### 4. Cross-Platform
+Atom's availability on Windows, macOS, and Linux ensures a consistent coding experience for developers across different operating systems.
+
+#### 5. Beginner-Friendly
+Atom's user-friendly interface and features like autocompletion make it an accessible choice for novice programmers.
+
+### * Atom Demostration
+
+
+### * Conclusion
+
+Atom, the open-source text editor created by GitHub, has emerged as a popular selection among developers worldwide. Its strength lies in its extensibility, Git integration, intelligent autocompletion, and project management features, making it a robust choice for both code editing and project organization. The influence of this editor on the realm of software development is evident, as it equips developers to operate with heightened efficiency and productivity. With a dynamic community and ongoing enhancements, Atom continues to be a valuable asset in the domain of software development.
