@@ -21,6 +21,9 @@ Notepad :
 - Speed and Simplicity: Notepad is very quick and simple to use. It's great for quick notes or basic text editing.
 - Scripting and Code Editing: Notepad is often used by programmers and web developers for writing and editing code. It provides syntax highlighting for various programming languages, which can make the code more readable and help identify errors.
 - Customization: While Notepad itself is basic, you can make some customizations to its behavior through the settings. For example, you can enable or disable word wrap, change the font, or adjust the window size.
+- File Saving: Notepad allows you to save your text documents to your local file system. You can also specify the file name and location when saving a new document.
+
+Notepad is a fundamental tool for quickly creating and editing text documents without the complexity and overhead of more feature-rich word processors or text editors. Its simplicity and ubiquity make it a go-to choice for various tasks like writing simple notes, editing configuration files, or writing code snippets. For more advanced text editing and document formatting, users often turn to dedicated word processors or code editors.
 
 ### FRAMEWORK
 
@@ -50,6 +53,3 @@ TensorFlow :
 - Community and Ecosystem: TensorFlow has a large and active community that contributes to a rich ecosystem of libraries and extensions, including TensorFlow Hub, TensorFlow Lite, and TensorFlow.js.
 
 These are just some of the functions and capabilities of TensorFlow. It's a versatile framework that provides the tools necessary to design, train, and deploy a wide variety of machine learning and deep learning models.
-- File Saving: Notepad allows you to save your text documents to your local file system. You can also specify the file name and location when saving a new document.
-
-Notepad is a fundamental tool for quickly creating and editing text documents without the complexity and overhead of more feature-rich word processors or text editors. Its simplicity and ubiquity make it a go-to choice for various tasks like writing simple notes, editing configuration files, or writing code snippets. For more advanced text editing and document formatting, users often turn to dedicated word processors or code editors.
