@@ -197,6 +197,7 @@ iv	A useful educational tool for teaching coding, data science and other computa
 ### DEMO : Jupyter , Netmiko & Dash
 
 
+[![Click to watch the video](https://img.youtube.com/vi/TFrJ2iqWfp0/0.jpg)](https://www.youtube.com/watch?v=TFrJ2iqWfp0)
 
 
 
