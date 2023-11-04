@@ -16,7 +16,7 @@ PyScripter is an open-source Integrated Development Environment (IDE) specifical
 
 _Debugger_ : PyScripter comes with a powerful debugger that allows you to step through code, set breakpoints, inspect variables, and track program execution flow.
 
-     Code Navigation: The IDE provides features like code folding, code navigation, and a function/class browser to help you quickly find and navigate through your codebase.
+~Code Navigation~ : The IDE provides features like code folding, code navigation, and a function/class browser to help you quickly find and navigate through your codebase.
 
      Version Control: PyScripter has integration with version control systems like Git, which allows you to manage your code repositories directly from the IDE.
 
