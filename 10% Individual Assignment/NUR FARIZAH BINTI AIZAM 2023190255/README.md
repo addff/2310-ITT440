@@ -16,19 +16,19 @@ _**Interactive Python Shell**_ : It includes an interactive Python interpreter w
 
 _**Debugger**_ : PyScripter comes with a powerful debugger that allows you to step through code, set breakpoints, inspect variables, and track program execution flow.
 
-_Code Navigation_ : The IDE provides features like code folding, code navigation, and a function/class browser to help you quickly find and navigate through your codebase.
+_**Code Navigation**_ : The IDE provides features like code folding, code navigation, and a function/class browser to help you quickly find and navigate through your codebase.
 
-_Version Control_ : PyScripter has integration with version control systems like Git, which allows you to manage your code repositories directly from the IDE.
+_**Version Control**_ : PyScripter has integration with version control systems like Git, which allows you to manage your code repositories directly from the IDE.
 
-_Integrated Documentation_ : It provides access to Python documentation directly within the IDE, making it easy to look up information about Python modules and functions.
+_**Integrated Documentation**_ : It provides access to Python documentation directly within the IDE, making it easy to look up information about Python modules and functions.
 
-     Project Management: PyScripter allows you to organize your code into projects, making it easier to manage multiple files and directories within a cohesive development environment.
+_**Project Management**_ : PyScripter allows you to organize your code into projects, making it easier to manage multiple files and directories within a cohesive development environment.
 
-     Integrated Unit Testing: It supports the integration of testing frameworks like unittest, making it easier to write and run tests for your Python code.
+_**Integrated Unit Testing**_ : It supports the integration of testing frameworks like unittest, making it easier to write and run tests for your Python code.
 
-     Remote Development: PyScripter has features to support remote development, which allows you to work on code that is stored on a different machine or server.
+_**Remote Development**_ : PyScripter has features to support remote development, which allows you to work on code that is stored on a different machine or server.
 
-     Customization: The IDE is highly customizable, allowing you to configure various settings, themes, and plugins to suit your preferences and workflow.
+_**Customization**_ : The IDE is highly customizable, allowing you to configure various settings, themes, and plugins to suit your preferences and workflow.
 
 PyScripter is a popular choice among Python developers, especially those who prefer a lightweight and customizable IDE for their Python development work. It is available for Windows and is written in Delphi, a high-level programming language.
 
