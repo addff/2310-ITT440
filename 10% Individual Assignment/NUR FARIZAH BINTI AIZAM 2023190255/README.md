@@ -12,9 +12,9 @@ PyScripter is an open-source Integrated Development Environment (IDE) specifical
 
 **Code Editing** : PyScripter offers a code editor with syntax highlighting and code completion, which helps developers write Python code more efficiently.
 
-*Interactive Python Shell*: It includes an interactive Python interpreter where you can execute Python code line by line or in blocks. This is particularly useful for experimenting with code snippets.
+*Interactive Python Shell* : It includes an interactive Python interpreter where you can execute Python code line by line or in blocks. This is particularly useful for experimenting with code snippets.
 
-     Debugger: PyScripter comes with a powerful debugger that allows you to step through code, set breakpoints, inspect variables, and track program execution flow.
+_Debugger_ : PyScripter comes with a powerful debugger that allows you to step through code, set breakpoints, inspect variables, and track program execution flow.
 
      Code Navigation: The IDE provides features like code folding, code navigation, and a function/class browser to help you quickly find and navigate through your codebase.
 
