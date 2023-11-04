@@ -14,13 +14,13 @@
 ### Benefits using Matplotlib
 ***
 * __Ease of Use__
-	*  _Matplotlib is a user-friendly tool with a straightforward syntax for creating basic plots, allowing users to quickly generate a diverse range of graphs and plots._
+	* _Matplotlib is a user-friendly tool with a straightforward syntax for creating basic plots, allowing users to quickly generate a diverse range of graphs and plots._
 
 * __Flexible and Customizable__
-	*  _The library is highly customizable, allowing users to tweak every aspect of the plots, including colors, line styles, markers, and labels._
+	* _The library is highly customizable, allowing users to tweak every aspect of the plots, including colors, line styles, markers, and labels._
 
 * __Supports Various Plot Types__
-	*  _Matplotlib supports a broad range of plot types, from simple line plots, scatter plots, and histograms to more complex plots like 3D plots, contour plots, and more._
+	* _Matplotlib supports a broad range of plot types, from simple line plots, scatter plots, and histograms to more complex plots like 3D plots, contour plots, and more._
 
 * __Publication-Quality Plots__
 	* _The generated plots are of high quality and are suitable for publication or inclusion in academic papers, reports, or presentations._
@@ -29,13 +29,13 @@
 	* _Matplotlib can be used interactively within Jupyter Notebooks, allowing users to manipulate plots, zoom in, and hover over data points for more information._
 
 * __Compatible with NumPy and Pandas__
-	*  _It seamlessly integrates with other libraries such as NumPy and Pandas, making it a great choice for data analysis tasks._
+	* _It seamlessly integrates with other libraries such as NumPy and Pandas, making it a great choice for data analysis tasks._
 
 * __Vibrant Community and Documentation__
-	*  _Matplotlib has a large and active community, with extensive documentation, examples, and resources available online. This makes it easy to find help and learn more about advanced plotting techniques._
+	* _Matplotlib has a large and active community, with extensive documentation, examples, and resources available online. This makes it easy to find help and learn more about advanced plotting techniques._
 
 * __Cross-Platform Compatibility__
-	*  _It works across various operating systems, ensuring consistency in plotting regardless of the platform used._
+	* _It works across various operating systems, ensuring consistency in plotting regardless of the platform used._
 
 * __Extensive Features__
 	* _Matplotlib offers extensive features for plot customization, such as text annotation, grid control, plot titles, legends, and more._
@@ -43,9 +43,11 @@
 * __Open-Source and Free__
 	* _Matplotlib is open-source and free to use, making it accessible to all users without any cost barriers._
 
+Matplotlib is a versatile Python library for creating high-quality data visualizations. It offers a user-friendly interface, customization options, and supports various plot types. Popular among data scientists, researchers, and analysts due to its open-source nature, community support, and cross-platform compatibility.
 
 
 ## FRAMEWORK : WEB2PY
+
 
 
 ## EDITOR : BRACKETS
