@@ -4,7 +4,7 @@
 
 ## EDITOR : PYSCRIPTER
 
-WHAT IS PYSCRIPTER ?
+### WHAT IS PYSCRIPTER ?
 
 PyScripter is an open-source Integrated Development Environment (IDE) specifically designed for Python programming. It provides a comprehensive set of features to facilitate Python development, making it easier for programmers to write, test, and debug Python code.
 
@@ -34,27 +34,27 @@ PyScripter is a popular choice among Python developers, especially those who pre
 
 ## FRAMEWORK : SCIPY
 
-WHAT IS SCIPY ?
+### WHAT IS SCIPY ?
 
 SciPy is an open-source scientific computing library for Python. It builds on NumPy, another popular Python library, and provides additional functionality for tasks related to scientific and technical computing. SciPy includes modules for tasks such as optimization, integration, interpolation, signal and image processing, linear algebra, statistics, and more.
 
 ### SCIPY FEATURE :
 
-     Optimization: SciPy provides a suite of optimization algorithms for both constrained and unconstrained problems.
+_**Optimization**_ : SciPy provides a suite of optimization algorithms for both constrained and unconstrained problems.
 
-     Integration: It offers various techniques for numerical integration, including methods for both single and multi-dimensional problems.
+_**Integration**_ : It offers various techniques for numerical integration, including methods for both single and multi-dimensional problems.
 
-     Interpolation: SciPy provides functions for interpolating data, which is useful for tasks like filling in missing values or generating smooth curves from discrete data points.
+_**Interpolation**_ : SciPy provides functions for interpolating data, which is useful for tasks like filling in missing values or generating smooth curves from discrete data points.
 
-     Signal and Image Processing: It includes a range of functions for tasks like filtering, convolution, and various image processing operations.
+_**Signal and Image Processing**_ : It includes a range of functions for tasks like filtering, convolution, and various image processing operations.
 
-     Linear Algebra: SciPy builds on NumPy's capabilities for linear algebra and provides additional functionality, including specialized functions for sparse matrices.
+_**Linear Algebra**_ : SciPy builds on NumPy's capabilities for linear algebra and provides additional functionality, including specialized functions for sparse matrices.
 
-     Statistics: It offers a wide range of statistical functions and probability distributions, along with tools for hypothesis testing and other statistical operations.
+_**Statistics**_ : It offers a wide range of statistical functions and probability distributions, along with tools for hypothesis testing and other statistical operations.
 
-     Special Functions: SciPy includes a collection of special mathematical functions, such as Bessel functions, gamma functions, and more.
+_**Special Functions**_ : SciPy includes a collection of special mathematical functions, such as Bessel functions, gamma functions, and more.
 
-     File Input/Output: It provides functions for reading and writing data in various formats, including MATLAB files, NetCDF, and more.
+_**File Input/Output**_ : It provides functions for reading and writing data in various formats, including MATLAB files, NetCDF, and more.
 
 Overall, SciPy is a powerful tool for scientists, engineers, and researchers who need to perform a wide range of numerical and scientific computations using Python. It complements other libraries like NumPy and Matplotlib, providing a comprehensive ecosystem for scientific computing in Python.
 
