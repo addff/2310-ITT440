@@ -21,7 +21,6 @@ Eric is a Python Integrated Development Environment (IDE) that offers a comprehe
    - Eric is available on multiple platforms, enabling developers to work on various operating systems.
 
 ###### Demonstration Of Eric Python IDE : 
-
 ![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
 
 ### Framework: Tkinter
@@ -41,7 +40,6 @@ Tkinter is a standard Python library for creating Graphical User Interfaces (GUI
    - Tkinter has a strong community, making it a valuable resource for developers seeking help and resources for GUI development in Python.
 
 ###### Demonstration Of Tkinter : 
-
 ![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
 
 https://drive.google.com/file/d/1cWNDqtSSN67kt1H0KSfzstlBJL7UBEqo/view?usp=sharing
@@ -63,10 +61,6 @@ ZeroMQ is a high-performance asynchronous messaging library and framework. Its s
    - It provides features like message queuing, load balancing, and fault tolerance, making it a robust choice for building resilient distributed systems.
 
 ###### Demonstration Of ZeroMQ : 
-
 ![Video Thumbnail](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)
 
 https://drive.google.com/file/d/1h4VBT-H2Tw8JXQCCHRARy9yveb8aSfrg/view?usp=sharing
-
-[![image src](https://github.com/addff/2310-ITT440/assets/146956790/ba0a0940-0670-4ba1-88e9-c815b8976d45)](https://drive.google.com/file/d/1h4VBT-H2Tw8JXQCCHRARy9yveb8aSfrg/view?usp=sharing)
-
