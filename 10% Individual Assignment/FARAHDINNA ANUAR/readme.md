@@ -67,13 +67,18 @@ MAGIT Significance
 
 
 1. Image processing
+   
 OpenCV provides a wide range of image processing functions, such as filtering, edge detection, and feature extraction.
 
 2. Computer vision
+   
 OpenCV can be used to develop computer vision applications, such as object detection, tracking, and recognition.
 
 3.Machine learning
+
 OpenCV can be used to develop machine learning models for image classification, regression, and segmentation.
+
+###HOW TO DEMONSTRATE THE TOOLS VIDEO 
 
 
 
