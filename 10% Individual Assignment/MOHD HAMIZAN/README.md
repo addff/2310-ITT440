@@ -1,4 +1,4 @@
-2310-ITT440
+# 2310-ITT440
 
 NAME		: MOHAMAD HAMIZAN BIN MOHD ISHAK
 
@@ -37,16 +37,16 @@ To use Dash on a Linux system, you'll need Python installed and then you can fol
 i.	Make sure you have Python installed on your Linux system. 
 You can check if it's installed by opening a terminal and typing python 
 
-	/* --version or python3 --version
+		$ --version 
 
 ii.	Install Dash: You'll need to install the Dash library for Python. You can use pip, which is a package manager for Python.
 
 
-	/*  pip install dash
+		$  pip install dash
 
 iii.	Create a Dash App: Once you have Dash installed, you can create your Dash application. You can use a text editor or an IDE like Visual Studio Code, Sublime Text, or any other of your choice.
 
-	/*	Here's a basic example of a Dash app:
+	Here's a basic example of a Dash app:
 
 
 			import dash
@@ -76,13 +76,13 @@ iii.	Create a Dash App: Once you have Dash installed, you can create your Dash a
 	
 iv.	Run the Dash App: Save the code in a file, for example, 
 		
-	/*	my_dash_app.py. 
+		$ my_dash_app.py. 
 
 Then in the terminal, navigate  to the directory containing the file and run it using:
 
 
 
-	/* python my_dash_app.py
+		$ python my_dash_app.py
 
 It will start the development server and tell you where you can view your Dash app (typically at http://127.0.0.1:8050/).
 
@@ -123,7 +123,7 @@ i.	Install Netmiko:
 Open a terminal and use pip (Python's package manager) to install Netmiko. Run the following command:
 
 
-		/*	pip install netmiko
+		$ pip install netmiko
 
 Write Python Scripts Using Netmiko:
 After installing Netmiko, you can create Python scripts that utilize Netmiko for connecting to and managing network devices. 
@@ -154,11 +154,11 @@ username, and password, and adjust the commands according to what you want to ex
 iii.	Run Python Scripts:
 Save your Python script with a .py extension, for example, 
 		
-		/*	my_netmiko_script.py. 
+		$ my_netmiko_script.py. 
 
 Then, execute the script from the terminal using:
 		
-		/*	python my_netmiko_script.py
+		$ python my_netmiko_script.py
 		
 
 Check Output:
