@@ -2,6 +2,36 @@
 
 ### NUR FARIZAH BINTI AIZAM (2023190255/M3CS2554B)
 
+## EDITOR : PYSCRIPTER
+
+WHAT IS PYSCRIPTER ?
+
+PyScripter is an open-source Integrated Development Environment (IDE) specifically designed for Python programming. It provides a comprehensive set of features to facilitate Python development, making it easier for programmers to write, test, and debug Python code.
+
+### PYSCRIPTER FEATURE :
+
+Code Editing: PyScripter offers a code editor with syntax highlighting and code completion, which helps developers write Python code more efficiently.
+
+Interactive Python Shell: It includes an interactive Python interpreter where you can execute Python code line by line or in blocks. This is particularly useful for experimenting with code snippets.
+
+Debugger: PyScripter comes with a powerful debugger that allows you to step through code, set breakpoints, inspect variables, and track program execution flow.
+
+Code Navigation: The IDE provides features like code folding, code navigation, and a function/class browser to help you quickly find and navigate through your codebase.
+
+Version Control: PyScripter has integration with version control systems like Git, which allows you to manage your code repositories directly from the IDE.
+
+Integrated Documentation: It provides access to Python documentation directly within the IDE, making it easy to look up information about Python modules and functions.
+
+Project Management: PyScripter allows you to organize your code into projects, making it easier to manage multiple files and directories within a cohesive development environment.
+
+Integrated Unit Testing: It supports the integration of testing frameworks like unittest, making it easier to write and run tests for your Python code.
+
+Remote Development: PyScripter has features to support remote development, which allows you to work on code that is stored on a different machine or server.
+
+Customization: The IDE is highly customizable, allowing you to configure various settings, themes, and plugins to suit your preferences and workflow.
+
+## FRAMEWORK : SCIPY
+
 WHAT IS SCIPY ?
 
 SciPy is an open-source scientific computing library for Python. It builds on NumPy, another popular Python library, and provides additional functionality for tasks related to scientific and technical computing. SciPy includes modules for tasks such as optimization, integration, interpolation, signal and image processing, linear algebra, statistics, and more.
@@ -22,4 +52,8 @@ Statistics: It offers a wide range of statistical functions and probability dist
 
 Special Functions: SciPy includes a collection of special mathematical functions, such as Bessel functions, gamma functions, and more.
 
-File Input/Output: It provides functions for reading and writing data in various formats, including MATLAB files, NetCDF, and more
+File Input/Output: It provides functions for reading and writing data in various formats, including MATLAB files, NetCDF, and more.
+
+Overall, SciPy is a powerful tool for scientists, engineers, and researchers who need to perform a wide range of numerical and scientific computations using Python. It complements other libraries like NumPy and Matplotlib, providing a comprehensive ecosystem for scientific computing in Python.
+
+
