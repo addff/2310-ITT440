@@ -1,7 +1,10 @@
 ## ITT440 - 10% INDIVIDUAL ASSIGNMENT
 MIZA KARMILA BINTI SALIM (2023125673|M3CS2554B)
 
-### LIBRARY : MATPLOTLIB
+## LIBRARY : MATPLOTLIB
+<p align="center">
+	<img src="https://github.com/addff/2310-ITT440/assets/149155016/593dc637-802a-42b1-bf0b-c3fcbb9ae264.png" width=100% height=100%>
+</p>
 
 ### What is Matplotlib?
 
@@ -48,7 +51,10 @@ Matplotlib is a versatile Python library for creating high-quality data visualiz
 
 
 ## FRAMEWORK : WEB2PY
-
+<p align="center">
+	<img src="https://github.com/addff/2310-ITT440/assets/149155016/9512c6e6-eb76-4a46-94c0-c12ba084d93b.png" width=100% height=100%>
+</p>
+ 
 ### What is Web2py?
     
 	Web2py is an open-source, full-stack web application framework for agile development of secure database-driven web applications in Python. 
@@ -94,6 +100,9 @@ Web2py is a full-stack web framework that offers several advantages such as :
 Web2py is an open-source framework for Python-based web application development. It offers a secure, database-driven environment for creating, testing, and deploying applications. Key features include Python-centric approach, rapid prototyping, and Model-View-Controller architecture. Web2py is accessible to developers of all skill levels, with a built-in IDE and user-friendly administrative interface.
 
 ## EDITOR : BRACKETS
+<p align="center">
+	<img src="https://github.com/addff/2310-ITT440/assets/149155016/13ed5f55-665a-48bf-a801-5a2bb39c7921.png" width=90% height=80%>
+ </p>
 
 ### What is Brackets?
     
