@@ -24,5 +24,5 @@ Requests is a widely used Python library that’s making communication with web 
 Requests offers a simple and user-friendly HTTP request sending API. Developers can easily interact with web services and resources thanks to Requests’s simplicity. On top of that, Requests's code readability is one of its main advantages. Its API is meant to be simple to use, with a syntax that is easy to grasp and maintain. As a result, software developers can create code that is able to read plain English text, which is advantageous for both inexperienced and professional programmers. Additionally, timeouts and error handling are integrated into the API. The response status code can be used by developers to look for errors, and the timeout parameter can be used to configure timeouts.
 
 
-Below is the video to show how to install and use IntelliJ IDEA, Morepath, and Requests:
+Below is the demo video to show how to install and use IntelliJ IDEA, Morepath, and Requests:
 https://drive.google.com/file/d/11mOcVhRTZ3Ngv-NmxUKv1oXoEG87wjK6/view?usp=drive_link
