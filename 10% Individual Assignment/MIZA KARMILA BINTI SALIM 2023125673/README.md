@@ -4,6 +4,7 @@ MIZA KARMILA BINTI SALIM (2023125673|M3CS2554B)
 ### LIBRARY : MATPLOTLIB
 
 ### What is Matplotlib?
+
     Matplotlib is a widely used Python library for data visualization and plotting. A variety of plots, charts, histograms, and other visual data representations can be made with it by users.
     Created by John D. Hunter, Matplotlib is a foundational tool for Python data analysis and scientific computing, offering an extensive range of features for producing publications-quality, high-quality visualisations.
     With so many options for altering and improving visualisations, the library is incredibly customisable.         
