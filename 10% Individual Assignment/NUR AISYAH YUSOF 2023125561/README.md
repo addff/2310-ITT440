@@ -1,12 +1,16 @@
 # 2310-ITT440
 
 NAME: NUR AISYAH BINTI YUSOF
+
 MATRIX NUMBER: 2023125561
+
 GROUP: M3CDCS2554B
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### EDITOR
 
-Notepad
+## Notepad
 
 1) What is Notepad?
 - Notepad is a simple text editor program that comes pre-installed with Microsoft Windows operating systems. It is a basic and lightweight application designed for creating and editing plain text files.
@@ -25,9 +29,11 @@ Notepad
 
 Notepad is a fundamental tool for quickly creating and editing text documents without the complexity and overhead of more feature-rich word processors or text editors. Its simplicity and ubiquity make it a go-to choice for various tasks like writing simple notes, editing configuration files, or writing code snippets. For more advanced text editing and document formatting, users often turn to dedicated word processors or code editors.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ### FRAMEWORK
 
-TensorFlow
+## TensorFlow
 
 1) What is TensorFlow?
 - TensorFlow is a software tool created by Google for teaching computers how to learn and make decisions, a bit like how humans learn. It's used for tasks like recognizing images or understanding language. It's very flexible and can work on both small and big problems, making it a popular choice for machine learning and artificial intelligence. People can build custom programs or use pre-made ones to solve various problems. It's widely used by researchers and companies to create smarter computer systems.
@@ -52,9 +58,11 @@ TensorFlow
 - Custom Operations: Advanced users can define custom operations and layers for specialized model architectures and operations.
 - Community and Ecosystem: TensorFlow has a large and active community that contributes to a rich ecosystem of libraries and extensions, including TensorFlow Hub, TensorFlow Lite, and TensorFlow.js.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ### LIBRARY 
 
-CatBoost
+## CatBoost
 
 1) What is CatBoost?
 - CatBoost is an open-source machine learning library that is specifically designed for gradient boosting on decision trees. It is particularly well-suited for solving classification and regression problems. CatBoost stands out for its efficiency, speed, and effectiveness in handling categorical features, which are variables with discrete values like "red," "green," "blue" rather than numerical values.
