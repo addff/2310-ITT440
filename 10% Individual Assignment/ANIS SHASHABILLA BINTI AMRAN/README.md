@@ -1,9 +1,9 @@
+## ASSIGNMENT ITT440
 ### ANIS SHASHABILLA BINTI AMRAN
 ### CS2554A
-## ASSIGNMENT ITT440
 
-## Editor: SciTE
-## Framework: wxPython
+# Editor: SciTE
+# Framework: wxPython
 wxPython is a cross-platform graphical user interface (GUI) toolkit for the Python programming language. It is a wrapper around the wxWidgets C++ library, which provides a native look and feel for applications on Windows, macOS, Linux, and other platforms.
 
 wxPython allows Python programmers to create programs with a robust, highly functional graphical user interface, simply and easily. It is implemented as a set of Python extension modules that wrap the GUI components of the popular wxWidgets cross platform library.
@@ -16,7 +16,7 @@ Comprehensive set of widgets: wxPython provides a wide range of widgets, includi
 Support for advanced features: wxPython supports advanced features such as drag-and-drop, custom drawing, and event handling.
 Easy to use: wxPython is easy to use, even for beginners.
 
-# Here are some examples of how Celery can be used:
+### Here are how Celery can be used:
 wxPython is used to develop a wide variety of applications, including desktop applications, web applications, and mobile applications. Some popular applications developed with wxPython include:
 
 -SciTE editor
@@ -28,7 +28,7 @@ wxPython is used to develop a wide variety of applications, including desktop ap
 
 wxPython can also be used to develop custom GUI controls for other Python frameworks, such as PyQt and Tkinter.
 
-## Library: Celery
+### Library: Celery
 Celery is a distributed task queue for Python. It allows you to defer the execution of tasks to worker processes, which can be running on the same machine or different machines. This can be useful for improving the performance and scalability of your Python applications.
 
 Celery is based on the Advanced Message Queuing Protocol (AMQP), which is a standard messaging protocol. Celery uses AMQP to communicate between the task queue and the worker processes.
@@ -38,7 +38,7 @@ Scalability: Celery can be scaled to handle a large number of tasks by running m
 Concurrency: Celery can execute multiple tasks concurrently, which can improve the performance of your applications.
 Flexibility: Celery can be used to implement a wide variety of asynchronous tasks, such as sending emails, processing payments, and generating reports.
 
-# Here are some examples of how Celery can be used:
+### Here are some examples of how Celery can be used:
 Sending emails: You can use Celery to send emails asynchronously. This can improve the performance of your application by freeing up the main thread to handle other requests.
 Processing payments: You can use Celery to process payments asynchronously. This can improve the scalability of your application by allowing you to handle a large number of payments at the same time.
 Generating reports: You can use Celery to generate reports asynchronously. This can improve the performance of your application by freeing up the main thread to handle other requests.
