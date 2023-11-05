@@ -1,9 +1,9 @@
 # 2310-ITT440
----
+
 ## NAME: AMMAR ARIEF BIN AINOL AHMAM (2022949491)
----
+
 ## TITLE: PYTHON FOR NETWORK ENGINEER
----
+
 
 ### OBJECTIVE
 - To search for library or tools that can help Network engineer and introduced usable editor and framework
@@ -11,7 +11,7 @@
 
 
 
-### Editor: ==Notepad ++==
+### Editor: Notepad ++
 
 
 ![notepad++](https://github.com/addff/2310-ITT440/assets/84883844/597c8617-2a46-46b0-a02b-5ac0dbf5d6aa)
@@ -34,7 +34,7 @@ Notepad++ is a popular and free source code editor and text editor for Windows. 
 
 
 ---
-## Library/module: ==python-whois==
+## Library/module: python-whois
 
 python-whois is a Python library used to retrieve WHOIS information for domain names. WHOIS is a protocol and a database used to look up information about domain names, such as the domain's owner, registration date, expiration date, and more. It is commonly used to find out details about a specific domain, including contact information for the domain registrar and registrant.
 
@@ -99,7 +99,7 @@ for x in web_pop:
 
 ---
 
-### Framework: ==pynecone/reflex==
+### Framework: pynecone/reflex
 
 ![reflex](https://github.com/addff/2310-ITT440/assets/84883844/99df6a5e-4ed1-4df7-888f-734f5c121dd7)
 
@@ -133,5 +133,5 @@ This entire site was built and deployed with Reflex!
 No need to reach for a bunch of different tools. Reflex handles the frontend, backend, and deployment of your app.
 
 
-##### ==video included below==: 
+##### video included below: 
 
