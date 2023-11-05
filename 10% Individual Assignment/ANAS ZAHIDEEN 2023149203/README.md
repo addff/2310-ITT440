@@ -12,5 +12,7 @@ GROUP: M3CS2554B
 
 #### Replit 
 
-1) Replit is an online integrated development environment (IDE) and coding platform that allows users to write, test, and collaborate on code from their web browsers. It provides a wide range of programming languages and frameworks, making it accessible for various coding projects, from web development to data science and more
+##### What is Replit?
+   
+Replit is an online integrated development environment (IDE) and coding platform that allows users to write, test, and collaborate on code from their web browsers. It provides a wide range of programming languages and frameworks, making it accessible for various coding projects, from web development to data science and more
    
