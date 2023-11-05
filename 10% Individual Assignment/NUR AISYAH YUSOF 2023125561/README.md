@@ -31,7 +31,7 @@ Notepad is a fundamental tool for quickly creating and editing text documents wi
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### FRAMEWORK
+# FRAMEWORK
 
 ## TensorFlow
 
@@ -60,7 +60,7 @@ Notepad is a fundamental tool for quickly creating and editing text documents wi
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### LIBRARY 
+# LIBRARY 
 
 ## CatBoost
 
