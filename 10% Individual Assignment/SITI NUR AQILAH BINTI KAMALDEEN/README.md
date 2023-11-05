@@ -22,16 +22,18 @@
 
 Powerful Debugging: 
 
-
 Wing IDE provides a robust and interactive debugger for Python. It allows developers to set breakpoints, inspect variables, and step through code, making it easier to identify and fix issues in their Python programs.
 
 Code Analysis and Auto-completion:
+
 Wing IDE offers code analysis and auto-completion features that assist developers in writing Python code with fewer errors. It helps reduce common programming mistakes and improves code quality.
 
 Integrated Testing: 
+
 Wing IDE supports unit testing frameworks and provides integration with tools like unittest, doctest, and nose. This makes it easier to develop, run, and manage tests for Python projects.
 
 Learning and Teaching: 
+
 Wing 101, a simplified version of Wing IDE, is often used as an educational tool for teaching Python programming to beginners. It provides a user-friendly interface and simplified features to help newcomers get started with Python.
 
 
