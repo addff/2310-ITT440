@@ -105,5 +105,6 @@ Seaborn has the ability to create multi-plot grids, such as facet and pair grids
 
 
 ### Conclusions
-#### To sum up, inside the Python environment, Tornado, Seaborn, and Geany are unique tools with varied uses. Geany is a lightweight integrated development environment (IDE) for software development; Tornado is a web framework for developing high-performance online applications; and Seaborn is a data visualisation toolkit for producing educational statistical visualisations. Which tool you select will depend on the nature of the project and your particular demands.
+To sum up, inside the Python environment, Tornado, Seaborn, and Geany are unique tools with varied uses. Geany is a lightweight integrated development environment (IDE) for software development; Tornado is a web framework for developing high-performance online applications; and Seaborn is a data visualisation toolkit for producing educational statistical visualisations. Which tool you select will depend on the nature of the project and your particular demands.
+
 
