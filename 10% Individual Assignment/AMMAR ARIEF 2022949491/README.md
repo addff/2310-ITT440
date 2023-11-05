@@ -152,6 +152,38 @@ This entire site was built and deployed with Reflex!
 
 No need to reach for a bunch of different tools. Reflex handles the frontend, backend, and deployment of your app.
 
+###### Exact code use: 
+
+``` py
+import pynecone as rx
+
+
+
+def index() -> rx.Component:
+    return rx.container(
+        rx.heading(
+            "hello my name is ammar",
+            text_align="center",
+            color="blue",
+
+        ),
+        rx.button(
+            
+            "click me",
+            bg = "#fef2f2",
+            color = "#b91c1c",
+            border_radius = "lg",
+            
+
+        )
+    )
+
+# Add state and page to the app.
+app = rx.App()
+app.add_page(index)
+app.compile()
+```
+
 
 ##### video included below: 
 
