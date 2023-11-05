@@ -6,7 +6,7 @@
 
 ### WHAT IS KATE ?
 
-Kate is a Advanced Text Editor for the KDE desktop environment on Unix-like operating systems, such as Linux. It is part of the KDE Applications suite, which provides a range of software applications for the KDE desktop environment
+     Kate is a Advanced Text Editor for the KDE desktop environment on Unix-like operating systems, such as Linux. It is part of the KDE Applications suite, which provides a range of software applications for the KDE desktop environment
 
 ### KATE FEATURE :
 
@@ -36,7 +36,7 @@ Kate is known for its clean and intuitive user interface, making it a popular ch
 
 ### WHAT IS STREAMLIT ?
 
-Streamlit is a Python framework that is specifically designed for creating web applications for data science and machine learning. It allows developers and data scientists to build interactive and customizable web apps with just a few lines of Python code. 
+     Streamlit is a Python framework that is specifically designed for creating web applications for data science and machine learning. It allows developers and data scientists to build interactive and customizable web apps with just a few lines of Python code. 
 
 ### STREAMLIT FEATURE :
 
@@ -61,7 +61,7 @@ Overall, Streamlit is a powerful tool for creating web applications that showcas
 
 ### WHAT IS SYMPY ?
 
-SymPy is an open-source Python library for symbolic mathematics. It aims to provide a comprehensive set of tools for performing algebraic operations symbolically rather than numerically. This means that SymPy can manipulate mathematical expressions with variables, constants, and functions in a way that retains the symbolic form of the equations.
+     SymPy is an open-source Python library for symbolic mathematics. It aims to provide a comprehensive set of tools for performing algebraic operations symbolically rather than numerically. This means that SymPy can manipulate mathematical expressions with variables, constants, and functions in a way that retains the symbolic form of the equations.
 
 ### SYMPY FEATURE :
 
