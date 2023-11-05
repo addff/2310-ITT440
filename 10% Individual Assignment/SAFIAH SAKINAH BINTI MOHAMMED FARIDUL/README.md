@@ -159,7 +159,7 @@ Atom's user-friendly interface and features like autocompletion make it an acces
 Atom, the open-source text editor created by GitHub, has emerged as a popular selection among developers worldwide. Its strength lies in its extensibility, Git integration, intelligent autocompletion, and project management features, making it a robust choice for both code editing and project organization. The influence of this editor on the realm of software development is evident, as it equips developers to operate with heightened efficiency and productivity. With a dynamic community and ongoing enhancements, Atom continues to be a valuable asset in the domain of software development.
 
 # Video Demonstration
-[![Watch the video](https://img.youtube.com/vi/<QMVZn15xDAk>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
+[![Watch the video](https://img.youtube.com/vi/<QMVZn15xDAk>/hqdefault.jpg)](https://www.youtube.com/embed/<QMVZn15xDAk>)
 
 [<img src="https://img.youtube.com/vi/<QMVZn15xDAk>/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/<QMVZn15xDAk>)
