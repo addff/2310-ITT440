@@ -30,7 +30,7 @@ _**Session Management**_ : You can save and restore sessions, which includes the
 
 _**Code Snippets and Templates**_ : Kate allows you to define and use code snippets and templates for faster coding
 
-Kate is known for its clean and intuitive user interface, making it a popular choice among developers who prefer a lightweight yet powerful text editor. Keep in mind that it is primarily designed for use on Unix-like systems with the KDE desktop environment.
+     Kate is known for its clean and intuitive user interface, making it a popular choice among developers who prefer a lightweight yet powerful text editor. Keep in mind that it is primarily designed for use on Unix-like systems with the KDE desktop environment.
 
 ## FRAMEWORK : STREAMLIT
 
@@ -54,7 +54,7 @@ _**Fast Prototyping**_ : Streamlit allows for rapid development and prototyping 
 
 _**Sharing and Deployment**_ : Streamlit apps can be easily deployed to various platforms, allowing for easy sharing and access.
 
-Overall, Streamlit is a powerful tool for creating web applications that showcase data and machine learning models, making it a valuable asset in the data science and machine learning ecosystem. While it is not a full-stack web framework like Django or Flask, it is highly specialized for creating data-centric web applications and dashboards, making it a powerful tool in the data science ecosystem.
+     Overall, Streamlit is a powerful tool for creating web applications that showcase data and machine learning models, making it a valuable asset in the data science and machine learning ecosystem. While it is not a full-stack web framework like Django or Flask, it is highly specialized for creating data-centric web applications and dashboards, making it a powerful tool in the data science ecosystem.
 
 
 ## LIBRARY : SYMPY
@@ -85,5 +85,5 @@ _**Geometric Algebra**_ : SymPy includes modules for working with geometric obje
 
 _**Combining with NumPy and SciPy**_ : While SymPy is primarily focused on symbolic mathematics, it can be used in conjunction with NumPy and SciPy for both symbolic and numerical computations.
 
-SymPy is widely used in scientific and engineering applications where symbolic mathematics is required. It is particularly valuable in fields like mathematics, physics, engineering, and computer science for tasks that involve complex algebraic manipulations and symbolic reasoning.
+     SymPy is widely used in scientific and engineering applications where symbolic mathematics is required. It is particularly valuable in fields like mathematics, physics, engineering, and computer science for tasks that involve complex algebraic manipulations and symbolic reasoning.
 
