@@ -19,7 +19,7 @@ Caffe, which stands for Convolutional Architecture for Fast Feature Embedding, i
    
 4.  **Speed and Efficiency**: Caffe is known for its fast performance. It is implemented in C++ and optimized for speed, and it can take advantage of GPU acceleration through NVIDIA CUDA. This speed is especially useful for real-time and high-performance applications.
 
-##LIBRARY : BOKEH
+## LIBRARY : BOKEH
 **What is Bokeh?**
 
 Bokeh is an open-source Python library for creating interactive and visually appealing data visualizations in web browsers. The name "Bokeh" is derived from the Japanese word "boke," which refers to the aesthetic quality of the blur in the out-of-focus areas of a photograph. The library is designed to help users create interactive, data-driven visualizations with a focus on aesthetics and interactivity.
