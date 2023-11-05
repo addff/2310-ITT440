@@ -52,6 +52,15 @@ learning to apply. VIM is not a word processor. It does not offer 'what you see
 is what you get' (WYSIWYG) editing of typeset documents, despite the fact that 
 it can display text with different formatting and highlighting styles. 
 
+### VIDEO
+
+
+Copied!
+[![Watch the video](https://img.youtube.com/vi/0okOoT3XS24/hqdefault.jpg)](https://www.youtube.com/embed/0okOoT3XS24)
+
+[<img src="https://img.youtube.com/vi/0okOoT3XS24/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/0okOoT3XS24)
+
 
 
 
