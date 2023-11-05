@@ -164,8 +164,6 @@ Atom, the open-source text editor created by GitHub, has emerged as a popular se
 # Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/QMVZn15xDAk/hqdefault.jpg)](https://www.youtube.com/embed/QMVZn15xDAk)
 
-[<img src="https://img.youtube.com/vi/QMVZn15xDAk/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/QMVZn15xDAk)
 # Reference
 1. Scrapy in python: Web scraping tutorial 2023 - zenrows. Scrapy in Python: Web Scraping Tutorial 2023. (2023, July 31). https://www.zenrows.com/blog/scrapy-python 
 2. Programmers.io, V. (2023, April 4). How to setup atom as a python ide? https://programmers.io/blog/setup-atom-as-a-python-ide/#:~:text=Atom%20is%20a%20powerful%2C%20open,%2C%20code%20completion%2C%20and%20linting. 
