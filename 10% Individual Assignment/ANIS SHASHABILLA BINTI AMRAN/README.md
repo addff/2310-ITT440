@@ -14,19 +14,28 @@ wxPython is a popular choice for developing Python GUI applications because it i
 
 ### wxPython Significance
 Cross-platform: wxPython applications can run on Windows, macOS, Linux, and other platforms.
+
 Native look and feel: wxPython applications use the native look and feel of the platform on which they are running.
+
 Comprehensive set of widgets: wxPython provides a wide range of widgets, including buttons, labels, text boxes, menus, and dialog boxes.
+
 Support for advanced features: wxPython supports advanced features such as drag-and-drop, custom drawing, and event handling.
+
 Easy to use: wxPython is easy to use, even for beginners.
 
 ### Here are how wxPython can be used:
 wxPython is used to develop a wide variety of applications, including desktop applications, web applications, and mobile applications. Some popular applications developed with wxPython include:
 
 -SciTE editor
+
 -BitTorrent client
+
 -wxFormBuilder GUI designer
+
 -wxGlade GUI designer
+
 -wxPdfDocument PDF library
+
 -wxHtmlWindow HTML rendering library
 
 wxPython can also be used to develop custom GUI controls for other Python frameworks, such as PyQt and Tkinter.
@@ -39,11 +48,16 @@ Celery is based on the Advanced Message Queuing Protocol (AMQP), which is a stan
 ### Celery Significance
 
 Reliability: Celery tasks are guaranteed to be delivered to and executed by a worker process.
+
 Scalability: Celery can be scaled to handle a large number of tasks by running multiple worker processes.
+
 Concurrency: Celery can execute multiple tasks concurrently, which can improve the performance of your applications.
+
 Flexibility: Celery can be used to implement a wide variety of asynchronous tasks, such as sending emails, processing payments, and generating reports.
 
 ### Here are some examples of how Celery can be used:
 Sending emails: You can use Celery to send emails asynchronously. This can improve the performance of your application by freeing up the main thread to handle other requests.
+
 Processing payments: You can use Celery to process payments asynchronously. This can improve the scalability of your application by allowing you to handle a large number of payments at the same time.
+
 Generating reports: You can use Celery to generate reports asynchronously. This can improve the performance of your application by freeing up the main thread to handle other requests.
