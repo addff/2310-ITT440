@@ -110,4 +110,4 @@ To sum up, inside the Python environment, Tornado, Seaborn, and Geany are unique
 
 ### Below is the demo video to show how to isntall and use:
 
-[<img src="https://youtu.be/boqC_jJ2VGU?feature=shared"/>]
+[![2310-ITT440](https://img.youtube.com/vi/boqC_jJ2VGU/0.jpg)](https://www.youtube.com/watch?v=boqC_jJ2VGU)
