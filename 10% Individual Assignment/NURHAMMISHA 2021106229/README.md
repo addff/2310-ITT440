@@ -38,22 +38,17 @@ Bokeh is an open-source Python library for creating interactive and visually app
 
 4. **Streaming Data**: Bokeh supports streaming data, allowing you to update your visualizations in real time. This is useful for applications that require live data updates and monitoring.
 
-## EDITOR : CANOPY
-![canopy](https://github.com/addff/2310-ITT440/assets/149034575/3b32539d-374c-4248-845e-aa9d6565a119)
+## EDITOR : LEO
+![leo](https://github.com/addff/2310-ITT440/assets/149034575/082062e9-881b-498a-8efc-cb6ff6dfcac0)
 
-**What is Canopy?**
+**What is Leo?**
 
-Canopy is not an editor in the traditional sense; it is an integrated development environment (IDE) designed for scientific and data analysis in Python. Enthought, a scientific computing company, developed and maintained Canopy. The Canopy IDE provides a comprehensive and user-friendly environment for scientists, engineers, and data analysts to work with Python and various scientific libraries.
+Leo is a unique and versatile text editor and Integrated Development Environment (IDE) that focuses on outliners and literate programming. It is designed for developers and writers who want to organize and work with hierarchical structures of content
 
-**Canopy's features :**
+**Leo's features :**
 
-1. **Code Autocompletion :** Canopy editors may offer code autocompletion, suggesting code snippets, functions, and variable names as you type, which can improve coding efficiency.
 
-2. **Plugin Support :** Canopy editors can support plugins or extensions that add extra functionality, such as additional language support, debugging tools, and integrations with third-party services.
 
-3. **Syntax Highlighting :** Canopy text editors typically support syntax highlighting for various programming languages. This feature helps developers by visually distinguishing different elements of code, such as keywords, comments, and variables.
-
-4. **Search and Replace :** Text editors often include search and replace functionality to help users find specific code snippets and replace them with new content.
 
 
 
