@@ -40,19 +40,19 @@ Streamlit is a Python framework that is specifically designed for creating web a
 
 ### STREAMLIT FEATURE :
 
-Simplicity: Streamlit is designed to be easy to use. It has a simple and intuitive API that allows developers to create web apps with just a few lines of Python code.
+_**Simplicity**_ : Streamlit is designed to be easy to use. It has a simple and intuitive API that allows developers to create web apps with just a few lines of Python code.
 
-Interactive Widgets: Streamlit provides a range of widgets like sliders, buttons, and input boxes that allow users to interact with the app and dynamically update the displayed content.
+_**Interactive Widgets**_ : Streamlit provides a range of widgets like sliders, buttons, and input boxes that allow users to interact with the app and dynamically update the displayed content.
 
-Data Visualization Integration: It supports popular Python data visualization libraries like Matplotlib, Plotly, and Altair, making it easy to include interactive plots in your app.
+_**Data Visualization Integration**_ : It supports popular Python data visualization libraries like Matplotlib, Plotly, and Altair, making it easy to include interactive plots in your app.
 
-Machine Learning Integration: You can seamlessly incorporate machine learning models and display their results in your app.
+_**Machine Learning Integration**_ : You can seamlessly incorporate machine learning models and display their results in your app.
 
-Customization: Streamlit provides the flexibility to customize the appearance and layout of your app using simple Python code.
+_**Customization**_ : Streamlit provides the flexibility to customize the appearance and layout of your app using simple Python code.
 
-Fast Prototyping: Streamlit allows for rapid development and prototyping of data-driven web applications.
+_**Fast Prototyping**_ : Streamlit allows for rapid development and prototyping of data-driven web applications.
 
-Sharing and Deployment: Streamlit apps can be easily deployed to various platforms, allowing for easy sharing and access.
+_**Sharing and Deployment**_ : Streamlit apps can be easily deployed to various platforms, allowing for easy sharing and access.
 
 Overall, Streamlit is a powerful tool for creating web applications that showcase data and machine learning models, making it a valuable asset in the data science and machine learning ecosystem. While it is not a full-stack web framework like Django or Flask, it is highly specialized for creating data-centric web applications and dashboards, making it a powerful tool in the data science ecosystem.
 
