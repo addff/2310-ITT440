@@ -47,18 +47,23 @@ The foundational Python library for scientific computing is called NumPy. A mult
 **Significance Of NumPy**
 
 Multidimensional Arrays: 
+
 NumPy's primary feature is its support for arrays, known as NumPy arrays or ndarrays. These arrays are similar to Python lists, but they allow you to perform operations on entire arrays or slices of arrays, making them highly efficient for numerical computations.
 
 Broadcasting: 
+
 NumPy allows arrays with different shapes to be combined in element-wise operations, provided they are compatible. This feature is called broadcasting and simplifies operations on arrays of different shapes.
 
 Random Number Generation: 
+
 NumPy provides tools for generating random numbers and random arrays, which are useful for various scientific simulations and statistical applications.
 
 Mathematical Functions:
+
  NumPy includes a vast collection of mathematical functions for performing operations such as trigonometric, exponential, logarithmic, statistical, and linear algebra computations.
  
 Memory Efficiency: 
+
 NumPy is designed for efficient memory use and performance. It stores data in a contiguous block of memory, making it suitable for large datasets and numerical simulations.
 
 # **Framework: pyGTK**
@@ -70,15 +75,19 @@ PyGTK is a set of wrappers written in Python and C for GTK + GUI library. It is 
 **Significance Of NumPy**
 
 Integration with GTK:
+
  PyGTK provides Python language bindings for the GTK library, allowing Python developers to create and interact with GTK-based graphical elements such as windows, buttons, menus, dialog boxes, and other GUI components.
  
 Cross-Platform Compatibility: 
+
 While GTK and PyGTK are commonly associated with the Linux and GNOME environment, it is possible to use PyGTK on other platforms, such as Windows and macOS, although additional setup and dependencies may be required.
 
 Community and Documentation:
+
  PyGTK has a community of users and developers, and there is documentation available to help developers learn and use the library.
  
 Event-Driven Programming:
+
  Like most GUI libraries, PyGTK follows an event-driven programming model. Developers define event handlers for user interactions (e.g., button clicks or menu selections) to control the behavior of the application.
 
 
