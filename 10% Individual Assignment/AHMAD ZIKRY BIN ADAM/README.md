@@ -232,4 +232,4 @@ After the installation, you can start using Pytest to write and run your test ca
 
 
 
-[![Click to watch the video](https://img.youtube.com/vi/EtCAsQWA269abQDH.jpg)]([https://www.youtube.com/watch?v=EtCAsQWA269abQDH])
+<a href="https://www.youtube.com/watch?v=nqmBOpuZHyl9Xfo6">Watch this Video</a>
