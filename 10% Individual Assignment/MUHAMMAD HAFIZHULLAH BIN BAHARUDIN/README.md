@@ -11,7 +11,8 @@
 ### What is Tornado?
 Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections, making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user.
 
-![tornado](https://github.com/addff/2310-ITT440/assets/149034161/3c9e0e5a-cd94-4b0d-96ad-da5291cf45f8)
+![tornado](https://github.com/addff/2310-ITT440/assets/149034161/52acd27e-d81f-447a-ad1a-253a96eb5fcd)
+
 
 ### Features and characteristics of Tornado
 #### 1. Asynchronous Programming: 
