@@ -1,5 +1,5 @@
 # 2310-ITT440
-## 20% Individual Assignment
+## 10% Individual Assignment
 ### NAME: SAFIAH SAKINAH BINTI MOHAMMED FARIDUL  
 
 ### MATRIC NUMBER: 2021836426 
@@ -56,6 +56,8 @@ CherryPy remains a valuable component in the Python web development landscape, a
 
 ### What is Scrapy?
 Scrapy, a robust open-source framework for web crawling and web scraping, is built in Python. Its primary objective is to simplify the process of data extraction from websites, be it for research, data analysis, or any other purpose. Scrapy is equipped with an extensive array of features and tools for navigating websites, gathering structured data, and storing it in diverse formats. This report delivers an outline of Scrapy, covering its capabilities, practical applications, and its significance in the realm of web data extraction.
+
+![image](https://github.com/addff/2310-ITT440/assets/149042347/20ab128c-8cf5-4767-9f36-4f9ed5b419b9)
 
 ### Features and Functionality
 #### 1. Extensive Crawling Capabilities
@@ -137,7 +139,7 @@ Atom boasts robust project management capabilities. Developers have the flexibil
 ### * Significant of Atom      
 
 #### 1. Productivity
-The extensible nature of Atom and the availability of packages and themes allow developers to create highly personalized, efficient development environments tailored to their workflow.
+The extensible nature of Atom and the availability of packages and themes allow developers to create highly personalized, efficient development environments tailored to their workflow.(6)
 
 #### 2. Git Integration
 The built-in Git and GitHub support simplifies version control, streamlining collaboration and reducing the friction associated with managing code repositories.
@@ -154,6 +156,18 @@ Atom's user-friendly interface and features like autocompletion make it an acces
 ### * Atom Demostration
 
 
+
+
+
+
+
 ### * Conclusion
 
 Atom, the open-source text editor created by GitHub, has emerged as a popular selection among developers worldwide. Its strength lies in its extensibility, Git integration, intelligent autocompletion, and project management features, making it a robust choice for both code editing and project organization. The influence of this editor on the realm of software development is evident, as it equips developers to operate with heightened efficiency and productivity. With a dynamic community and ongoing enhancements, Atom continues to be a valuable asset in the domain of software development.
+
+# Reference
+1. Scrapy in python: Web scraping tutorial 2023 - zenrows. Scrapy in Python: Web Scraping Tutorial 2023. (2023, July 31). https://www.zenrows.com/blog/scrapy-python 
+2. Programmers.io, V. (2023, April 4). How to setup atom as a python ide? https://programmers.io/blog/setup-atom-as-a-python-ide/#:~:text=Atom%20is%20a%20powerful%2C%20open,%2C%20code%20completion%2C%20and%20linting. 
+3. Contributor, S. (2023, June 19). What is CherryPy – Introduction to cherrypy. DNSstuff. https://www.dnsstuff.com/introduction-to-cherrypy 
+4. GeeksforGeeks. (2020, February 27). Introduction to cherrypy. GeeksforGeeks. https://www.geeksforgeeks.org/introduction-to-cherrypy/ 
+5. Jaiswal, S. (2018, November 21). Overview of Atom Ide. DataCamp. https://www.datacamp.com/tutorial/ide-atom 
