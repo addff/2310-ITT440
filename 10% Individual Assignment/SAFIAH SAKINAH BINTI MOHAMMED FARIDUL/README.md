@@ -153,18 +153,16 @@ Atom's availability on Windows, macOS, and Linux ensures a consistent coding exp
 #### 5. Beginner-Friendly
 Atom's user-friendly interface and features like autocompletion make it an accessible choice for novice programmers.
 
-### * Atom Demostration
-
-
-
-
-
-
 
 ### * Conclusion
 
 Atom, the open-source text editor created by GitHub, has emerged as a popular selection among developers worldwide. Its strength lies in its extensibility, Git integration, intelligent autocompletion, and project management features, making it a robust choice for both code editing and project organization. The influence of this editor on the realm of software development is evident, as it equips developers to operate with heightened efficiency and productivity. With a dynamic community and ongoing enhancements, Atom continues to be a valuable asset in the domain of software development.
 
+# Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/<QMVZn15xDAk>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
+
+[<img src="https://img.youtube.com/vi/<QMVZn15xDAk>/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/<QMVZn15xDAk>)
 # Reference
 1. Scrapy in python: Web scraping tutorial 2023 - zenrows. Scrapy in Python: Web Scraping Tutorial 2023. (2023, July 31). https://www.zenrows.com/blog/scrapy-python 
 2. Programmers.io, V. (2023, April 4). How to setup atom as a python ide? https://programmers.io/blog/setup-atom-as-a-python-ide/#:~:text=Atom%20is%20a%20powerful%2C%20open,%2C%20code%20completion%2C%20and%20linting. 
