@@ -43,9 +43,6 @@
 		effectiveness and versatility. While it may not cover every possible Excel 
 		feature, it addresses most common use cases and continues to evolve with 
 		the changing landscape of Excel functionality.
-
-### 3. How to use Openpyxl
-		apa yang saya tau saya tak tau
 		
 ## FastAPI
 ### 1. What is FastAPI?
@@ -94,6 +91,16 @@
 		libraries and frameworks, allowing you to leverage the broader Python ecosystem for 
 		various functionalities.
 
+### 3. Command For FastAPI
+		from fastapi import FastAPI
+		app = FastAPI()
+		@app.get("/")
+		async def root():
+		    return {"message": "my name is muhammad irfan bin shamsuddin"}
+		@app.get("/hello/{name}")
+		async def say_hello(name: str):
+		    return {"message": f"Hello {name}"}
+
 ## Komodo IDE
 ### 1. What is Komodo IDE?
 		Komodo IDE is an integrated development environment (IDE) for software development, 
@@ -117,8 +124,9 @@
   		such as Git, Mercurial, and Subversion. This facilitates collaborative development by 
 		providing versioning and code repository management directly within the IDE.
 
-		> Customization: Komodo IDE is highly customizable, allowing developers to tailor the environment 			to their preferences. This includes customizing themes, keyboard shortcuts, and other aspects of
-  	the IDE for an optimized development experience.
+		> Customization: Komodo IDE is highly customizable, allowing developers to tailor the environment
+  		to their preferences. This includes customizing themes, keyboard shortcuts, and other aspects of
+  		the IDE for an optimized development experience.
 
 		> Project Management: The IDE offers features for managing projects, organizing files, and
   		navigating codebases effectively. This is crucial for developers working on large and complex projects.
@@ -138,3 +146,5 @@
 		> Active Development and Support: Komodo IDE is actively developed and maintained by 
   		ActiveState. This ensures that the IDE receives regular updates, bug fixes,
     	and improvements, and there is ongoing support for users.
+
+## Full Demo Installation and How to use
