@@ -234,5 +234,3 @@ After the installation, you can start using Pytest to write and run your test ca
 )](https://youtu.be/hESNf3QstpE?si=DcX1Qi8e6UgLcSg6)
 
 
-[![YouTube Video](![uitm](https://github.com/addff/2310-ITT440/assets/147423387/dc5cddca-ff09-4e5b-9aa3-4d689373af01)
-)](https://youtu.be/hESNf3QstpE?si=DcX1Qi8e6UgLcSg6)
