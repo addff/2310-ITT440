@@ -46,6 +46,8 @@ Significant of Flask.
 
 
 ### CherryPy Demostration
+### Conclusion
+CherryPy remains a valuable component in the Python web development landscape, attributed to its simplicity, adaptability, and object-oriented methodology. It streamlines the creation of web applications and RESTful APIs, presenting an appealing option for diverse applications, spanning from prototypes to small and medium-sized web projects. Although it might not boast the most widespread adoption among web frameworks, its influence on web development is indisputable. It empowers developers to construct efficient and fully functional web applications using a straightforward and Pythonic approach.
 
 # 2. LIBRARY
 
@@ -74,16 +76,30 @@ Scrapy supports middleware, allowing users to add custom processing at various s
 #### 6. Extensibility and Customizability
 Scrapy is highly extensible and customizable. Users can create their own Scrapy extensions, middleware, and item pipelines to tailor the framework to their unique requirements.
 
-#### 7. Distributed Crawling
-Scrapy supports distributed crawling, enabling developers to scale up web scraping tasks across multiple machines or cloud-based services for handling large-scale data extraction projects.
+### Uses of Scrapy
+![image](https://github.com/addff/2310-ITT440/assets/149042347/d3d603d3-e7d8-4f9a-b688-1b07e24c45e0)
 
-#### 8. Form Request Handling
-Scrapy can handle web forms, enabling the submission of forms on websites and processing the responses. This is useful for websites that require user authentication or interaction.
 
-Significant of Panda.
 
-Scikit-learn's Panda
+### Impact on Web Data Extraction
 
+#### Simplicity and Efficiency
+Scrapy simplifies the web scraping process, allowing users to focus on data extraction logic rather than low-level HTTP requests and response handling.
+
+#### Customizability
+Scrapy's extensibility and middleware support make it adaptable to a wide range of web scraping scenarios.
+
+#### Community and Ecosystem
+Scrapy has an active community and ecosystem, providing access to a variety of extensions, plugins, and documentation.
+
+#### Large-scale Data Extraction
+Scrapy's distributed crawling capabilities enable the extraction of large datasets from websites, making it a valuable tool for big data projects.
+
+#### Respectful Crawling
+Scrapy emphasizes responsible web scraping by providing features for controlling the crawl rate and respecting website terms of service.
+
+### Conclusion
+Scrapy, the web crawling and web scraping framework for Python, holds a pivotal position in the arena of web data extraction. Its attributes, flexibility, and compatibility with customized pipelines render it a favored solution for developers, data analysts, and enterprises seeking to harvest structured data from the internet. Its influence on web data extraction underscores its continued significance in various domains, including content aggregation, market analysis, research, and data integration. Its streamlined and effective approach solidifies its standing as a valuable tool in the domains of web scraping and data mining.
 # 3. EDITOR
 
 ##  Atom
