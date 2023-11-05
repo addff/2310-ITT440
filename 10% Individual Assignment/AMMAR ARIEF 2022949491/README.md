@@ -90,6 +90,26 @@ for x in web_pop:
  
 
 ```
+``
+//example input
+
+res = whois.whois("https://www.bbc.com")
+print (res.domain_name)
+print (res.creation_date)
+print (res.expiration_date)
+print (res.emails)
+print(res.address)
+print (coco.convert(names=res.country, to="name_short"))
+
+//example output
+
+BBC.COM
+1989-07-15 04:00:00
+2030-07-14 04:00:00
+['domainabuse@tucows.com', 'hostmaster@bbc.co.uk']
+REDACTED FOR PRIVACY //address
+United Kingdom 
+``
 
 ```
 //include 20 most popular website
