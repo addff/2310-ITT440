@@ -42,13 +42,15 @@ NINJA-IDE (Ninja Integrated Development Environment) was a Python-centric integr
   
 4) How to install Ninja IDE
 
-         i.  Download Python: Ninja-IDE is built using Python, so you'll need Python installed on your system. Download and install Python from the official Python website (https://www.python.org/). Ensure you select the option to add Python to your system's PATH during installation.
+       i.  Download Python: Ninja-IDE is built using Python, so you'll need Python installed on your system. Download and install
+           Python from the official Python website (https://www.python.org/). Ensure you select the option to add Python to your
+           system's PATH during installation.
       
-         ii. Install Ninja-IDE using pip (Python package manager):
+       ii. Install Ninja-IDE using pip (Python package manager):
           
-         a) Open a terminal or command prompt.
+       a) Open a terminal or command prompt.
          
-         b) Use the following command to install Ninja-IDE via pip:
+       b) Use the following command to install Ninja-IDE via pip:
           
              pip install ninja-ide
 
@@ -72,15 +74,20 @@ Pygame is a popular and versatile Python library used for developing 2D games, m
 
 Pygame is a popular set of Python modules designed for writing video games. It's built on top of the Simple DirectMedia Layer (SDL), which provides low-level access to audio, keyboard, mouse, and display. Here are some of the advantages of using Pygame:
 
-      i.  Simple and Easy to Learn: Pygame is relatively easy to learn, especially for those already familiar with Python. It abstracts away some of the complexity of working directly with graphics and sound libraries.
+      i.  Simple and Easy to Learn: Pygame is relatively easy to learn, especially for those already familiar with Python. It 
+          abstracts away some of the complexity of working directly with graphics and sound libraries.
       
-      ii. Cross-Platform: It is compatible with various operating systems, including Windows, macOS, and Linux, allowing developers to create games that can run on different platforms.
+      ii. Cross-Platform: It is compatible with various operating systems, including Windows, macOS, and Linux, allowing 
+          developers to create games that can run on different platforms.
       
-      iii.Abstraction of Low-Level Tasks: Pygame abstracts away some complex low-level tasks related to graphics, sound, and user input, providing an easier way to create games without getting deep into system-specific details.
+      iii.Abstraction of Low-Level Tasks: Pygame abstracts away some complex low-level tasks related to graphics, sound, and 
+          user input, providing an easier way to create games without getting deep into system-specific details.
       
-      iv. Multi-Media Support: Pygame offers various modules for handling multimedia, including graphics, sound, and input from devices such as keyboards and mice, making it a comprehensive library for game development.
+      iv. Multi-Media Support: Pygame offers various modules for handling multimedia, including graphics, sound, and input from
+          devices such as keyboards and mice, making it a comprehensive library for game development.
       
-      v.  Active Community and Resources: There's an active and supportive community around Pygame, which means there are plenty of tutorials, guides, and resources available for newcomers and experienced developers alike.
+      v.  Active Community and Resources: There's an active and supportive community around Pygame, which means there are plenty
+          of tutorials, guides, and resources available for newcomers and experienced developers alike.
 
 4) How to install PyGame.
 
@@ -88,7 +95,9 @@ To install Pygame, a popular library for creating games in Python, you can follo
 
 Here are the general steps:
 
-      i.  Install Python: If you haven't installed Python, visit the official Python website (https://www.python.org/) to download and install the latest version compatible with your operating system. Ensure you select the option to add Python to your system's PATH during installation.
+      i.  Install Python: If you haven't installed Python, visit the official Python website (https://www.python.org/) to download
+          and install the latest version compatible with your operating system. Ensure you select the option to add Python to your
+          system's PATH during installation.
       
       ii. Open a Terminal or Command Prompt:
       
@@ -130,45 +139,60 @@ Pytest is a testing framework for Python that allows for simple and scalable tes
 
 Key features of Pytest include:
 
-      i.  Fixture Support: Pytest provides a way to use fixtures, which are functions that can set up preconditions for your tests. Fixtures can be used to create test data, set up connections, or perform any necessary setup before running your tests.
+      i.  Fixture Support: Pytest provides a way to use fixtures, which are functions that can set up preconditions for your test. 
+          Fixtures can be used to create test data, set up connections, or perform any necessary setup before running your tests.
       
-      ii. Assertions: Pytest uses Python’s assert statement, making it intuitive to write and read assertions. It also provides a wide range of assertion helpers that make it easier to perform different types of checks in your tests.
+      ii. Assertions: Pytest uses Python’s assert statement, making it intuitive to write and read assertions. It also provides a 
+          wide range of assertion helpers that make it easier to perform different types of checks in your tests.
       
-      iii.Parameterization: Pytest allows you to run the same test with different inputs using parameterization. This is very useful for testing a function or method with various input values.
+      iii.Parameterization: Pytest allows you to run the same test with different inputs using parameterization. This is very useful
+          for testing a function or method with various input values.
       
-      iv. Plugins and Extensibility: Pytest has a rich ecosystem of plugins that extend its functionality. You can use plugins to generate test reports, integrate with other tools, or even create custom plugins tailored to your needs.
+      iv. Plugins and Extensibility: Pytest has a rich ecosystem of plugins that extend its functionality. You can use plugins to 
+          generate test reports, integrate with other tools, or even create custom plugins tailored to your needs.
       
-      v.  Integration with Other Testing Tools: Pytest can work seamlessly with other testing tools and libraries, making it versatile and adaptable to different testing requirements.
+      v.  Integration with Other Testing Tools: Pytest can work seamlessly with other testing tools and libraries, making it versatile
+          and adaptable to different testing requirements.
 
 2) Description of PyTest.
 
 Pytest is a popular testing framework for Python that simplifies the process of writing and executing tests. It provides a comprehensive and flexible set of tools for testing Python code. Here's an overview of its key features:
 
-      i.  Simplicity: Pytest offers a straightforward syntax that allows you to write concise test cases using plain assert statements, making it easy to learn and use. Test functions are identified by their name prefix 'test_' and can be organized in a modular way within Python files or 
-          across multiple files.
+      i.  Simplicity: Pytest offers a straightforward syntax that allows you to write concise test cases using plain assert statements,
+          making it easy to learn and use. Test functions are identified by their name prefix 'test_' and can be organized in a modular
+          way within Python files or across multiple files.
       
-      ii. Fixture Support: The fixture system in Pytest helps set up and manage the test environment. Fixtures are reusable functions that provide a way to create and initialize resources required for testing. They assist in the setup and cleanup of common test dependencies.
+      ii. Fixture Support: The fixture system in Pytest helps set up and manage the test environment. Fixtures are reusable functions that
+          provide a way to create and initialize resources required for testing. They assist in the setup and cleanup of common test dependencies.
       
-      iii.Parameterization: Pytest supports parameterized testing, enabling the execution of the same test with multiple inputs. This feature is useful for testing functions or methods with various sets of input data, reducing the need for repetitive test code.
+      iii.Parameterization: Pytest supports parameterized testing, enabling the execution of the same test with multiple inputs. This feature is 
+          useful for testing functions or methods with various sets of input data, reducing the need for repetitive test code.
       
-      iv. Assertions: It supports Python's assert statement and provides an extensive set of assertion helpers for more detailed and informative test failures. Pytest generates detailed reports when assertions fail, aiding in debugging and identifying issues quickly.
+      iv. Assertions: It supports Python's assert statement and provides an extensive set of assertion helpers for more detailed and informative
+          test failures. Pytest generates detailed reports when assertions fail, aiding in debugging and identifying issues quickly.
       
-      v.  Plugin Ecosystem: Pytest has a rich ecosystem of plugins that extend its capabilities. These plugins offer additional functionalities such as code coverage analysis, test result reporting, integration with other tools, and support for various types of tests (e.g., Django, Flask, 
+      v.  Plugin Ecosystem: Pytest has a rich ecosystem of plugins that extend its capabilities. These plugins offer additional functionalities
+          such as code coverage analysis, test result reporting, integration with other tools, and support for various types of tests (e.g., Django, Flask, 
           and more).
 
 3) Advantages of Pytest
 
 Pytest offers several advantages that contribute to its popularity among developers for testing Python applications. Some of the key advantages include:
 
-      i.  Simplicity and Readability: Pytest has a simple and easy-to-understand syntax. It uses Python’s assert statement and offers a clean, readable way to write test cases, making it accessible to both beginners and experienced developers.
+      i.  Simplicity and Readability: Pytest has a simple and easy-to-understand syntax. It uses Python’s assert statement and offers a clean,
+          readable way to write test cases, making it accessible to both beginners and experienced developers.
       
-      ii. Fixture System: The fixture system in Pytest enables easy setup and management of test environments. Fixtures provide a way to create and initialize resources required for testing, facilitating reusable and modular test code.
+      ii. Fixture System: The fixture system in Pytest enables easy setup and management of test environments. Fixtures provide a way to create
+          and initialize resources required for testing, facilitating reusable and modular test code.
       
-      iii.Parameterization: Pytest supports parameterized testing, allowing the same test function to be run with multiple inputs. This feature reduces code duplication, making tests more concise and manageable.
+      iii.Parameterization: Pytest supports parameterized testing, allowing the same test function to be run with multiple inputs.
+          This feature reduces code duplication, making tests more concise and manageable.
       
-      iv. Powerful Assertions: Pytest provides a rich set of assertion helpers for more detailed and informative test failure reports. These assertions make it easier to identify issues and debug failed tests.
+      iv. Powerful Assertions: Pytest provides a rich set of assertion helpers for more detailed and informative test failure reports.
+          These assertions make it easier to identify issues and debug failed tests.
       
-      v.  Extensive Plugin Ecosystem: Pytest has a large ecosystem of plugins that extend its functionality. These plugins cover various aspects such as generating reports, code coverage analysis, integration with other tools, and support for testing frameworks and libraries.
+      v.  Extensive Plugin Ecosystem: Pytest has a large ecosystem of plugins that extend its functionality. These plugins cover various
+          aspects such as generating reports, code coverage analysis, integration with other tools, and support for testing frameworks and libraries.
 
 4) How to install Pytest.
 
