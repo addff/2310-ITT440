@@ -47,7 +47,7 @@ Key features of Mu include:
 
 In summary, the objective of Mu editor is to create a user-friendly and educational Python development environment that lowers the barriers to entry for beginners and provides a supportive platform for learning and teaching programming with Python.
 
-LIBRARY: LIGHTGBM
+## LIBRARY: LIGHTGBM
 
 LightGBM is a popular machine-learning library for Python that is specifically designed for gradient boosting and is known for its speed and efficiency. It is widely used in data science and machine learning for tasks such as classification, regression, and ranking. LightGBM is an implementation of the gradient boosting framework and is optimized for performance and low memory usage.
 
@@ -73,7 +73,7 @@ Here are some key features and characteristics of LightGBM:
 
 LightGBM has gained popularity in machine learning competitions and real-world applications due to its speed, efficiency, and ability to produce accurate models. It is often used alongside other libraries and frameworks to build and deploy machine learning models.
 
-FRAMEWORK: NLTK
+## FRAMEWORK: NLTK
 
 NLTK, or the Natural Language Toolkit, is a powerful and comprehensive Python framework for working with human language data, particularly in the field of natural language processing (NLP). NLTK provides easy-to-use interfaces to over 50 corpora and lexical resources, as well as a suite of Document and Text Processing Frameworks for tasks such as tokenization, stemming, tagging, parsing, and more.
 
@@ -101,7 +101,7 @@ Key features and functionalities of NLTK include:
 
 NLTK is a valuable resource for researchers, students, and professionals working in fields related to natural language processing, text analysis, and computational linguistics. It provides a foundation for various NLP tasks and serves as an excellent starting point for those looking to explore and analyze textual data in Python.
 
-Demo video to show how to install and use MU EDITOR, LIGHTGBM, and NLTK:
+## Demo video to show how to install and use MU EDITOR, LIGHTGBM, and NLTK:
 
 
 [![Watch the video](https://img.youtube.com/vi/psZWbaceEY0/hqdefault.jpg)](https://www.youtube.com/embed/psZWbaceEY0)
