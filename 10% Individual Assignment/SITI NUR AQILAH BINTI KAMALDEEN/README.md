@@ -1,4 +1,4 @@
-# 2310-ITT440
+
 **TITLE: PYTHON FOR NETWORK ENGINEER**
 
 **NAME:** SITI NUR AQILAH BINTI KAMALDEEN              
@@ -10,7 +10,7 @@
 **LECTURE’S:** SHAHADAN BIN SAAD
 
 
-**Editor: Wing Ide**
+# **Editor: Wing Ide**
 
 ![download](https://github.com/addff/2310-ITT440/assets/146957815/ed775142-2c16-404a-acae-6c8b10e1e75c)
  
@@ -21,6 +21,8 @@
 **Significance Of Wing Ide**
 
 Powerful Debugging: 
+
+
 Wing IDE provides a robust and interactive debugger for Python. It allows developers to set breakpoints, inspect variables, and step through code, making it easier to identify and fix issues in their Python programs.
 
 Code Analysis and Auto-completion:
@@ -33,7 +35,8 @@ Learning and Teaching:
 Wing 101, a simplified version of Wing IDE, is often used as an educational tool for teaching Python programming to beginners. It provides a user-friendly interface and simplified features to help newcomers get started with Python.
 
 
-**Library: NumPy**
+# **Library: NumPy**
+
 ![images](https://github.com/addff/2310-ITT440/assets/146957815/d3ea8a18-7365-4a23-ac71-78138f14f881)
 
  
@@ -56,7 +59,9 @@ Mathematical Functions:
 Memory Efficiency: 
 NumPy is designed for efficient memory use and performance. It stores data in a contiguous block of memory, making it suitable for large datasets and numerical simulations.
 
-**Framework: pyGTK**
+# **Framework: pyGTK**
+
+![png-transparent-gtk-gtk-qt-pygtk-graphical-user-interface-gtkmm-others-logo-sign-number-thumbnail-removebg-preview](https://github.com/addff/2310-ITT440/assets/146957815/ae8a5534-705f-4d02-b9fe-49730f434a4a)
  
 PyGTK is a set of wrappers written in Python and C for GTK + GUI library. It is part of the GNOME project. It offers comprehensive tools for building desktop applications in Python. GTK is a popular open-source library for creating graphical user interfaces; in the Linux and Unix ecosystems, it is mostly related to the GNOME desktop environment. The usage of GTK in Python scripts is made possible by PyGTK, which facilitates the development of graphical applications for Linux and other platforms.
 
@@ -77,5 +82,16 @@ Event-Driven Programming:
 
 
 
+# **Demostration on How To Use All Tool Found**
 
- <a href="YOUR_GOOGLE_DRIVE_LINK">Watch the video</a>
+Wing Ide
+
+ <a href="YOUR_GOOGLE_DRIVE_LINK">Please click here to watch Wing Ide video</a>
+ 
+NumPy
+
+ <a href="YOUR_GOOGLE_DRIVE_LINK">Please click here to watch NumPy video</a>
+ 
+pyGTK
+
+ <a href="YOUR_GOOGLE_DRIVE_LINK">Please click here to watch pyGTK video</a>
