@@ -22,6 +22,8 @@ Caffe, which stands for Convolutional Architecture for Fast Feature Embedding, i
 4.  **Speed and Efficiency**: Caffe is known for its fast performance. It is implemented in C++ and optimized for speed, and it can take advantage of GPU acceleration through NVIDIA CUDA. This speed is especially useful for real-time and high-performance applications.
 
 ## LIBRARY : BOKEH
+![bokeh](https://github.com/addff/2310-ITT440/assets/149034575/f2358a42-da84-4290-b799-91585eb58a57)
+
 **What is Bokeh?**
 
 Bokeh is an open-source Python library for creating interactive and visually appealing data visualizations in web browsers. The name "Bokeh" is derived from the Japanese word "boke," which refers to the aesthetic quality of the blur in the out-of-focus areas of a photograph. The library is designed to help users create interactive, data-driven visualizations with a focus on aesthetics and interactivity.
@@ -37,6 +39,8 @@ Bokeh is an open-source Python library for creating interactive and visually app
 4. **Streaming Data**: Bokeh supports streaming data, allowing you to update your visualizations in real time. This is useful for applications that require live data updates and monitoring.
 
 ## EDITOR : CANOPY
+![canopy](https://github.com/addff/2310-ITT440/assets/149034575/3b32539d-374c-4248-845e-aa9d6565a119)
+
 **What is Canopy?**
 
 Canopy is not an editor in the traditional sense; it is an integrated development environment (IDE) designed for scientific and data analysis in Python. Enthought, a scientific computing company, developed and maintained Canopy. The Canopy IDE provides a comprehensive and user-friendly environment for scientists, engineers, and data analysts to work with Python and various scientific libraries.
