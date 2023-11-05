@@ -153,6 +153,11 @@ Atom's availability on Windows, macOS, and Linux ensures a consistent coding exp
 #### 5. Beginner-Friendly
 Atom's user-friendly interface and features like autocompletion make it an accessible choice for novice programmers.
 
+### * How to install Atom
+[![Watch the video](https://img.youtube.com/vi/lFkgonuqoOs/hqdefault.jpg)](https://www.youtube.com/embed/lFkgonuqoOs)
+
+[<img src="https://img.youtube.com/vi/lFkgonuqoOs/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/lFkgonuqoOs)
 
 ### * Conclusion
 
