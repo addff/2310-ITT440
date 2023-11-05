@@ -22,3 +22,5 @@ PyScripter is an integrated development environment (IDE) tailored for Python pr
 
 PyScripter is a significant integrated development environment (IDE) designed with Python programming in mind. Its user-friendly interface and feature-rich environment make it a valuable tool for Python developers. PyScripter provides a powerful environment for authoring, testing, and debugging code, regardless of your level of expertise with Python development. The integrated debugger improves productivity and code quality by making it easier to find and fix problems in Python scripts. Because it gives Windows users a flexible and effective Python programming environment, it is very important for them.
 
+### Demonstration Video (SciPy, TurboGears & PyScripter)
+[![Watch the video](https://img.youtube.com/vi/KvkFemjvSjE/hqdefault.jpg)](https://www.youtube.com/embed/KvkFemjvSjE)
