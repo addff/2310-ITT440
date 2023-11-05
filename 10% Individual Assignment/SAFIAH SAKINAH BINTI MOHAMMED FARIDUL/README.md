@@ -15,6 +15,8 @@
 
 CherryPy, a Python web framework, stands as a minimalistic yet potent tool that aims to simplify and streamline web application development. Renowned for its simplicity, flexibility, and lightweight design, it has gained recognition as an exceptional option for constructing web applications and APIs. This report offers a comprehensive insight into CherryPy, encompassing its attributes, application scenarios, and its impact in the domain of web development.
 
+![Screenshot 2023-11-05 143925](https://github.com/addff/2310-ITT440/assets/149042347/bee7522e-0967-4f53-873f-8915d3161484)
+
 ### Features and Functionality
 #### 1. Simplicity and Minimalism
 CherryPy prides itself on its simplicity and minimalistic approach to web development. It allows developers to create web applications using Python classes and methods without the need for boilerplate code or complex configurations. This simplicity makes it an attractive choice for both beginners and experienced developers.
@@ -35,7 +37,14 @@ CherryPy promotes an object-oriented approach to web development. Applications a
 CherryPy can be integrated with other Python libraries and frameworks, including template engines like Jinja2 and front-end frameworks like React and Vue.js. This flexibility allows developers to combine CherryPy's simplicity with other powerful tools.
 Significant of Flask.
 
-Flask Demostration
+### Uses of CherryPy
+![image](https://github.com/addff/2310-ITT440/assets/149042347/336f5ed9-f0d0-43fc-97ef-ff14f636efbe)
+
+### Impact on Web Development
+<img src=(https://github.com/addff/2310-ITT440/assets/149042347/ddb5f3cc-cdab-48ec-91c3-5087635e4d23)width="150" height="280">
+
+
+### CherryPy Demostration
 
 LIBRARY
 
