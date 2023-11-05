@@ -5,6 +5,8 @@
 ### GROUP : M3CS2554A
 
 ## FRAMEWORK : CAFFE
+![caffe2](https://github.com/addff/2310-ITT440/assets/149034575/e88fe035-89ed-4a28-9dfd-8038c868ded2)
+
 **What is Caffe?**
 
 Caffe, which stands for Convolutional Architecture for Fast Feature Embedding, is a deep learning framework that was developed by the Berkeley Vision and Learning Center (BVLC) at the University of California, Berkeley. It is primarily designed for training and deploying deep neural networks, particularly convolutional neural networks (CNNs), which are commonly used in computer vision tasks like image classification, object detection, and image segmentation.
