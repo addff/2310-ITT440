@@ -156,8 +156,6 @@ Atom's user-friendly interface and features like autocompletion make it an acces
 ### * How to install Atom
 [![Watch the video](https://img.youtube.com/vi/lFkgonuqoOs/hqdefault.jpg)](https://www.youtube.com/embed/lFkgonuqoOs)
 
-[<img src="https://img.youtube.com/vi/lFkgonuqoOs/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/lFkgonuqoOs)
 
 ### * Conclusion
 
