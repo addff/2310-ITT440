@@ -39,7 +39,7 @@ Bokeh is an open-source Python library for creating interactive and visually app
 
 Canopy is not an editor in the traditional sense; it is an integrated development environment (IDE) designed for scientific and data analysis in Python. Enthought, a scientific computing company, developed and maintained Canopy. The Canopy IDE provides a comprehensive and user-friendly environment for scientists, engineers, and data analysts to work with Python and various scientific libraries.
 
-**Canopy's features : **
+**Canopy's features :**
 
 1. **Code Autocompletion :** Canopy editors may offer code autocompletion, suggesting code snippets, functions, and variable names as you type, which can improve coding efficiency.
 
