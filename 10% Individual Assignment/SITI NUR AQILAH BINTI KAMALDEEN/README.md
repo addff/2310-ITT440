@@ -34,6 +34,8 @@ Wing 101, a simplified version of Wing IDE, is often used as an educational tool
 
 
 **Library: NumPy**
+![images](https://github.com/addff/2310-ITT440/assets/146957815/d3ea8a18-7365-4a23-ac71-78138f14f881)
+
  
 The foundational Python library for scientific computing is called NumPy. A multidimensional array object, different derived objects (like masked arrays and matrices), and a variety of routines for quick array operations like sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation, and much more—are all provided by this Python library. It provides the foundation for many more Python libraries and frameworks and is necessary for activities like image processing, machine learning, scientific modeling, data analysis, and machine learning.
 
