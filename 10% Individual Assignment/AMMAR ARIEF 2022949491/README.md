@@ -90,7 +90,7 @@ for x in web_pop:
  
 
 ```
-``
+```
 //example input
 
 res = whois.whois("https://www.bbc.com")
@@ -109,7 +109,7 @@ BBC.COM
 ['domainabuse@tucows.com', 'hostmaster@bbc.co.uk']
 REDACTED FOR PRIVACY //address
 United Kingdom 
-``
+```
 
 ```
 //include 20 most popular website
