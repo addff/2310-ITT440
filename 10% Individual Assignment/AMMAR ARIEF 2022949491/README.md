@@ -186,4 +186,4 @@ app.compile()
 
 
 ##### video included below: 
-
+![[Assessment 1 python video](https://img.youtube.com/vi/g3Kd1tH_KUg/0.jpg)](https://www.youtube.com/watch?v=g3Kd1tH_KUg)
