@@ -24,15 +24,21 @@ Ninja-IDE, short for "Ninja Is Not Just Another IDE," is an open-source integrat
 
 NINJA-IDE (Ninja Integrated Development Environment) was a Python-centric integrated development environment that offered various features and advantages for developers. Some of these advantages included:
 
-      i.  Cross-platform compatibility: NINJA-IDE was designed to work on multiple operating systems, including Windows, macOS, and Linux, providing a consistent experience for developers across different platforms.
+      i.  Cross-platform compatibility: NINJA-IDE was designed to work on multiple operating systems, including Windows, macOS, 
+          and Linux, providing a consistent experience for developers across different platforms.
       
-      ii. Code autocompletion: It offered intelligent code completion, which helped in speeding up the coding process by suggesting methods, functions, and variable names as you typed.
+      ii. Code autocompletion: It offered intelligent code completion, which helped in speeding up the coding process by 
+          suggesting methods, functions, and variable names as you typed.
       
-      iii.Code generation: NINJA-IDE had features for automatically generating code snippets, reducing the need for manual typing and helping developers with boilerplate code.
+      iii.Code generation: NINJA-IDE had features for automatically generating code snippets, reducing the need for manual 
+          typing and helping developers with boilerplate code.
       
-      iv. Integrated development tools: The IDE included various tools to aid development, such as a version control system, a built-in terminal, a Python debugger, and support for various plugins, streamlining the development process by having these tools within the same environment.
+      iv. Integrated development tools: The IDE included various tools to aid development, such as a version control system, a
+          built-in terminal, a Python debugger, and support for various plugins, streamlining the development process by having
+          these tools within the same environment.
       
-      v.  Customizability: It allowed developers to customize and extend its functionality by adding plugins or creating their own. This flexibility allowed tailoring the environment to specific needs.
+      v.  Customizability: It allowed developers to customize and extend its functionality by adding plugins or creating their own.
+          This flexibility allowed tailoring the environment to specific needs.
   
 4) How to install Ninja IDE
 
