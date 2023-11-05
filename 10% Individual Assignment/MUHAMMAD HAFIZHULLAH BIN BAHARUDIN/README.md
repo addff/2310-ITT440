@@ -45,7 +45,7 @@ Tornado is an excellent option for creating real-time web applications, such as 
 ## Geany
 
 ### What is Geany?
-A compact and light-weight integrated development environment is called Geany. It was created to offer a quick and compact IDE with minimal dependencies on other software. Being as autonomous as possible from a specialised desktop environment, such as KDE or GNOME, was another objective; Geany simply needs the GTK3 runtime libraries. Geany's features are all intended to make the coding and development process easier by giving users the tools they need to efficiently write, manage, and arrange code. It is especially appropriate for people who want a simple, lightweight programming environment free of superfluous complexity.
+A compact and lightweight integrated development environment is called Geany. It was created to offer a quick and compact IDE with minimal dependencies on other software. Being as autonomous as possible from a specialised desktop environment, such as KDE or GNOME, was another objective; Geany simply needs the GTK3 runtime libraries. Geany's features are all intended to make the coding and development process easier by giving users the tools they need to efficiently write, manage, and arrange code. It is especially appropriate for people who want a simple, lightweight programming environment free of superfluous complexity.
 
 ### Features and characteristics of Geany
 #### 1. Lightweight: 
@@ -58,7 +58,7 @@ Build systems are supported by Geany, enabling programmers to compile and execut
 A variety of plugins are available to expand the capabilities of Geany. Users may tailor the IDE to their own requirements by using these plugins.
 
 #### 4. Code Snippets: 
-Geany lets you generate and utilise code snippets to rapidly add templates or common code patterns to your projects.
+Geany lets you generate and utilize code snippets to rapidly add templates or common code patterns to your projects.
 
 ### Functionality of Geany
 #### 1. Code Editing: 
@@ -71,7 +71,7 @@ A multitude of programming languages are supported by Geany's syntax highlightin
 Geany's extensibility enables programmers to add or change features by altering keybindings and settings, for example.
 
 #### 4. Plugin Support: 
-Geany is compatible with a number of plugins that offer more functionality and features, such project management tools, extra language support, and code linting.
+Geany is compatible with a number of plugins that offer more functionality and features, such as project management tools, extra language support, and code linting.
 
 
 # 3. LIBRARY
@@ -114,6 +114,6 @@ Seaborn has the ability to create multi-plot grids, such as facet and pair grids
 To sum up, inside the Python environment, Tornado, Seaborn, and Geany are unique tools with varied uses. Geany is a lightweight integrated development environment (IDE) for software development; Tornado is a web framework for developing high-performance online applications; and Seaborn is a data visualisation toolkit for producing educational statistical visualisations. Which tool you select will depend on the nature of the project and your particular demands.
 
 
-### The demo video to show how to isntall and use:
+### The demo video to show how to install and use:
 
 [![2310-ITT440](https://img.youtube.com/vi/boqC_jJ2VGU/0.jpg)](https://www.youtube.com/watch?v=boqC_jJ2VGU)
