@@ -43,8 +43,6 @@ Tornado is an excellent option for creating real-time web applications, such as 
 # 2. EDITOR
 ## Geany
 
-![geany](https://github.com/addff/2310-ITT440/assets/149034161/19b40ed2-fb81-4379-a009-89aa744bd237)
-
 ### What is Geany?
 A compact and light-weight integrated development environment is called Geany. It was created to offer a quick and compact IDE with minimal dependencies on other software. Being as autonomous as possible from a specialised desktop environment, such as KDE or GNOME, was another objective; Geany simply needs the GTK3 runtime libraries. Geany's features are all intended to make the coding and development process easier by giving users the tools they need to efficiently write, manage, and arrange code. It is especially appropriate for people who want a simple, lightweight programming environment free of superfluous complexity.
 
