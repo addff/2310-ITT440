@@ -2,43 +2,43 @@
 
 ### NUR FARIZAH BINTI AIZAM (2023190255/M3CS2554B)
 
-## EDITOR : PYSCRIPTER
+## EDITOR : KATE
 
-### WHAT IS PYSCRIPTER ?
+### WHAT IS KATE ?
 
-PyScripter is an open-source Integrated Development Environment (IDE) specifically designed for Python programming. It provides a comprehensive set of features to facilitate Python development, making it easier for programmers to write, test, and debug Python code.
+Kate is a Advanced Text Editor for the KDE desktop environment on Unix-like operating systems, such as Linux. It is part of the KDE Applications suite, which provides a range of software applications for the KDE desktop environment
 
-### PYSCRIPTER FEATURE :
+### KATE FEATURE :
 
-_**Code Editing**_ : PyScripter offers a code editor with syntax highlighting and code completion, which helps developers write Python code more efficiently.
+Syntax Highlighting: Kate supports syntax highlighting for a wide range of programming languages, which helps make code more readable and easier to work with.
 
-_**Interactive Python Shell**_ : It includes an interactive Python interpreter where you can execute Python code line by line or in blocks. This is particularly useful for experimenting with code snippets.
+Code Folding: It allows you to collapse and expand sections of code, making it easier to navigate through large files and focus on specific sections.
 
-_**Debugger**_ : PyScripter comes with a powerful debugger that allows you to step through code, set breakpoints, inspect variables, and track program execution flow.
+Extensibility: Kate supports plugins, which can be used to add additional functionality or customize the editor to suit your specific needs.
 
-_**Code Navigation**_ : The IDE provides features like code folding, code navigation, and a function/class browser to help you quickly find and navigate through your codebase.
+Multi-Document Interface (MDI): Kate allows you to open and work with multiple documents in a single window, with tabs for easy navigation.
 
-_**Version Control**_ : PyScripter has integration with version control systems like Git, which allows you to manage your code repositories directly from the IDE.
+Built-in Terminal Emulator: The editor includes a terminal emulator that allows you to run shell commands directly within the editor.
 
-_**Integrated Documentation**_ : It provides access to Python documentation directly within the IDE, making it easy to look up information about Python modules and functions.
+Search and Replace: Kate provides powerful search and replace functionality, with support for regular expressions.
 
-_**Project Management**_ : PyScripter allows you to organize your code into projects, making it easier to manage multiple files and directories within a cohesive development environment.
+Auto Indentation: The editor can automatically adjust the indentation of your code based on the syntax of the language you're working with.
 
-_**Integrated Unit Testing**_ : It supports the integration of testing frameworks like unittest, making it easier to write and run tests for your Python code.
+Text Encoding Support: Kate supports a wide range of text encodings, making it suitable for working with files in various languages and character sets.
 
-_**Remote Development**_ : PyScripter has features to support remote development, which allows you to work on code that is stored on a different machine or server.
+Session Management: You can save and restore sessions, which includes the open documents, their positions, and other settings.
 
-_**Customization**_ : The IDE is highly customizable, allowing you to configure various settings, themes, and plugins to suit your preferences and workflow.
+Code Snippets and Templates: Kate allows you to define and use code snippets and templates for faster coding
 
-PyScripter is a popular choice among Python developers, especially those who prefer a lightweight and customizable IDE for their Python development work. It is available for Windows and is written in Delphi, a high-level programming language.
+Kate is known for its clean and intuitive user interface, making it a popular choice among developers who prefer a lightweight yet powerful text editor. Keep in mind that it is primarily designed for use on Unix-like systems with the KDE desktop environment.
 
-## FRAMEWORK : SCIPY
+## FRAMEWORK : STREAMLIT
 
-### WHAT IS SCIPY ?
+### WHAT IS STREAMLIT ?
 
 SciPy is an open-source scientific computing library for Python. It builds on NumPy, another popular Python library, and provides additional functionality for tasks related to scientific and technical computing. SciPy includes modules for tasks such as optimization, integration, interpolation, signal and image processing, linear algebra, statistics, and more.
 
-### SCIPY FEATURE :
+### STREAMLIT FEATURE :
 
 _**Optimization**_ : SciPy provides a suite of optimization algorithms for both constrained and unconstrained problems.
 
