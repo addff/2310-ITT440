@@ -80,8 +80,7 @@ OpenCV can be used to develop machine learning models for image classification, 
 
 ###HOW TO DEMONSTRATE THE TOOLS VIDEO 
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=Q5H0VPUBwDs)https://www.youtube.com/watch?v=Q5H0VPUBwDs)
 
 
 
-
+https://www.youtube.com/watch?v=Q5H0VPUBwDs
