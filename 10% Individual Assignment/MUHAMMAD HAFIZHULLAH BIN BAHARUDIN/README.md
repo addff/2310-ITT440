@@ -10,8 +10,8 @@
 
 ### What is Tornado?
 Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections, making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user.
-![tornado](https://github.com/addff/2310-ITT440/assets/149034161/3c9e0e5a-cd94-4b0d-96ad-da5291cf45f8)
 
+![tornado](https://github.com/addff/2310-ITT440/assets/149034161/3c9e0e5a-cd94-4b0d-96ad-da5291cf45f8)
 
 ### Features and characteristics of Tornado
 #### 1. Asynchronous Programming: 
@@ -42,6 +42,8 @@ Tornado is an excellent option for creating real-time web applications, such as 
 
 # 2. EDITOR
 ## Geany
+
+![geany](https://github.com/addff/2310-ITT440/assets/149034161/19b40ed2-fb81-4379-a009-89aa744bd237)
 
 ### What is Geany?
 A compact and light-weight integrated development environment is called Geany. It was created to offer a quick and compact IDE with minimal dependencies on other software. Being as autonomous as possible from a specialised desktop environment, such as KDE or GNOME, was another objective; Geany simply needs the GTK3 runtime libraries. Geany's features are all intended to make the coding and development process easier by giving users the tools they need to efficiently write, manage, and arrange code. It is especially appropriate for people who want a simple, lightweight programming environment free of superfluous complexity.
@@ -78,6 +80,9 @@ Geany is compatible with a number of plugins that offer more functionality and f
 
 ### What is Seaborn?
 A Python package called Seaborn is used to create statistical visualisations. It strongly interacts with pandas data structures and builds upon the matplotlib framework. Seaborn facilitates data exploration and comprehension. Its charting functions work with dataframes and arrays that hold whole datasets, and they internally carry out the statistical aggregation and semantic mapping required to create visually appealing graphs. You may concentrate on the meaning of the various plot parts rather than the specifics of how to design them thanks to its declarative, dataset-oriented API.
+
+![seaborn](https://github.com/addff/2310-ITT440/assets/149034161/cb95c579-57b6-4adc-941e-7c89a3845959)
+
 
 ### Features and characteristics of Seaborn
 #### 1. High-Level Interface: 
