@@ -147,5 +147,6 @@
   		ActiveState. This ensures that the IDE receives regular updates, bug fixes,
     	and improvements, and there is ongoing support for users.
 
-## Full Demo Installation and How to use
-[![2310-ITT440](https://www.youtube.com/watch?v=hDCUhxmAIVE)
+DEMO Video for Komodo IDE, FastAPI and Openpyxl
+
+[![Video](https://img.youtube.com/vi/hDCUhxmAIVE/maxresdefault.jpg)](https://www.youtube.com/watch?v=hDCUhxmAIVE)
