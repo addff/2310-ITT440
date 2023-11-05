@@ -8,9 +8,7 @@ GROUP: M3CDCS2554B
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# EDITOR
-
-## Notepad
+# EDITOR : ## Notepad
 
 1) What is Notepad?
 - Notepad is a simple text editor program that comes pre-installed with Microsoft Windows operating systems. It is a basic and lightweight application designed for creating and editing plain text files.
@@ -31,9 +29,7 @@ Notepad is a fundamental tool for quickly creating and editing text documents wi
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# FRAMEWORK
-
-## TensorFlow
+# FRAMEWORK : ## TensorFlow
 
 1) What is TensorFlow?
 - TensorFlow is a software tool created by Google for teaching computers how to learn and make decisions, a bit like how humans learn. It's used for tasks like recognizing images or understanding language. It's very flexible and can work on both small and big problems, making it a popular choice for machine learning and artificial intelligence. People can build custom programs or use pre-made ones to solve various problems. It's widely used by researchers and companies to create smarter computer systems.
@@ -60,9 +56,7 @@ Notepad is a fundamental tool for quickly creating and editing text documents wi
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# LIBRARY 
-
-## CatBoost
+# LIBRARY : ## CatBoost
 
 1) What is CatBoost?
 - CatBoost is an open-source machine learning library that is specifically designed for gradient boosting on decision trees. It is particularly well-suited for solving classification and regression problems. CatBoost stands out for its efficiency, speed, and effectiveness in handling categorical features, which are variables with discrete values like "red," "green," "blue" rather than numerical values.
