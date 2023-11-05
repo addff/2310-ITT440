@@ -56,10 +56,10 @@ it can display text with different formatting and highlighting styles.
 
 
 Copied!
-[![Watch the video](https://img.youtube.com/vi/0okOoT3XS24/hqdefault.jpg)](https://www.youtube.com/embed/0okOoT3XS24)
+[![Watch the video](https://img.youtube.com/vi/d2hx_4xMT0g/hqdefault.jpg)](https://www.youtube.com/embed/d2hx_4xMT0g)
 
-[<img src="https://img.youtube.com/vi/0okOoT3XS24/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/0okOoT3XS24)
+[<img src="https://img.youtube.com/vi/d2hx_4xMT0g/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/d2hx_4xMT0g)
 
 
 
