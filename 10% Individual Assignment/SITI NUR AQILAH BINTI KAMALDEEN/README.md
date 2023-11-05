@@ -12,7 +12,7 @@
 
 **Editor: Wing Ide**
 
-
+![download](https://github.com/addff/2310-ITT440/assets/146957815/ed775142-2c16-404a-acae-6c8b10e1e75c)
  
   Wing IDE (Integrated Development Environment) was created by Wingware with the intention of making it easier for Python programmers to write, debug, and manage their programs. The Wing IDE provides a wide range of abilities such as code editing with syntax highlighting, code completion, and code navigation, to help developers with their Python programming duties. 
 
