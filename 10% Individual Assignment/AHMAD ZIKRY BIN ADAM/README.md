@@ -230,5 +230,5 @@ After the installation, you can start using Pytest to write and run your test ca
 
 ### DEMO NINJA IDE, PYGAME AND PYTEST
 
-[![Click to watch the video](https://example.com/uitm.jpg)](https://www.youtube.com/watch?v=DcX1Qi8e6UgLcSg6)
+[![Click to watch the video](https://example.com/uitm.jpg)](https://youtu.be/hESNf3QstpE?si=DcX1Qi8e6UgLcSg6)
 
