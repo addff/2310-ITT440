@@ -48,6 +48,10 @@ Here are some specific examples of how UltraEdit is used in the real world:
 
 3. ULTRAEDIT DEMO
 
+[<img src="https://img.youtube.com/vi/XrnKy8-9v0c/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/XrnKy8-9v0c)
+
+
 
 ============================================================================================
 ### FRAMEWORK
@@ -80,8 +84,8 @@ PyQt has been used to create a wide range of applications, including:
 
 3. PYQT DEMO
 
-[<img src="https://img.youtube.com/vi/QOMA6STwcVo/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/QOMA6STwcVo)
+[<img src="https://img.youtube.com/vi/C_rane5glU8/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/C_rane5glU8)
 
 
 
@@ -128,6 +132,8 @@ These are just a few examples of how TensorFlow is being used today.
 
 3. TENSORFLOW DEMO
 
+[<img src="https://img.youtube.com/vi/WvfLiu6XrfM/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/WvfLiu6XrfM)
 
 
 
