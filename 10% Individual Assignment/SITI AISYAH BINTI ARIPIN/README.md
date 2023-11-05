@@ -1,5 +1,12 @@
 # 2310-ITT440
 ## 20% Individual Assignment
+
+NAME: SITI AISYAH BINTI ARIPIN
+
+CLASS: CDCS2554B
+
+NO MATRIKS: 2023376499
+
 EDITOR: MU EDITOR
 
 Mu is a simple and user-friendly code editor and integrated development environment (IDE) designed primarily for beginners, particularly those learning to program in Python. Mu is open-source software and provides a minimalistic and distraction-free interface, making it suitable for educators and students.
