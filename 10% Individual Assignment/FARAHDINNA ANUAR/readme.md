@@ -56,6 +56,7 @@ and also alter the configuration, and adjust the keybindings.
 
 
 Library:
+
 ###OpenCV
 
 OpenCV for Python is a Python binding for the OpenCV library. It allows Python developers to use the OpenCV library to develop computer vision and machine learning applications. OpenCV for Python is easy to use and provides a comprehensive set of functions for image processing, object detection, and machine learning.
