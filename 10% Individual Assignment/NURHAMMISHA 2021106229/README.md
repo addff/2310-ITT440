@@ -1,7 +1,7 @@
 ## 2310-ITT440
 ## 10% Individual Assignment
 ### NAME : NURHAMMISHA BINTI MOHD KHARI
-### ID : 2021106229
+### MATRIC NO : 2021106229
 ### GROUP : M3CS2554A
 
 ## FRAMEWORK : CAFFE
@@ -46,6 +46,14 @@ Bokeh is an open-source Python library for creating interactive and visually app
 Leo is a unique and versatile text editor and Integrated Development Environment (IDE) that focuses on outliners and literate programming. It is designed for developers and writers who want to organize and work with hierarchical structures of content
 
 **Leo's features :**
+
+1. **Literate Programming**: Leo fully supports literate programming, allowing you to intermingle code and documentation within the same document. This approach enhances the comprehensibility of your code and its accompanying explanations.
+
+2. **Cloning Nodes**: Leo supports the concept of cloning nodes. This allows you to reuse sections of code or text in multiple locations within your outline. Changes made to the original node are automatically reflected in all clones.
+
+3. **Dual-Paned Interface**: Leo typically features a dual-paned interface. The left pane displays the outline structure, while the right pane displays the content associated with the selected node. This dual-pane view is central to its organizational structure.
+
+4. **Outliner Structure**: Leo uses an outliner structure where you organize your content hierarchically in the form of an outline. Nodes represent sections or parts of your content, and you can nest them to create a structured document.
 
 
 
