@@ -47,13 +47,38 @@ Significant of Flask.
 
 ### CherryPy Demostration
 
-LIBRARY
+# 2. LIBRARY
 
-Panda:
+## Scrapy
+![image](https://github.com/addff/2310-ITT440/assets/149042347/0ec63af8-d6d7-4798-85d2-4bcf218b9945)
 
-What is Panda?
+### What is Scrapy?
+Scrapy, a robust open-source framework for web crawling and web scraping, is built in Python. Its primary objective is to simplify the process of data extraction from websites, be it for research, data analysis, or any other purpose. Scrapy is equipped with an extensive array of features and tools for navigating websites, gathering structured data, and storing it in diverse formats. This report delivers an outline of Scrapy, covering its capabilities, practical applications, and its significance in the realm of web data extraction.
 
-Description of Panda.
+### Features and Functionality
+#### 1. Extensive Crawling Capabilities
+Scrapy enables users to navigate websites, following links and collecting data from multiple pages in a structured manner. It provides a robust crawling engine that can handle complex websites with ease.
+
+#### 2. Built-in XPath and CSS Selectors
+Scrapy simplifies data extraction by providing support for XPath and CSS selectors. Developers can use these selectors to pinpoint the data they want to extract from web pages, making the process highly customizable and precise.
+
+#### 3. Item Pipelines
+Scrapy's item pipelines allow you to process and store scraped data in various formats, including JSON, CSV, XML, and databases. You can define custom item processors and data storage mechanisms to suit your specific requirements.
+
+#### 4. Request and Response Management
+Scrapy manages HTTP requests and responses, including features like request retries, timeouts, and user-agent rotation. This ensures that web scraping tasks are conducted efficiently and respectfully.
+
+#### 5. Middleware Support
+Scrapy supports middleware, allowing users to add custom processing at various stages of the web scraping process. Common use cases include user authentication, proxy rotation, and user-agent rotation.
+
+#### 6. Extensibility and Customizability
+Scrapy is highly extensible and customizable. Users can create their own Scrapy extensions, middleware, and item pipelines to tailor the framework to their unique requirements.
+
+#### 7. Distributed Crawling
+Scrapy supports distributed crawling, enabling developers to scale up web scraping tasks across multiple machines or cloud-based services for handling large-scale data extraction projects.
+
+#### 8. Form Request Handling
+Scrapy can handle web forms, enabling the submission of forms on websites and processing the responses. This is useful for websites that require user authentication or interaction.
 
 Significant of Panda.
 
