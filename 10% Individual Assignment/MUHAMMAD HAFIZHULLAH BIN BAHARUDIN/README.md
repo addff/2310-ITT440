@@ -1,5 +1,5 @@
 # 2310-ITT440
-## 20% Individual Assignment
+## 10% Individual Assignment
 ### Name: Muhammad Hafizhullah bin Baharudin
 ### Matric number: 2021847428
 ### Class: M3CS2554A
