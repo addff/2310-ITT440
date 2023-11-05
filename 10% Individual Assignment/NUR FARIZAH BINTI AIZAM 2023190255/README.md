@@ -10,25 +10,25 @@ Kate is a Advanced Text Editor for the KDE desktop environment on Unix-like oper
 
 ### KATE FEATURE :
 
-Syntax Highlighting: Kate supports syntax highlighting for a wide range of programming languages, which helps make code more readable and easier to work with.
+_**Syntax Highlighting**_ : Kate supports syntax highlighting for a wide range of programming languages, which helps make code more readable and easier to work with.
 
-Code Folding: It allows you to collapse and expand sections of code, making it easier to navigate through large files and focus on specific sections.
+_**Code Folding**_ : It allows you to collapse and expand sections of code, making it easier to navigate through large files and focus on specific sections.
 
-Extensibility: Kate supports plugins, which can be used to add additional functionality or customize the editor to suit your specific needs.
+_**Extensibility**_ : Kate supports plugins, which can be used to add additional functionality or customize the editor to suit your specific needs.
 
-Multi-Document Interface (MDI): Kate allows you to open and work with multiple documents in a single window, with tabs for easy navigation.
+_**Multi-Document Interface (MDI)**_ : Kate allows you to open and work with multiple documents in a single window, with tabs for easy navigation.
 
-Built-in Terminal Emulator: The editor includes a terminal emulator that allows you to run shell commands directly within the editor.
+_**Built-in Terminal Emulator**_ : The editor includes a terminal emulator that allows you to run shell commands directly within the editor.
 
-Search and Replace: Kate provides powerful search and replace functionality, with support for regular expressions.
+_**Search and Replace**_ : Kate provides powerful search and replace functionality, with support for regular expressions.
 
-Auto Indentation: The editor can automatically adjust the indentation of your code based on the syntax of the language you're working with.
+_**Auto Indentation**_ : The editor can automatically adjust the indentation of your code based on the syntax of the language you're working with.
 
-Text Encoding Support: Kate supports a wide range of text encodings, making it suitable for working with files in various languages and character sets.
+_**Text Encoding Support**_ : Kate supports a wide range of text encodings, making it suitable for working with files in various languages and character sets.
 
-Session Management: You can save and restore sessions, which includes the open documents, their positions, and other settings.
+_**Session Management**_ : You can save and restore sessions, which includes the open documents, their positions, and other settings.
 
-Code Snippets and Templates: Kate allows you to define and use code snippets and templates for faster coding
+_**Code Snippets and Templates**_ : Kate allows you to define and use code snippets and templates for faster coding
 
 Kate is known for its clean and intuitive user interface, making it a popular choice among developers who prefer a lightweight yet powerful text editor. Keep in mind that it is primarily designed for use on Unix-like systems with the KDE desktop environment.
 
