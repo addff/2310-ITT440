@@ -51,7 +51,7 @@ Matplotlib, a popular Python library for data visualization, offers several adva
 Matplotlib is a versatile Python library for creating high-quality data visualizations. It offers a user-friendly interface, customization options, and supports various plot types. Popular among data scientists, researchers, and analysts due to its open-source nature, community support, and cross-platform compatibility.
 
 ### DEMONSTRATION OF INSTALLATION AND HOW TO USE MATPLOTLIB
-[![Watch the Video](https://img.youtube.com/vi/Eq7nzilfASs/hqdefault.jpg)](https://www.youtube.com/watch?=Eq7nzilfASs)
+[![Watch the Video](https://img.youtube.com/vi/Eq7nzilfASs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Eq7nzilfASs)
 
 ## FRAMEWORK : WEB2PY
 <p align="center">
@@ -102,9 +102,8 @@ Web2py is a full-stack web framework that offers several advantages such as :
 Web2py is an open-source framework for Python-based web application development. It offers a secure, database-driven environment for creating, testing, and deploying applications. Key features include Python-centric approach, rapid prototyping, and Model-View-Controller architecture. Web2py is accessible to developers of all skill levels, with a built-in IDE and user-friendly administrative interface.
 
 ## DEMONSTRATION OF INSTALLATION AND HOW TO USE WEB2PY
-[![Watch the Video](https://img.youtube.com/vi/2N3igjMZSIY/hqdefault.jpg)](https://www.youtube.com/watch?=2N3igjMZSIY)
+[![Watch the Video](https://img.youtube.com/vi/2N3igjMZSIY/maxresdefault.jpg)](https://www.youtube.com/watch?v=2N3igjMZSIY)
 
-https://youtu.be/2N3igjMZSIY
 ## EDITOR : BRACKETS
 <p align="center">
 	<img src="https://github.com/addff/2310-ITT440/assets/149155016/13ed5f55-665a-48bf-a801-5a2bb39c7921.png" width=90% height=80%>
@@ -151,7 +150,7 @@ Brackets, the code editor primarily designed for web development, offers several
 Brackets is a user-friendly, adaptable open-source code editor designed for front-end web development. It features a live preview feature, supports preprocessor languages like LESS and SCSS, and offers extensible architecture for customization. Its integrated version control system and multiple cursors enhance user experience. Available across different operating systems, Brackets is a popular choice for front-end developers seeking efficient web development environments.
 
 ## DEMONSTRATION OF INSTALLATION AND HOW TO USE BRACKETS
-[![Watch the Video](https://img.youtube.com/vi/lqGQjBT8shY/hqdefault.jpg)](https://www.youtube.com/watch?=lqGQjBT8shY)
+[![Watch the Video](https://img.youtube.com/vi/lqGQjBT8shY/maxresdefault.jpg)](https://www.youtube.com/watch?v=lqGQjBT8shY)
 
 
 <p align='center'>
