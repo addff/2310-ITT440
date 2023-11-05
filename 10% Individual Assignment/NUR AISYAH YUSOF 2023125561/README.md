@@ -73,3 +73,8 @@ Notepad is a fundamental tool for quickly creating and editing text documents wi
 - Community and Resources: CatBoost has an active user community, well-documented resources, and examples that help users get started and troubleshoot issues.
 
 CatBoost is commonly used for a wide range of machine learning applications, including but not limited to predicting customer churn, credit risk assessment, recommendation systems, and fraud detection. Its efficient handling of categorical features and competitive performance make it a valuable tool for data scientists and machine learning practitioners working with structured data.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## DEMONSTRATION ON HOW TO INSTALL AND USE NOTEPAD, TENSORFLOW, AND CATBOOST.
+
