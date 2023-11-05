@@ -78,4 +78,4 @@ CatBoost is commonly used for a wide range of machine learning applications, inc
 
 ## DEMONSTRATION ON HOW TO INSTALL AND USE NOTEPAD, TENSORFLOW, AND CATBOOST.
 
-[![Watch the video]https://youtu.be/W9FAR6xrk5c?si=Wdi6nlcHUezhYPjl](https://www.youtube.com/watch?v=W9FAR6xrk5c)
+[![Watch the video]https://img.youtube.com/vi/W9FAR6xrk5c/hqdefault.jpg](https://www.youtube.com/watch?v=W9FAR6xrk5c)
