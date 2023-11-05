@@ -28,7 +28,7 @@ wxPython is used to develop a wide variety of applications, including desktop ap
 
 wxPython can also be used to develop custom GUI controls for other Python frameworks, such as PyQt and Tkinter.
 
-### Library: Celery
+# Library: Celery
 Celery is a distributed task queue for Python. It allows you to defer the execution of tasks to worker processes, which can be running on the same machine or different machines. This can be useful for improving the performance and scalability of your Python applications.
 
 Celery is based on the Advanced Message Queuing Protocol (AMQP), which is a standard messaging protocol. Celery uses AMQP to communicate between the task queue and the worker processes.
