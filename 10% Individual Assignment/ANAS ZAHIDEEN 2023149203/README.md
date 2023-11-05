@@ -87,7 +87,7 @@ Some key features and characteristics of the Peewee library include:
 
 ### DEMO 
 
-[![Watch the video](https://img.youtube.com/vi/hESNf3QstpE/hqdefault.jpg)](https://youtu.be/k_D4ItoO5yk)
+[![Watch the video](https://youtu.be/k_D4ItoO5yk)
 
 
 
