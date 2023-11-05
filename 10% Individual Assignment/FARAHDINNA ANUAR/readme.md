@@ -63,7 +63,7 @@ OpenCV for Python is a Python binding for the OpenCV library. It allows Python d
 To use OpenCV for Python, you need to install the OpenCV-Python package. This package can be installed using Pip or Conda. Once the OpenCV-Python package is installed, you can import the OpenCV library into your Python code and start using its functions.
 
 
-MAGIT Significance
+OpenCV Significance
 
 
 1. Image processing
