@@ -36,27 +36,25 @@ Kate is known for its clean and intuitive user interface, making it a popular ch
 
 ### WHAT IS STREAMLIT ?
 
-SciPy is an open-source scientific computing library for Python. It builds on NumPy, another popular Python library, and provides additional functionality for tasks related to scientific and technical computing. SciPy includes modules for tasks such as optimization, integration, interpolation, signal and image processing, linear algebra, statistics, and more.
+Streamlit is a Python framework that is specifically designed for creating web applications for data science and machine learning. It allows developers and data scientists to build interactive and customizable web apps with just a few lines of Python code. 
 
 ### STREAMLIT FEATURE :
 
-_**Optimization**_ : SciPy provides a suite of optimization algorithms for both constrained and unconstrained problems.
+Simplicity: Streamlit is designed to be easy to use. It has a simple and intuitive API that allows developers to create web apps with just a few lines of Python code.
 
-_**Integration**_ : It offers various techniques for numerical integration, including methods for both single and multi-dimensional problems.
+Interactive Widgets: Streamlit provides a range of widgets like sliders, buttons, and input boxes that allow users to interact with the app and dynamically update the displayed content.
 
-_**Interpolation**_ : SciPy provides functions for interpolating data, which is useful for tasks like filling in missing values or generating smooth curves from discrete data points.
+Data Visualization Integration: It supports popular Python data visualization libraries like Matplotlib, Plotly, and Altair, making it easy to include interactive plots in your app.
 
-_**Signal and Image Processing**_ : It includes a range of functions for tasks like filtering, convolution, and various image processing operations.
+Machine Learning Integration: You can seamlessly incorporate machine learning models and display their results in your app.
 
-_**Linear Algebra**_ : SciPy builds on NumPy's capabilities for linear algebra and provides additional functionality, including specialized functions for sparse matrices.
+Customization: Streamlit provides the flexibility to customize the appearance and layout of your app using simple Python code.
 
-_**Statistics**_ : It offers a wide range of statistical functions and probability distributions, along with tools for hypothesis testing and other statistical operations.
+Fast Prototyping: Streamlit allows for rapid development and prototyping of data-driven web applications.
 
-_**Special Functions**_ : SciPy includes a collection of special mathematical functions, such as Bessel functions, gamma functions, and more.
+Sharing and Deployment: Streamlit apps can be easily deployed to various platforms, allowing for easy sharing and access.
 
-_**File Input/Output**_ : It provides functions for reading and writing data in various formats, including MATLAB files, NetCDF, and more.
-
-Overall, SciPy is a powerful tool for scientists, engineers, and researchers who need to perform a wide range of numerical and scientific computations using Python. It complements other libraries like NumPy and Matplotlib, providing a comprehensive ecosystem for scientific computing in Python.
+Overall, Streamlit is a powerful tool for creating web applications that showcase data and machine learning models, making it a valuable asset in the data science and machine learning ecosystem. While it is not a full-stack web framework like Django or Flask, it is highly specialized for creating data-centric web applications and dashboards, making it a powerful tool in the data science ecosystem.
 
 
 ## LIBRARY : SYMPY
