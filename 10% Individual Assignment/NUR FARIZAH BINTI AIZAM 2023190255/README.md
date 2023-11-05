@@ -30,7 +30,7 @@ _**Session Management**_ : You can save and restore sessions, which includes the
 
 _**Code Snippets and Templates**_ : Kate allows you to define and use code snippets and templates for faster coding
 
-     Kate is known for its clean and intuitive user interface, making it a popular choice among developers who prefer a lightweight yet powerful text editor. Keep in mind that it is primarily designed for use on Unix-like systems with the KDE desktop environment.
+     Overall, Kate is known for its clean and intuitive user interface, making it a popular choice among developers who prefer a lightweight yet powerful text editor. Keep in mind that it is primarily designed for use on Unix-like systems with the KDE desktop environment.
 
 ## FRAMEWORK : STREAMLIT
 
@@ -85,5 +85,5 @@ _**Geometric Algebra**_ : SymPy includes modules for working with geometric obje
 
 _**Combining with NumPy and SciPy**_ : While SymPy is primarily focused on symbolic mathematics, it can be used in conjunction with NumPy and SciPy for both symbolic and numerical computations.
 
-     SymPy is widely used in scientific and engineering applications where symbolic mathematics is required. It is particularly valuable in fields like mathematics, physics, engineering, and computer science for tasks that involve complex algebraic manipulations and symbolic reasoning.
+     Overall, SymPy is widely used in scientific and engineering applications where symbolic mathematics is required. It is particularly valuable in fields like mathematics, physics, engineering, and computer science for tasks that involve complex algebraic manipulations and symbolic reasoning.
 
