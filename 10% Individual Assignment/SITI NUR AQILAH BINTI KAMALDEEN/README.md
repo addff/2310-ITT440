@@ -97,12 +97,12 @@ Event-Driven Programming:
 
 Wing Ide
 
- <a href="YOUR_GOOGLE_DRIVE_LINK">Please click here to watch Wing Ide video</a>
+ <a href="https://drive.google.com/file/d/1x2Tc3uy_TR0UuCJsu79nWPIbB30hSoYj/view?usp=sharing">Please click here to watch Wing Ide video</a>
  
 NumPy
 
- <a href="YOUR_GOOGLE_DRIVE_LINK">Please click here to watch NumPy video</a>
+ <a href="https://drive.google.com/file/d/16x9VddBO-dbJUtsMbg_v0euX0DV2Pa_k/view?usp=sharing">Please click here to watch NumPy video</a>
  
 pyGTK
 
- <a href="YOUR_GOOGLE_DRIVE_LINK">Please click here to watch pyGTK video</a>
+ <a href="https://drive.google.com/file/d/1IzRXwdHtEJ20zeCB4xrzkv9zTnpfGfr9/view?usp=sharing">Please click here to watch pyGTK video</a>
