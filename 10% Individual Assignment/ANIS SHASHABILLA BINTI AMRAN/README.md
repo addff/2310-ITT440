@@ -20,8 +20,7 @@ Multiple Language Support: While it's an excellent editor for Python, SciTE also
 
 [![Watch the video](https://img.youtube.com/vi/m6lJOTwT8qA/hqdefault.jpg)](https://www.youtube.com/embed/m6lJOTwT8qA)
 
-[<img src="https://img.youtube.com/vi/m6lJOTwT8qA/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/m6lJOTwT8qA)
+
 
 # Framework: wxPython
 
