@@ -17,6 +17,12 @@ Open Source: SciTE is open-source, which means it's free to use and can be modif
 
 Multiple Language Support: While it's an excellent editor for Python, SciTE also supports various other programming languages, making it versatile for multi-language development.
 
+
+[![Watch the video](https://img.youtube.com/vi/m6lJOTwT8qA/hqdefault.jpg)](https://www.youtube.com/embed/m6lJOTwT8qA)
+
+[<img src="https://img.youtube.com/vi/m6lJOTwT8qA/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/m6lJOTwT8qA)
+
 # Framework: wxPython
 
 wxPython is a cross-platform graphical user interface (GUI) toolkit for the Python programming language. It is a wrapper around the wxWidgets C++ library, which provides a native look and feel for applications on Windows, macOS, Linux, and other platforms.
