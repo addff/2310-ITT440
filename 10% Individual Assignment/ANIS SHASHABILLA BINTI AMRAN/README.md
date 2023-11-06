@@ -17,8 +17,7 @@ Open Source: SciTE is open-source, which means it's free to use and can be modif
 
 Multiple Language Support: While it's an excellent editor for Python, SciTE also supports various other programming languages, making it versatile for multi-language development.
 
-
-
+[![Watch the video](https://img.youtube.com/vi/jME6Eyww1l0/hqdefault.jpg)](https://www.youtube.com/embed/jME6Eyww1l0)
 
 # Framework: wxPython
 
@@ -58,6 +57,8 @@ wxPython is used to develop a wide variety of applications, including desktop ap
 
 wxPython can also be used to develop custom GUI controls for other Python frameworks, such as PyQt and Tkinter.
 
+[![Watch the video](https://img.youtube.com/vi/0PcMIXRtHMc/hqdefault.jpg)](https://www.youtube.com/embed/0PcMIXRtHMc)
+
 # Library: Celery
 
 Celery is a distributed task queue for Python. It allows you to defer the execution of tasks to worker processes, which can be running on the same machine or different machines. This can be useful for improving the performance and scalability of your Python applications.
@@ -81,3 +82,6 @@ Sending emails: You can use Celery to send emails asynchronously. This can impro
 Processing payments: You can use Celery to process payments asynchronously. This can improve the scalability of your application by allowing you to handle a large number of payments at the same time.
 
 Generating reports: You can use Celery to generate reports asynchronously. This can improve the performance of your application by freeing up the main thread to handle other requests.
+
+[![Watch the video](https://img.youtube.com/vi/NuxKT_8i8iw/hqdefault.jpg)](https://www.youtube.com/embed/NuxKT_8i8iw)
+
