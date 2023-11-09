@@ -7,7 +7,7 @@ CLASS: CDCS2554B
 
 NO MATRIKS: 2022462358
 
-## EDITOR: ULIPAD
+## EDITOR: RUBYMINE
 
 RubyMine is an integrated development environment (IDE) for the Ruby programming language. It's developed by JetBrains and provides a range of tools and features to aid Ruby developers in writing, editing, testing, and debugging their code. It offers a user-friendly interface, code analysis, debugging tools, and support for various web development technologies commonly used with Ruby, such as Ruby on Rails. Here are some of the key functions and features of RubyMine:
 
