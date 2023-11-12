@@ -66,26 +66,29 @@ Bokeh is an open-source Python library for creating interactive and visually app
 ![bokeh version](https://github.com/addff/2310-ITT440/assets/149034575/7f287054-beb2-4cf9-b7d9-4719fcc2b341)
 
 
-## EDITOR : LEO
-![leo](https://github.com/addff/2310-ITT440/assets/149034575/082062e9-881b-498a-8efc-cb6ff6dfcac0)
+## EDITOR : THONNY
 
-**What is Leo?**
 
-Leo is a unique and versatile text editor and Integrated Development Environment (IDE) that focuses on outliners and literate programming. It is designed for developers and writers who want to organize and work with hierarchical structures of content
+**What is Thonny?**
 
-**Leo's features :**
+Thonny is a Python IDE (Integrated Development Environment) designed for beginners. It aims to provide a simple and accessible environment for learning and programming in Python.
 
-1. **Literate Programming**: Leo fully supports literate programming, allowing you to intermingle code and documentation within the same document. This approach enhances the comprehensibility of your code and its accompanying explanations.
+**Thonny's features :**
 
-2. **Cloning Nodes**: Leo supports the concept of cloning nodes. This allows you to reuse sections of code or text in multiple locations within your outline. Changes made to the original node are automatically reflected in all clones.
+1. **Virtual Environment Support**: Thonny encourages good programming practices by creating and using virtual environments for each project.
 
-3. **Dual-Paned Interface**: Leo typically features a dual-paned interface. The left pane displays the outline structure, while the right pane displays the content associated with the selected node. This dual-pane view is central to its organizational structure.
+2. **Simple Interface**: The user interface of Thonny is designed to be clean and user-friendly, making it especially suitable for beginners.
 
-4. **Outliner Structure**: Leo uses an outliner structure where you organize your content hierarchically in the form of an outline. Nodes represent sections or parts of your content, and you can nest them to create a structured document.
+3. **Integrated Python Interpreter**: Thonny comes with a built-in Python interpreter, making it easy to write and execute Python code within the same environment.
+
+4. **Package Management**: Thonny includes a package manager that allows you to install and manage Python packages directly from the IDE.
 
 **Installation**
-1. 
+1. Open a terminal or command prompt and run the following command to install Thonny using 'pip':
 
+![pip install thonny](https://github.com/addff/2310-ITT440/assets/149034575/2ca59cd6-1586-4520-b509-9202e715d9fc)
+
+2. After the installation is complete, you can launch 'Thonny' by typing thonny in the command prompt or terminal.
 
 
 
