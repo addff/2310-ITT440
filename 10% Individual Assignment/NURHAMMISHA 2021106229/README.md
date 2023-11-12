@@ -90,6 +90,9 @@ Thonny is a Python IDE (Integrated Development Environment) designed for beginne
 
 2. After the installation is complete, you can launch 'Thonny' by typing thonny in the command prompt or terminal.
 
+**Video** : https://drive.google.com/drive/folders/1EYekeC4Y1bSqjWKIJmI2VrlGD8w9IZbJ?usp=sharing
+
+
 
 
 
