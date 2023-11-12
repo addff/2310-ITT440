@@ -26,11 +26,11 @@ Pelican is a static site generator written in Python. It allows you to create we
    
  ![pip install pelican](https://github.com/addff/2310-ITT440/assets/149034575/34520c50-3414-48dc-bdac-b1ceb66b08a3)
  
-3. If you are using Python 3, you might need to use 'pip3' instead of 'pip':
+2. If you are using Python 3, you might need to use 'pip3' instead of 'pip':
    
 ![pip3](https://github.com/addff/2310-ITT440/assets/149034575/e3957b17-a91f-4d39-b2e2-2c04fc795e88)
 
-4. After the installation is complete, you can verify it by checking the installed version:
+3. After the installation is complete, you can verify it by checking the installed version:
 
 ![pelican version](https://github.com/addff/2310-ITT440/assets/149034575/a9ab1a60-8250-4996-9935-54b18e92b277)
 
@@ -52,6 +52,20 @@ Bokeh is an open-source Python library for creating interactive and visually app
 
 4. **Streaming Data**: Bokeh supports streaming data, allowing you to update your visualizations in real time. This is useful for applications that require live data updates and monitoring.
 
+**Installation**
+1. Open a terminal or command prompt and run the following command to install Bokeh using 'pip':
+
+![pip install bokeh](https://github.com/addff/2310-ITT440/assets/149034575/8dab6980-8e45-4cbd-9f7f-2a4bddd5cf2c)
+
+2. If you are using Python 3, you might need to use 'pip3' instead of 'pip':
+
+![pip3 bokeh](https://github.com/addff/2310-ITT440/assets/149034575/92c3086d-7847-4947-aea5-6b59d5871965)
+   
+3. After the installation is complete, you can verify it by checking the installed version:
+
+![bokeh version](https://github.com/addff/2310-ITT440/assets/149034575/7f287054-beb2-4cf9-b7d9-4719fcc2b341)
+
+
 ## EDITOR : LEO
 ![leo](https://github.com/addff/2310-ITT440/assets/149034575/082062e9-881b-498a-8efc-cb6ff6dfcac0)
 
@@ -68,6 +82,9 @@ Leo is a unique and versatile text editor and Integrated Development Environment
 3. **Dual-Paned Interface**: Leo typically features a dual-paned interface. The left pane displays the outline structure, while the right pane displays the content associated with the selected node. This dual-pane view is central to its organizational structure.
 
 4. **Outliner Structure**: Leo uses an outliner structure where you organize your content hierarchically in the form of an outline. Nodes represent sections or parts of your content, and you can nest them to create a structured document.
+
+**Installation**
+1. 
 
 
 
