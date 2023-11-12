@@ -4,23 +4,23 @@
 ### MATRIC NO : 2021106229
 ### GROUP : M3CS2554A
 
-## FRAMEWORK : CAFFE
-![caffe2](https://github.com/addff/2310-ITT440/assets/149034575/e88fe035-89ed-4a28-9dfd-8038c868ded2)
+## FRAMEWORK : PELICAN
+![pelican](https://github.com/addff/2310-ITT440/assets/149034575/f82c880b-f979-4dcd-8832-7b24df6b5a51)
 
-**What is Caffe?**
+**What is Pelican?**
 
-Caffe, which stands for Convolutional Architecture for Fast Feature Embedding, is a deep learning framework that was developed by the Berkeley Vision and Learning Center (BVLC) at the University of California, Berkeley. It is primarily designed for training and deploying deep neural networks, particularly convolutional neural networks (CNNs), which are commonly used in computer vision tasks like image classification, object detection, and image segmentation.
+Pelican is a static site generator written in Python. It allows you to create web pages and blogs from reStructuredText, Markdown, or other formats. Static site generators like Pelican take your content (written in a markup language), process it, and generate a set of static HTML files that can be served by a web server.
 
-**Caffe's features :**
+**Pelican's features :**
 
-1. **Modularity**: Caffe is designed with a modular architecture, allowing users to define and experiment with custom network architectures. Models are constructed by specifying layers and their configurations in a prototxt file, making it highly flexible and adaptable to various neural network designs.
+1. **Plugin System**: Pelican features a plugin system that enables users to extend its functionality. There are several plugins available for tasks like SEO optimization, image optimization, and more.
    
-2. **Extensive Layer Library**: Caffe provides a wide range of layer types commonly used in deep learning models, including convolutional layers, pooling layers, fully connected layers, and more. This rich set of layers allows users to build diverse network architectures.
+2. **Syntax Highlighting**: Pelican includes support for syntax highlighting of code snippets in your articles or pages, improving readability for technical content.
    
-3.  **Memory Efficiency**: Caffe is designed to be memory-efficient, which is crucial for working with large datasets and complex models. It optimizes memory usage during training and inference.
+3. **Simple Configuration**: Pelican uses a configuration file (usually named pelicanconf.py) to store settings for your site. This file allows you to control various aspects of your site's behavior, such as the theme, URLs, and metadata.
    
-4.  **Speed and Efficiency**: Caffe is known for its fast performance. It is implemented in C++ and optimized for speed, and it can take advantage of GPU acceleration through NVIDIA CUDA. This speed is especially useful for real-time and high-performance applications.
-
+4. **Markdown and reStructuredText Support**: Pelican supports content written in both Markdown and reStructuredText, providing flexibility in choosing a markup language.
+   
 ## LIBRARY : BOKEH
 ![bokeh](https://github.com/addff/2310-ITT440/assets/149034575/f2358a42-da84-4290-b799-91585eb58a57)
 
