@@ -67,7 +67,7 @@ Bokeh is an open-source Python library for creating interactive and visually app
 
 
 ## EDITOR : THONNY
-![thonny](https://github.com/addff/2310-ITT440/assets/149034575/311b179c-ebb5-431a-a911-bcf31d7309e6)
+![thonny](https://github.com/addff/2310-ITT440/assets/149034575/091647c7-5cc6-46c7-bd48-7de26ec7f10e)
 
 **What is Thonny?**
 
