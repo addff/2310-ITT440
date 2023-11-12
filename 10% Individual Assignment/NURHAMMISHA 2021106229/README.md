@@ -20,6 +20,15 @@ Pelican is a static site generator written in Python. It allows you to create we
 3. **Simple Configuration**: Pelican uses a configuration file (usually named pelicanconf.py) to store settings for your site. This file allows you to control various aspects of your site's behavior, such as the theme, URLs, and metadata.
    
 4. **Markdown and reStructuredText Support**: Pelican supports content written in both Markdown and reStructuredText, providing flexibility in choosing a markup language.
+
+**Installation**
+1. Open a terminal or command prompt and run the following command to install Pelican using 'pip':
+ ![pip install pelican](https://github.com/addff/2310-ITT440/assets/149034575/34520c50-3414-48dc-bdac-b1ceb66b08a3)
+2. If you are using Python 3, you might need to use 'pip3' instead of 'pip'.
+![pip3](https://github.com/addff/2310-ITT440/assets/149034575/e3957b17-a91f-4d39-b2e2-2c04fc795e88)
+3. After the installation is complete, you can verify it by checking the installed version:
+![pelican version](https://github.com/addff/2310-ITT440/assets/149034575/a9ab1a60-8250-4996-9935-54b18e92b277)
+
    
 ## LIBRARY : BOKEH
 ![bokeh](https://github.com/addff/2310-ITT440/assets/149034575/f2358a42-da84-4290-b799-91585eb58a57)
