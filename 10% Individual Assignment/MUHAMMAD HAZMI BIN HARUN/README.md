@@ -2,7 +2,7 @@ ITT440
 Assessment 1 (10%): Individual Assignment
 
 
-###Editor/IDE: Gedit
+### Editor/IDE: Gedit
 Gedit, short for GNOME Text Editor, is a simple and lightweight text editor designed for the GNOME desktop environment.
 GNOME is a popular desktop environment used in various Linux distributions, and Gedit is the default text editor for GNOME.
 It was GNOME's default text editor and part of the GNOME Core Applications until GNOME version 42 in March 2022, which 
@@ -57,7 +57,7 @@ Here's how to get started:
 	
 	
 	
-###Framework: Telnetlib
+### Framework: Telnetlib
 
 Telnetlib is a Python module that provides a high-level interface for interacting with Telnet sessions over a network. 
 Telnet is a network protocol that allows users to access and manage remote systems or devices through a command-line 
@@ -152,7 +152,7 @@ network errors, login failures, or timeouts. You can use try-except blocks to ca
 
 
 
-###Library: Pulsar
+### Library: Pulsar
 The exact details and purpose of such a library or software would depend on the specific context and domain it is associated with. There are 
 numerous software projects and libraries with diverse functionalities, and it's important to provide more context to identify the specific 
 "Pulsar" library or software you are interested in. If you have a more specific question about a particular "Pulsar," please provide 
